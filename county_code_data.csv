@@ -1,0 +1,3206 @@
+State Code,State,County,Region,Division,lat,lng
+AK,Alaska,Bethel,West,Pacific,60.7287,-161.773
+AK,Alaska,Prince of Wales-Hyder,West,Pacific,55.5573,-132.4137
+AK,Alaska,Kusilvak,West,Pacific,62.0911,-163.7209
+AK,Alaska,Yukon-Koyukuk,West,Pacific,65.1746,-152.0684
+AK,Alaska,Kenai Peninsula,West,Pacific,60.4997,-149.4464
+AK,Alaska,Southeast Fairbanks,West,Pacific,63.8724,-145.2158
+AK,Alaska,Aleutians West,West,Pacific,52.2301,-174.2133
+AK,Alaska,Sitka,West,Pacific,57.2401,-135.3153
+AK,Alaska,Petersburg Borough,West,Pacific,56.7566,-132.8727
+AK,Alaska,Northwest Arctic,West,Pacific,66.9726,-160.4344
+AK,Alaska,Valdez-Cordova,West,Pacific,62.2152,-145.4449
+AK,Alaska,Nome,West,Pacific,65.3413,-166.4953
+AK,Alaska,Aleutians East,West,Pacific,54.8415,-163.348
+AK,Alaska,Wrangell,West,Pacific,56.3317,-132.0223
+AK,Alaska,Matanuska-Susitna,West,Pacific,61.3463,-150.0787
+AK,Alaska,Haines,West,Pacific,59.471,-136.1458
+AK,Alaska,North Slope,West,Pacific,68.15,-151.7162
+AK,Alaska,Lake and Peninsula,West,Pacific,59.7957,-154.8698
+AK,Alaska,Fairbanks North Star,West,Pacific,64.9061,-147.6957
+AK,Alaska,Denali,West,Pacific,63.5909,-148.7107
+AK,Alaska,Bristol Bay,West,Pacific,58.753,-156.5061
+AK,Alaska,Kodiak Island,West,Pacific,57.8754,-152.8745
+AK,Alaska,Hoonah-Angoon,West,Pacific,59.3987,-135.8886
+AK,Alaska,Dillingham,West,Pacific,58.9049,-157.6691
+AK,Alaska,Ketchikan Gateway,West,Pacific,55.3232,-131.5891
+AK,Alaska,Juneau,West,Pacific,58.4546,-134.1739
+AK,Alaska,Yakutat,West,Pacific,59.567,-139.5966
+AK,Alaska,Anchorage,West,Pacific,61.1508,-149.1091
+AK,Alaska,Skagway,West,Pacific,59.4566,-135.2927
+AL,Alabama,Madison,South,East South Central,34.8491,-86.5222
+AL,Alabama,Covington,South,East South Central,31.3006,-86.3975
+AL,Alabama,Clarke,South,East South Central,31.9111,-87.7419
+AL,Alabama,Blount,South,East South Central,33.8789,-86.8241
+AL,Alabama,Coosa,South,East South Central,32.9791,-86.0358
+AL,Alabama,Lawrence,South,East South Central,34.6718,-87.4063
+AL,Alabama,Etowah,South,East South Central,33.9446,-85.9319
+AL,Alabama,Talladega,South,East South Central,33.3891,-86.0361
+AL,Alabama,Houston,South,East South Central,31.1858,-85.2359
+AL,Alabama,Marion,South,East South Central,33.9443,-87.8704
+AL,Alabama,Calhoun,South,East South Central,33.5966,-85.869
+AL,Alabama,Jefferson,South,East South Central,33.544,-86.6599
+AL,Alabama,Elmore,South,East South Central,32.6314,-86.3268
+AL,Alabama,Tallapoosa,South,East South Central,33.0567,-85.9312
+AL,Alabama,Baldwin,South,East South Central,30.2758,-87.7014
+AL,Alabama,Tuscaloosa,South,East South Central,33.2302,-87.4827
+AL,Alabama,Clay,South,East South Central,33.3129,-85.7508
+AL,Alabama,Walker,South,East South Central,33.7503,-87.0483
+AL,Alabama,Dale,South,East South Central,31.2999,-85.4502
+AL,Alabama,Lee,South,East South Central,32.6049,-85.5948
+AL,Alabama,Pickens,South,East South Central,33.322,-87.904
+AL,Alabama,Jackson,South,East South Central,34.6438,-86.0491
+AL,Alabama,Barbour,South,East South Central,31.781,-85.5583
+AL,Alabama,Sumter,South,East South Central,32.5982,-88.1891
+AL,Alabama,Marshall,South,East South Central,34.5189,-86.2492
+AL,Alabama,Conecuh,South,East South Central,31.3001,-87.027
+AL,Alabama,Mobile,South,East South Central,30.2525,-88.1438
+AL,Alabama,Shelby,South,East South Central,33.2846,-86.8756
+AL,Alabama,Monroe,South,East South Central,31.3074,-87.4992
+AL,Alabama,Dallas,South,East South Central,32.4166,-87.0336
+AL,Alabama,Colbert,South,East South Central,34.7559,-87.7007
+AL,Alabama,Geneva,South,East South Central,31.0437,-85.8764
+AL,Alabama,Henry,South,East South Central,31.3501,-85.3523
+AL,Alabama,Coffee,South,East South Central,31.3276,-85.8459
+AL,Alabama,Fayette,South,East South Central,33.8922,-87.7328
+AL,Alabama,Lauderdale,South,East South Central,34.9652,-87.3735
+AL,Alabama,Chambers,South,East South Central,32.7876,-85.3057
+AL,Alabama,Randolph,South,East South Central,33.4198,-85.4903
+AL,Alabama,Washington,South,East South Central,31.2649,-88.0284
+AL,Alabama,St. Clair,South,East South Central,33.5609,-86.2668
+AL,Alabama,Lamar,South,East South Central,33.7589,-88.1144
+AL,Alabama,Limestone,South,East South Central,34.9847,-86.8373
+AL,Alabama,Lowndes,South,East South Central,32.1801,-86.6888
+AL,Alabama,Greene,South,East South Central,32.9938,-87.9071
+AL,Alabama,Winston,South,East South Central,34.1496,-87.4027
+AL,Alabama,Chilton,South,East South Central,32.917,-86.7203
+AL,Alabama,Bullock,South,East South Central,32.0764,-85.5244
+AL,Alabama,Bibb,South,East South Central,32.9597,-87.1334
+AL,Alabama,Montgomery,South,East South Central,32.3473,-86.2666
+AL,Alabama,Morgan,South,East South Central,34.4676,-86.7936
+AL,Alabama,Cullman,South,East South Central,34.0452,-86.8837
+AL,Alabama,Marengo,South,East South Central,32.498,-87.8298
+AL,Alabama,Escambia,South,East South Central,31.0127,-87.2541
+AL,Alabama,Butler,South,East South Central,31.5429,-86.7246
+AL,Alabama,Autauga,South,East South Central,32.6793,-86.4607
+AL,Alabama,Hale,South,East South Central,32.9968,-87.6272
+AL,Alabama,Choctaw,South,East South Central,31.7131,-88.2917
+AL,Alabama,Russell,South,East South Central,32.2401,-85.4147
+AL,Alabama,Macon,South,East South Central,32.4551,-85.8066
+AL,Alabama,Wilcox,South,East South Central,32.0701,-87.2914
+AL,Alabama,Crenshaw,South,East South Central,31.8495,-86.2057
+AL,Alabama,Cherokee,South,East South Central,34.1839,-85.775
+AL,Alabama,DeKalb,South,East South Central,34.4939,-85.8435
+AL,Alabama,Pike,South,East South Central,31.8021,-85.9665
+AL,Alabama,Cleburne,South,East South Central,33.7297,-85.4312
+AL,Alabama,Franklin,South,East South Central,34.5056,-87.7282
+AL,Alabama,Perry,South,East South Central,32.6318,-87.3172
+AR,Arkansas,Clay,South,West South Central,36.4365,-90.3907
+AR,Arkansas,Pulaski,South,West South Central,34.7926,-92.1959
+AR,Arkansas,Logan,South,West South Central,35.2899,-93.7236
+AR,Arkansas,Crittenden,South,West South Central,35.2267,-90.3241
+AR,Arkansas,Benton,South,West South Central,36.4291,-94.3713
+AR,Arkansas,Mississippi,South,West South Central,35.8592,-90.026
+AR,Arkansas,Boone,South,West South Central,36.4128,-92.9068
+AR,Arkansas,Washington,South,West South Central,36.1642,-94.2457
+AR,Arkansas,Columbia,South,West South Central,33.3528,-93.295
+AR,Arkansas,White,South,West South Central,35.277,-91.6411
+AR,Arkansas,Sharp,South,West South Central,36.2959,-91.5696
+AR,Arkansas,Cross,South,West South Central,35.402,-90.7545
+AR,Arkansas,Izard,South,West South Central,36.1612,-92.1065
+AR,Arkansas,Hot Spring,South,West South Central,34.2602,-92.961
+AR,Arkansas,Lee,South,West South Central,34.7737,-90.7674
+AR,Arkansas,Monroe,South,West South Central,34.8899,-91.1902
+AR,Arkansas,Sebastian,South,West South Central,35.3285,-94.2793
+AR,Arkansas,Nevada,South,West South Central,33.6278,-93.2348
+AR,Arkansas,Lonoke,South,West South Central,35.0129,-91.9571
+AR,Arkansas,Dallas,South,West South Central,33.9171,-92.85
+AR,Arkansas,Baxter,South,West South Central,36.2721,-92.2824
+AR,Arkansas,Franklin,South,West South Central,35.2954,-94.0463
+AR,Arkansas,Arkansas,South,West South Central,34.1192,-91.3789
+AR,Arkansas,Prairie,South,West South Central,34.9777,-91.5068
+AR,Arkansas,Hempstead,South,West South Central,33.5113,-93.5671
+AR,Arkansas,Pope,South,West South Central,35.328,-93.2417
+AR,Arkansas,Little River,South,West South Central,33.7388,-94.148
+AR,Arkansas,Jefferson,South,West South Central,34.4429,-92.1843
+AR,Arkansas,Van Buren,South,West South Central,35.3671,-92.4106
+AR,Arkansas,Desha,South,West South Central,33.6279,-91.3952
+AR,Arkansas,Cleburne,South,West South Central,35.5672,-92.1689
+AR,Arkansas,Drew,South,West South Central,33.6264,-91.9294
+AR,Arkansas,Craighead,South,West South Central,35.9116,-90.8011
+AR,Arkansas,Chicot,South,West South Central,33.3299,-91.2847
+AR,Arkansas,Cleveland,South,West South Central,33.7565,-92.2401
+AR,Arkansas,Sevier,South,West South Central,33.8335,-94.1177
+AR,Arkansas,Ouachita,South,West South Central,33.7518,-93.1009
+AR,Arkansas,Searcy,South,West South Central,36.029,-92.8078
+AR,Arkansas,Lincoln,South,West South Central,34.0789,-91.698
+AR,Arkansas,Yell,South,West South Central,35.053,-93.3902
+AR,Arkansas,Faulkner,South,West South Central,35.2289,-92.3836
+AR,Arkansas,Madison,South,West South Central,36.1458,-93.8627
+AR,Arkansas,Calhoun,South,West South Central,33.7756,-92.4889
+AR,Arkansas,Woodruff,South,West South Central,35.0058,-91.2521
+AR,Arkansas,Polk,South,West South Central,34.581,-94.2374
+AR,Arkansas,Carroll,South,West South Central,36.4966,-93.3977
+AR,Arkansas,Scott,South,West South Central,34.9004,-94.0941
+AR,Arkansas,Crawford,South,West South Central,35.6361,-94.1679
+AR,Arkansas,Lafayette,South,West South Central,33.3572,-93.4358
+AR,Arkansas,Johnson,South,West South Central,35.4569,-93.4803
+AR,Arkansas,Union,South,West South Central,33.1079,-92.3598
+AR,Arkansas,Independence,South,West South Central,35.7672,-91.5708
+AR,Arkansas,Conway,South,West South Central,35.1003,-92.7733
+AR,Arkansas,Grant,South,West South Central,34.2996,-92.4225
+AR,Arkansas,Clark,South,West South Central,34.0005,-93.3376
+AR,Arkansas,Phillips,South,West South Central,34.4212,-90.8133
+AR,Arkansas,Pike,South,West South Central,34.0299,-93.5057
+AR,Arkansas,Ashley,South,West South Central,33.1212,-91.5464
+AR,Arkansas,Randolph,South,West South Central,36.3609,-90.759
+AR,Arkansas,Bradley,South,West South Central,33.4472,-92.1714
+AR,Arkansas,Stone,South,West South Central,35.962,-92.2301
+AR,Arkansas,Lawrence,South,West South Central,36.0852,-90.9462
+AR,Arkansas,Howard,South,West South Central,33.8183,-93.8969
+AR,Arkansas,Saline,South,West South Central,34.5095,-92.6406
+AR,Arkansas,Jackson,South,West South Central,35.4481,-91.2315
+AR,Arkansas,Perry,South,West South Central,35.0399,-92.8991
+AR,Arkansas,Garland,South,West South Central,34.4269,-93.0887
+AR,Arkansas,Poinsett,South,West South Central,35.4868,-90.3559
+AR,Arkansas,St. Francis,South,West South Central,35.0788,-90.8136
+AR,Arkansas,Miller,South,West South Central,33.4361,-93.996
+AR,Arkansas,Greene,South,West South Central,36.2092,-90.5043
+AR,Arkansas,Montgomery,South,West South Central,34.4584,-93.6791
+AR,Arkansas,Marion,South,West South Central,36.2289,-92.686
+AR,Arkansas,Newton,South,West South Central,36.0102,-93.1862
+AR,Arkansas,Fulton,South,West South Central,36.3713,-91.8246
+AZ,Arizona,Gila,West,Mountain,34.3199,-111.3051
+AZ,Arizona,Apache,West,Mountain,36.9221,-109.0753
+AZ,Arizona,Mohave,West,Mountain,35.4227,-113.6486
+AZ,Arizona,Maricopa,West,Mountain,33.3858,-112.3236
+AZ,Arizona,Cochise,West,Mountain,31.6858,-109.6896
+AZ,Arizona,Navajo,West,Mountain,33.9965,-109.9593
+AZ,Arizona,Coconino,West,Mountain,36.592,-111.1071
+AZ,Arizona,Pinal,West,Mountain,33.1427,-111.7853
+AZ,Arizona,Yavapai,West,Mountain,35.2171,-112.4913
+AZ,Arizona,La Paz,West,Mountain,33.9921,-114.4046
+AZ,Arizona,Yuma,West,Mountain,32.6452,-114.7067
+AZ,Arizona,Pima,West,Mountain,32.0596,-111.2865
+AZ,Arizona,Graham,West,Mountain,32.8138,-109.6291
+AZ,Arizona,Santa Cruz,West,Mountain,31.6645,-110.6426
+AZ,Arizona,Greenlee,West,Mountain,33.0531,-109.3307
+CA,California,El Dorado,West,Pacific,38.675,-121.049
+CA,California,Tulare,West,Pacific,36.379,-119.0312
+CA,California,Marin,West,Pacific,38.2436,-122.956
+CA,California,Humboldt,West,Pacific,40.3987,-123.9474
+CA,California,Madera,West,Pacific,36.964,-120.0803
+CA,California,Mendocino,West,Pacific,39.4429,-123.3963
+CA,California,Sonoma,West,Pacific,38.7173,-122.9034
+CA,California,Merced,West,Pacific,37.4306,-120.7759
+CA,California,Orange,West,Pacific,33.8002,-117.9935
+CA,California,Lake,West,Pacific,38.8356,-122.723
+CA,California,Amador,West,Pacific,38.419,-120.8232
+CA,California,Solano,West,Pacific,38.1133,-122.2359
+CA,California,Santa Cruz,West,Pacific,37.0555,-122.0118
+CA,California,Mariposa,West,Pacific,37.4797,-119.6374
+CA,California,San Diego,West,Pacific,32.8439,-116.7585
+CA,California,Los Angeles,West,Pacific,33.9716,-117.8911
+CA,California,Placer,West,Pacific,39.2138,-120.8033
+CA,California,Nevada,West,Pacific,39.3718,-121.106
+CA,California,Kern,West,Pacific,35.6411,-118.4047
+CA,California,Imperial,West,Pacific,33.3548,-115.7306
+CA,California,Shasta,West,Pacific,40.8005,-121.9375
+CA,California,Yolo,West,Pacific,38.8926,-121.9741
+CA,California,San Mateo,West,Pacific,37.586,-122.3669
+CA,California,Plumas,West,Pacific,40.0059,-120.9525
+CA,California,San Joaquin,West,Pacific,38.1218,-121.2933
+CA,California,Ventura,West,Pacific,34.2819,-119.1452
+CA,California,Calaveras,West,Pacific,38.1939,-120.379
+CA,California,Monterey,West,Pacific,36.6247,-121.6465
+CA,California,Riverside,West,Pacific,33.9797,-116.9694
+CA,California,Santa Clara,West,Pacific,37.434,-121.8921
+CA,California,Butte,West,Pacific,39.4261,-121.3542
+CA,California,Modoc,West,Pacific,41.1964,-120.9494
+CA,California,San Luis Obispo,West,Pacific,35.7309,-120.8702
+CA,California,Sutter,West,Pacific,39.2788,-121.6624
+CA,California,Siskiyou,West,Pacific,41.6086,-122.8409
+CA,California,Sacramento,West,Pacific,38.574,-121.2523
+CA,California,Santa Barbara,West,Pacific,34.4382,-119.6286
+CA,California,San Bernardino,West,Pacific,34.0714,-117.6981
+CA,California,Colusa,West,Pacific,39.0742,-121.8988
+CA,California,Trinity,West,Pacific,40.561,-123.1299
+CA,California,Sierra,West,Pacific,39.574,-120.6297
+CA,California,Inyo,West,Pacific,37.4189,-118.5424
+CA,California,Stanislaus,West,Pacific,37.6374,-121.0028
+CA,California,Del Norte,West,Pacific,41.5322,-124.0063
+CA,California,Fresno,West,Pacific,36.5399,-119.845
+CA,California,Contra Costa,West,Pacific,37.9722,-122.0016
+CA,California,Tehama,West,Pacific,40.027,-122.0981
+CA,California,Tuolumne,West,Pacific,37.8703,-120.4443
+CA,California,Alameda,West,Pacific,37.6861,-121.7608
+CA,California,Yuba,West,Pacific,39.3204,-121.4038
+CA,California,Napa,West,Pacific,38.5063,-122.4682
+CA,California,Lassen,West,Pacific,40.1419,-120.1399
+CA,California,San Benito,West,Pacific,36.8457,-121.5384
+CA,California,Glenn,West,Pacific,39.5149,-122.1995
+CA,California,Alpine,West,Pacific,38.8103,-119.8033
+CA,California,Mono,West,Pacific,38.5834,-119.516
+CA,California,Kings,West,Pacific,36.303,-119.637
+CA,California,San Francisco,West,Pacific,37.7562,-122.443
+CO,Colorado,Conejos,West,Mountain,37.2574,-105.9007
+CO,Colorado,Adams,West,Mountain,39.7084,-104.7274
+CO,Colorado,Pueblo,West,Mountain,38.2351,-104.3434
+CO,Colorado,Rio Grande,West,Mountain,37.6877,-106.586
+CO,Colorado,Gunnison,West,Mountain,38.6086,-106.5164
+CO,Colorado,Chaffee,West,Mountain,38.5524,-106.0085
+CO,Colorado,Kit Carson,West,Mountain,39.3038,-102.4234
+CO,Colorado,Jefferson,West,Mountain,39.7406,-105.2118
+CO,Colorado,Teller,West,Mountain,38.945,-105.1619
+CO,Colorado,Mineral,West,Mountain,37.8488,-106.9252
+CO,Colorado,Phillips,West,Mountain,40.6831,-102.1725
+CO,Colorado,Boulder,West,Mountain,40.0726,-105.5136
+CO,Colorado,San Miguel,West,Mountain,38.1286,-108.2918
+CO,Colorado,Weld,West,Mountain,40.8691,-104.2259
+CO,Colorado,Otero,West,Mountain,38.0014,-103.5549
+CO,Colorado,Baca,West,Mountain,37.3861,-102.2801
+CO,Colorado,Elbert,West,Mountain,39.2189,-104.5403
+CO,Colorado,Bent,West,Mountain,38.1063,-102.956
+CO,Colorado,Denver,West,Mountain,39.7621,-104.8759
+CO,Colorado,El Paso,West,Mountain,39.0453,-104.8288
+CO,Colorado,Hinsdale,West,Mountain,38.0836,-107.0306
+CO,Colorado,Arapahoe,West,Mountain,39.5993,-105.035
+CO,Colorado,Routt,West,Mountain,40.2738,-106.9574
+CO,Colorado,Crowley,West,Mountain,38.2209,-103.7567
+CO,Colorado,Las Animas,West,Mountain,37.1225,-104.7396
+CO,Colorado,Mesa,West,Mountain,39.0877,-108.5673
+CO,Colorado,Kiowa,West,Mountain,38.4464,-102.4412
+CO,Colorado,Fremont,West,Mountain,38.362,-105.1417
+CO,Colorado,Park,West,Mountain,38.7591,-105.5024
+CO,Colorado,Montezuma,West,Mountain,37.5017,-108.66
+CO,Colorado,Logan,West,Mountain,40.6818,-102.8395
+CO,Colorado,Dolores,West,Mountain,37.6892,-108.0318
+CO,Colorado,Yuma,West,Mountain,39.7029,-102.2938
+CO,Colorado,Grand,West,Mountain,40.0565,-106.3782
+CO,Colorado,Summit,West,Mountain,39.5817,-105.8681
+CO,Colorado,Larimer,West,Mountain,40.8071,-105.5864
+CO,Colorado,Douglas,West,Mountain,39.5357,-104.8032
+CO,Colorado,Prowers,West,Mountain,38.074,-102.6155
+CO,Colorado,Saguache,West,Mountain,38.0862,-106.1407
+CO,Colorado,Eagle,West,Mountain,39.6386,-106.3608
+CO,Colorado,Clear Creek,West,Mountain,39.7241,-105.4306
+CO,Colorado,Moffat,West,Mountain,40.5191,-108.0889
+CO,Colorado,Alamosa,West,Mountain,37.4767,-105.8396
+CO,Colorado,Pitkin,West,Mountain,39.2203,-106.9393
+CO,Colorado,Garfield,West,Mountain,39.4667,-107.2599
+CO,Colorado,Huerfano,West,Mountain,37.6307,-104.7818
+CO,Colorado,Ouray,West,Mountain,38.0276,-107.6734
+CO,Colorado,Cheyenne,West,Mountain,38.7629,-102.7954
+CO,Colorado,Montrose,West,Mountain,38.6084,-107.9827
+CO,Colorado,Sedgwick,West,Mountain,40.9851,-102.2626
+CO,Colorado,La Plata,West,Mountain,37.0749,-107.5933
+CO,Colorado,Lincoln,West,Mountain,39.1361,-103.4735
+CO,Colorado,Washington,West,Mountain,40.1644,-103.2206
+CO,Colorado,Gilpin,West,Mountain,39.7963,-105.5151
+CO,Colorado,Morgan,West,Mountain,40.3134,-103.8023
+CO,Colorado,Jackson,West,Mountain,40.7315,-106.2813
+CO,Colorado,Delta,West,Mountain,38.7053,-107.61
+CO,Colorado,Costilla,West,Mountain,37.2086,-105.5667
+CO,Colorado,Custer,West,Mountain,38.134,-105.4654
+CO,Colorado,Rio Blanco,West,Mountain,40.0498,-107.8953
+CO,Colorado,Lake,West,Mountain,39.2467,-106.2935
+CO,Colorado,Broomfield,West,Mountain,39.9541,-105.0527
+CO,Colorado,Archuleta,West,Mountain,37.2675,-107.0301
+CO,Colorado,San Juan,West,Mountain,37.8111,-107.6646
+CT,Connecticut,Windham,Northeast,New England,41.9862,-71.9034
+CT,Connecticut,Hartford,Northeast,New England,41.5832,-72.8915
+CT,Connecticut,Fairfield,Northeast,New England,41.1144,-73.4215
+CT,Connecticut,Tolland,Northeast,New England,41.7736,-72.3287
+CT,Connecticut,New London,Northeast,New England,41.3502,-72.1023
+CT,Connecticut,Middlesex,Northeast,New England,41.3823,-72.4386
+CT,Connecticut,Litchfield,Northeast,New England,41.7457,-73.1893
+CT,Connecticut,New Haven,Northeast,New England,41.3265,-73.0833
+DC,District of Columbia,District of Columbia,South,South Atlantic,38.9047,-77.0163
+DE,Delaware,Sussex,South,South Atlantic,38.4603,-75.0542
+DE,Delaware,New Castle,South,South Atlantic,39.8056,-75.4862
+DE,Delaware,Kent,South,South Atlantic,38.8699,-75.579
+FL,Florida,Monroe,South,South Atlantic,25.2574,-80.3242
+FL,Florida,Gilchrist,South,South Atlantic,29.6092,-82.8146
+FL,Florida,Broward,South,South Atlantic,26.1593,-80.1395
+FL,Florida,Santa Rosa,South,South Atlantic,30.7826,-87.2309
+FL,Florida,Seminole,South,South Atlantic,28.7893,-81.276
+FL,Florida,Alachua,South,South Atlantic,29.506,-82.2806
+FL,Florida,Clay,South,South Atlantic,30.0472,-81.7855
+FL,Florida,Washington,South,South Atlantic,30.6332,-85.5874
+FL,Florida,Okaloosa,South,South Atlantic,30.4127,-86.6588
+FL,Florida,Hernando,South,South Atlantic,28.469,-82.5999
+FL,Florida,Miami-Dade,South,South Atlantic,25.8787,-80.125
+FL,Florida,St. Johns,South,South Atlantic,30.19,-81.3704
+FL,Florida,Brevard,South,South Atlantic,28.6928,-80.8468
+FL,Florida,Palm Beach,South,South Atlantic,26.6815,-80.1265
+FL,Florida,Orange,South,South Atlantic,28.4727,-81.4169
+FL,Florida,Pasco,South,South Atlantic,28.183,-82.1539
+FL,Florida,Hillsborough,South,South Atlantic,27.7065,-82.4209
+FL,Florida,Gadsden,South,South Atlantic,30.4992,-84.4582
+FL,Florida,Jackson,South,South Atlantic,30.7943,-85.226
+FL,Florida,Jefferson,South,South Atlantic,30.477,-83.7604
+FL,Florida,Pinellas,South,South Atlantic,27.9087,-82.7162
+FL,Florida,Suwannee,South,South Atlantic,30.2956,-82.9847
+FL,Florida,Indian River,South,South Atlantic,27.6378,-80.4855
+FL,Florida,Sarasota,South,South Atlantic,27.3328,-82.4616
+FL,Florida,Wakulla,South,South Atlantic,30.0282,-84.3936
+FL,Florida,Gulf,South,South Atlantic,30.1148,-85.1935
+FL,Florida,Martin,South,South Atlantic,27.2161,-80.24
+FL,Florida,Bay,South,South Atlantic,30.2549,-85.9511
+FL,Florida,Volusia,South,South Atlantic,28.8815,-81.324
+FL,Florida,Citrus,South,South Atlantic,28.8006,-82.3372
+FL,Florida,Escambia,South,South Atlantic,30.4158,-87.3028
+FL,Florida,Levy,South,South Atlantic,29.4479,-82.468
+FL,Florida,Collier,South,South Atlantic,26.0889,-81.7031
+FL,Florida,Sumter,South,South Atlantic,28.6335,-81.9986
+FL,Florida,Hendry,South,South Atlantic,26.7325,-80.9518
+FL,Florida,Osceola,South,South Atlantic,28.3349,-81.3539
+FL,Florida,Lake,South,South Atlantic,29.1635,-81.5349
+FL,Florida,Polk,South,South Atlantic,27.8868,-81.8213
+FL,Florida,Lee,South,South Atlantic,26.7123,-81.8684
+FL,Florida,Dixie,South,South Atlantic,29.4498,-83.2819
+FL,Florida,Holmes,South,South Atlantic,30.7234,-85.9374
+FL,Florida,St. Lucie,South,South Atlantic,27.4096,-80.3538
+FL,Florida,Putnam,South,South Atlantic,29.6502,-81.5998
+FL,Florida,Taylor,South,South Atlantic,29.6795,-83.3837
+FL,Florida,Charlotte,South,South Atlantic,26.9226,-82.3537
+FL,Florida,Marion,South,South Atlantic,29.4494,-82.2211
+FL,Florida,Flagler,South,South Atlantic,29.4198,-81.3235
+FL,Florida,Franklin,South,South Atlantic,29.652,-84.8881
+FL,Florida,Lafayette,South,South Atlantic,30.0511,-83.1768
+FL,Florida,Liberty,South,South Atlantic,30.3906,-84.9857
+FL,Florida,Okeechobee,South,South Atlantic,27.2172,-80.7927
+FL,Florida,Manatee,South,South Atlantic,27.5107,-82.7152
+FL,Florida,DeSoto,South,South Atlantic,27.2214,-81.8587
+FL,Florida,Walton,South,South Atlantic,30.9746,-86.3099
+FL,Florida,Nassau,South,South Atlantic,30.658,-81.4504
+FL,Florida,Hardee,South,South Atlantic,27.5469,-81.8103
+FL,Florida,Hamilton,South,South Atlantic,30.3317,-82.7562
+FL,Florida,Duval,South,South Atlantic,30.3165,-81.4118
+FL,Florida,Madison,South,South Atlantic,30.4716,-83.413
+FL,Florida,Union,South,South Atlantic,30.0638,-82.239
+FL,Florida,Highlands,South,South Atlantic,27.5908,-81.5081
+FL,Florida,Bradford,South,South Atlantic,29.9474,-82.1129
+FL,Florida,Glades,South,South Atlantic,26.8338,-81.0985
+FL,Florida,Columbia,South,South Atlantic,30.1855,-82.6026
+FL,Florida,Leon,South,South Atlantic,30.4551,-84.2527
+FL,Florida,Baker,South,South Atlantic,30.2752,-82.1603
+FL,Florida,Calhoun,South,South Atlantic,30.5722,-85.1264
+GA,Georgia,Dade,South,South Atlantic,34.8741,-85.5096
+GA,Georgia,Oglethorpe,South,South Atlantic,33.9103,-83.218
+GA,Georgia,Jackson,South,South Atlantic,34.0933,-83.7617
+GA,Georgia,Thomas,South,South Atlantic,30.8394,-83.9783
+GA,Georgia,Telfair,South,South Atlantic,32.0635,-82.8968
+GA,Georgia,Hart,South,South Atlantic,34.2859,-83.1097
+GA,Georgia,Chatham,South,South Atlantic,32.1043,-81.2568
+GA,Georgia,Burke,South,South Atlantic,33.0909,-82.0146
+GA,Georgia,Banks,South,South Atlantic,34.3095,-83.6381
+GA,Georgia,Gwinnett,South,South Atlantic,34.1354,-83.9763
+GA,Georgia,Barrow,South,South Atlantic,33.9917,-83.7218
+GA,Georgia,Catoosa,South,South Atlantic,34.9318,-85.246
+GA,Georgia,Liberty,South,South Atlantic,31.7715,-81.6216
+GA,Georgia,White,South,South Atlantic,34.6437,-83.7411
+GA,Georgia,Jefferson,South,South Atlantic,33.1934,-82.5287
+GA,Georgia,Clayton,South,South Atlantic,33.4773,-84.36
+GA,Georgia,Douglas,South,South Atlantic,33.7811,-84.6486
+GA,Georgia,Evans,South,South Atlantic,32.1613,-81.9093
+GA,Georgia,DeKalb,South,South Atlantic,33.8842,-84.3008
+GA,Georgia,Coweta,South,South Atlantic,33.326,-84.6371
+GA,Georgia,Coffee,South,South Atlantic,31.6248,-82.8877
+GA,Georgia,Colquitt,South,South Atlantic,31.0683,-83.6236
+GA,Georgia,Whitfield,South,South Atlantic,34.8497,-85.0395
+GA,Georgia,Warren,South,South Atlantic,33.4626,-82.7055
+GA,Georgia,Decatur,South,South Atlantic,30.8756,-84.4312
+GA,Georgia,Lincoln,South,South Atlantic,33.7931,-82.4776
+GA,Georgia,Rabun,South,South Atlantic,34.9196,-83.3854
+GA,Georgia,Wilkinson,South,South Atlantic,32.8866,-83.3349
+GA,Georgia,Emanuel,South,South Atlantic,32.5306,-82.592
+GA,Georgia,Chattooga,South,South Atlantic,34.4835,-85.4776
+GA,Georgia,Columbia,South,South Atlantic,33.4262,-82.3127
+GA,Georgia,Early,South,South Atlantic,31.2988,-84.717
+GA,Georgia,Bacon,South,South Atlantic,31.5441,-82.4145
+GA,Georgia,Wilkes,South,South Atlantic,33.8674,-82.742
+GA,Georgia,Toombs,South,South Atlantic,32.1713,-82.3298
+GA,Georgia,Atkinson,South,South Atlantic,31.3358,-83.0446
+GA,Georgia,Pike,South,South Atlantic,33.0918,-84.4385
+GA,Georgia,Newton,South,South Atlantic,33.5739,-83.894
+GA,Georgia,Jasper,South,South Atlantic,33.4007,-83.5884
+GA,Georgia,Taliaferro,South,South Atlantic,33.5601,-82.795
+GA,Georgia,Camden,South,South Atlantic,30.7985,-81.5628
+GA,Georgia,Carroll,South,South Atlantic,33.7305,-84.917
+GA,Georgia,Polk,South,South Atlantic,34.0225,-85.248
+GA,Georgia,Fulton,South,South Atlantic,33.6609,-84.4093
+GA,Georgia,Jenkins,South,South Atlantic,32.9149,-81.949
+GA,Georgia,Talbot,South,South Atlantic,32.5789,-84.5516
+GA,Georgia,Dodge,South,South Atlantic,32.1973,-83.1712
+GA,Georgia,Gilmer,South,South Atlantic,34.6911,-84.484
+GA,Georgia,Turner,South,South Atlantic,31.671,-83.6354
+GA,Georgia,Hall,South,South Atlantic,34.3956,-83.6655
+GA,Georgia,Wilcox,South,South Atlantic,32.1084,-83.5029
+GA,Georgia,Peach,South,South Atlantic,32.5522,-83.8817
+GA,Georgia,Bryan,South,South Atlantic,31.9012,-81.3126
+GA,Georgia,Washington,South,South Atlantic,32.9827,-82.8089
+GA,Georgia,Macon,South,South Atlantic,32.2997,-84.0246
+GA,Georgia,Habersham,South,South Atlantic,34.5648,-83.5424
+GA,Georgia,Dawson,South,South Atlantic,34.4362,-84.1252
+GA,Georgia,Montgomery,South,South Atlantic,32.1882,-82.5699
+GA,Georgia,Madison,South,South Atlantic,34.1727,-83.293
+GA,Georgia,Pierce,South,South Atlantic,31.4088,-82.1132
+GA,Georgia,Sumter,South,South Atlantic,32.0736,-84.2249
+GA,Georgia,Glascock,South,South Atlantic,33.1534,-82.625
+GA,Georgia,Cook,South,South Atlantic,31.0466,-83.3906
+GA,Georgia,Elbert,South,South Atlantic,34.2051,-83.0309
+GA,Georgia,Bulloch,South,South Atlantic,32.5383,-81.9297
+GA,Georgia,Floyd,South,South Atlantic,34.2662,-85.1862
+GA,Georgia,Baker,South,South Atlantic,31.3172,-84.3376
+GA,Georgia,Chattahoochee,South,South Atlantic,32.347,-84.787
+GA,Georgia,Treutlen,South,South Atlantic,32.3782,-82.5945
+GA,Georgia,Dooly,South,South Atlantic,32.1956,-83.7596
+GA,Georgia,Jeff Davis,South,South Atlantic,31.7221,-82.6967
+GA,Georgia,Cherokee,South,South Atlantic,34.1026,-84.5085
+GA,Georgia,Cobb,South,South Atlantic,33.866,-84.6839
+GA,Georgia,Wheeler,South,South Atlantic,32.1469,-82.7798
+GA,Georgia,Irwin,South,South Atlantic,31.5987,-83.2499
+GA,Georgia,Muscogee,South,South Atlantic,32.51,-84.8771
+GA,Georgia,Haralson,South,South Atlantic,33.7335,-85.2859
+GA,Georgia,Meriwether,South,South Atlantic,32.887,-84.6781
+GA,Georgia,Towns,South,South Atlantic,34.9789,-83.554
+GA,Georgia,Butts,South,South Atlantic,33.2524,-83.903
+GA,Georgia,Glynn,South,South Atlantic,31.145,-81.474
+GA,Georgia,Bartow,South,South Atlantic,34.3702,-84.9214
+GA,Georgia,Oconee,South,South Atlantic,33.9474,-83.5334
+GA,Georgia,Ware,South,South Atlantic,31.2406,-82.3411
+GA,Georgia,Ben Hill,South,South Atlantic,31.7135,-83.2515
+GA,Georgia,Tift,South,South Atlantic,31.3389,-83.5949
+GA,Georgia,Putnam,South,South Atlantic,33.2616,-83.2679
+GA,Georgia,Stewart,South,South Atlantic,32.0487,-84.798
+GA,Georgia,Grady,South,South Atlantic,30.8845,-84.3247
+GA,Georgia,Heard,South,South Atlantic,33.3689,-85.1037
+GA,Georgia,Laurens,South,South Atlantic,32.3835,-82.9917
+GA,Georgia,Walton,South,South Atlantic,33.7455,-83.8502
+GA,Georgia,Upson,South,South Atlantic,32.9369,-84.3405
+GA,Georgia,Bleckley,South,South Atlantic,32.3875,-83.3523
+GA,Georgia,Pickens,South,South Atlantic,34.5279,-84.4939
+GA,Georgia,Brooks,South,South Atlantic,30.9433,-83.5003
+GA,Georgia,Miller,South,South Atlantic,31.1017,-84.6848
+GA,Georgia,Gordon,South,South Atlantic,34.4379,-84.6999
+GA,Georgia,Crisp,South,South Atlantic,31.9563,-83.7695
+GA,Georgia,Wayne,South,South Atlantic,31.6666,-82.0269
+GA,Georgia,Morgan,South,South Atlantic,33.7378,-83.5149
+GA,Georgia,Fannin,South,South Atlantic,34.8749,-84.2442
+GA,Georgia,Randolph,South,South Atlantic,31.6717,-84.8903
+GA,Georgia,Effingham,South,South Atlantic,32.3641,-81.3078
+GA,Georgia,Lee,South,South Atlantic,31.7325,-84.1687
+GA,Georgia,Worth,South,South Atlantic,31.5103,-83.7368
+GA,Georgia,McDuffie,South,South Atlantic,33.4666,-82.4992
+GA,Georgia,Tattnall,South,South Atlantic,32.2806,-82.1387
+GA,Georgia,Baldwin,South,South Atlantic,33.0523,-83.244
+GA,Georgia,Harris,South,South Atlantic,32.7647,-84.8752
+GA,Georgia,Charlton,South,South Atlantic,30.8392,-82.0073
+GA,Georgia,Greene,South,South Atlantic,33.6177,-83.0756
+GA,Georgia,Clinch,South,South Atlantic,30.6881,-82.5721
+GA,Georgia,Fayette,South,South Atlantic,33.2925,-84.4588
+GA,Georgia,Bibb,South,South Atlantic,32.8065,-83.6974
+GA,Georgia,Brantley,South,South Atlantic,31.2065,-81.9814
+GA,Georgia,Berrien,South,South Atlantic,31.0729,-83.196
+GA,Georgia,Lowndes,South,South Atlantic,30.9941,-83.3787
+GA,Georgia,Terrell,South,South Atlantic,31.7199,-84.3477
+GA,Georgia,Mitchell,South,South Atlantic,31.3804,-84.1592
+GA,Georgia,Walker,South,South Atlantic,34.9296,-85.294
+GA,Georgia,Troup,South,South Atlantic,33.1674,-84.9027
+GA,Georgia,Lumpkin,South,South Atlantic,34.5302,-83.9796
+GA,Georgia,Crawford,South,South Atlantic,32.7232,-83.996
+GA,Georgia,Screven,South,South Atlantic,32.5214,-81.5331
+GA,Georgia,Rockdale,South,South Atlantic,33.6645,-83.9967
+GA,Georgia,Dougherty,South,South Atlantic,31.4756,-84.101
+GA,Georgia,Union,South,South Atlantic,34.8761,-83.9548
+GA,Georgia,Paulding,South,South Atlantic,33.8771,-84.771
+GA,Georgia,Houston,South,South Atlantic,32.6341,-83.6854
+GA,Georgia,Marion,South,South Atlantic,32.3188,-84.5177
+GA,Georgia,Appling,South,South Atlantic,31.7642,-82.3508
+GA,Georgia,Taylor,South,South Atlantic,32.5982,-84.3786
+GA,Georgia,Spalding,South,South Atlantic,33.2418,-84.2747
+GA,Georgia,Henry,South,South Atlantic,33.4399,-84.1508
+GA,Georgia,Seminole,South,South Atlantic,31.0404,-84.8792
+GA,Georgia,Franklin,South,South Atlantic,34.4953,-83.0975
+GA,Georgia,Calhoun,South,South Atlantic,31.4847,-84.5133
+GA,Georgia,Murray,South,South Atlantic,34.8282,-84.7657
+GA,Georgia,Lamar,South,South Atlantic,33.0508,-84.1527
+GA,Georgia,Twiggs,South,South Atlantic,32.606,-83.246
+GA,Georgia,Clarke,South,South Atlantic,33.9666,-83.2815
+GA,Georgia,McIntosh,South,South Atlantic,31.3568,-81.4315
+GA,Georgia,Clay,South,South Atlantic,31.5198,-84.8691
+GA,Georgia,Monroe,South,South Atlantic,33.0347,-83.938
+GA,Georgia,Forsyth,South,South Atlantic,34.2064,-84.1337
+GA,Georgia,Hancock,South,South Atlantic,33.2767,-82.9704
+GA,Georgia,Richmond,South,South Atlantic,33.2906,-82.0994
+GA,Georgia,Long,South,South Atlantic,31.7096,-81.7457
+GA,Georgia,Stephens,South,South Atlantic,34.5027,-83.1967
+GA,Georgia,Johnson,South,South Atlantic,32.7265,-82.7197
+GA,Georgia,Pulaski,South,South Atlantic,32.2964,-83.4814
+GA,Georgia,Candler,South,South Atlantic,32.3958,-82.0621
+GA,Georgia,Jones,South,South Atlantic,33.002,-83.5374
+GA,Georgia,Schley,South,South Atlantic,32.238,-84.3089
+GA,Georgia,Lanier,South,South Atlantic,31.041,-83.0748
+HI,Hawaii,Hawaii,West,Pacific,20.0397,-155.3696
+HI,Hawaii,Kauai,West,Pacific,22.2186,-159.561
+HI,Hawaii,Maui,West,Pacific,21.0704,-156.8355
+HI,Hawaii,Honolulu,West,Pacific,21.4921,-157.8721
+IA,Iowa,Carroll,Midwest,West North Central,42.1225,-94.7837
+IA,Iowa,Buena Vista,Midwest,West North Central,42.8916,-95.1488
+IA,Iowa,Floyd,Midwest,West North Central,42.9648,-92.8683
+IA,Iowa,Clay,Midwest,West North Central,43.0167,-95.0367
+IA,Iowa,Washington,Midwest,West North Central,41.2139,-91.5367
+IA,Iowa,Linn,Midwest,West North Central,42.1494,-91.6209
+IA,Iowa,Webster,Midwest,West North Central,42.3616,-94.2955
+IA,Iowa,Montgomery,Midwest,West North Central,40.981,-95.1029
+IA,Iowa,Buchanan,Midwest,West North Central,42.6201,-91.7295
+IA,Iowa,Calhoun,Midwest,West North Central,42.4561,-94.4559
+IA,Iowa,Kossuth,Midwest,West North Central,43.0749,-94.0892
+IA,Iowa,Madison,Midwest,West North Central,41.227,-93.9295
+IA,Iowa,Guthrie,Midwest,West North Central,41.8452,-94.307
+IA,Iowa,O'Brien,Midwest,West North Central,43.1814,-95.6553
+IA,Iowa,Cherokee,Midwest,West North Central,42.5756,-95.7202
+IA,Iowa,Hancock,Midwest,West North Central,43.1864,-93.6076
+IA,Iowa,Palo Alto,Midwest,West North Central,43.0266,-94.5272
+IA,Iowa,Wapello,Midwest,West North Central,40.9176,-92.2177
+IA,Iowa,Ringgold,Midwest,West North Central,40.7141,-94.2376
+IA,Iowa,Osceola,Midwest,West North Central,43.2863,-95.6087
+IA,Iowa,Sioux,Midwest,West North Central,42.9749,-96.3216
+IA,Iowa,Shelby,Midwest,West North Central,41.7263,-95.4754
+IA,Iowa,Henry,Midwest,West North Central,40.9232,-91.401
+IA,Iowa,Clayton,Midwest,West North Central,42.9269,-91.3879
+IA,Iowa,Winneshiek,Midwest,West North Central,43.1014,-92.0463
+IA,Iowa,Boone,Midwest,West North Central,41.9669,-93.8176
+IA,Iowa,Mitchell,Midwest,West North Central,43.4391,-92.784
+IA,Iowa,Pottawattamie,Midwest,West North Central,41.4516,-95.6175
+IA,Iowa,Mills,Midwest,West North Central,41.018,-95.7995
+IA,Iowa,Marion,Midwest,West North Central,41.2057,-92.8843
+IA,Iowa,Monona,Midwest,West North Central,42.0208,-95.966
+IA,Iowa,Cass,Midwest,West North Central,41.2343,-95.1392
+IA,Iowa,Black Hawk,Midwest,West North Central,42.492,-92.3522
+IA,Iowa,Dickinson,Midwest,West North Central,43.3742,-95.1744
+IA,Iowa,Hamilton,Midwest,West North Central,42.3898,-93.728
+IA,Iowa,Woodbury,Midwest,West North Central,42.3975,-96.3516
+IA,Iowa,Lee,Midwest,West North Central,40.7679,-91.5165
+IA,Iowa,Polk,Midwest,West North Central,41.6776,-93.7946
+IA,Iowa,Cedar,Midwest,West North Central,41.7399,-90.9738
+IA,Iowa,Van Buren,Midwest,West North Central,40.7011,-91.8005
+IA,Iowa,Jasper,Midwest,West North Central,41.7008,-93.0794
+IA,Iowa,Keokuk,Midwest,West North Central,41.3651,-91.9533
+IA,Iowa,Butler,Midwest,West North Central,42.7518,-92.7957
+IA,Iowa,Clarke,Midwest,West North Central,41.0413,-93.9489
+IA,Iowa,Muscatine,Midwest,West North Central,41.5898,-91.0271
+IA,Iowa,Dallas,Midwest,West North Central,41.5905,-94.1963
+IA,Iowa,Bremer,Midwest,West North Central,42.669,-92.3342
+IA,Iowa,Lucas,Midwest,West North Central,41.0176,-93.3095
+IA,Iowa,Franklin,Midwest,West North Central,42.7578,-93.1041
+IA,Iowa,Benton,Midwest,West North Central,41.9054,-92.1804
+IA,Iowa,Harrison,Midwest,West North Central,41.8082,-96.0274
+IA,Iowa,Dubuque,Midwest,West North Central,42.4477,-90.8448
+IA,Iowa,Decatur,Midwest,West North Central,40.8784,-93.5924
+IA,Iowa,Clinton,Midwest,West North Central,41.8227,-90.5448
+IA,Iowa,Appanoose,Midwest,West North Central,40.8017,-92.8871
+IA,Iowa,Marshall,Midwest,West North Central,42.0067,-92.7749
+IA,Iowa,Scott,Midwest,West North Central,41.6915,-90.6746
+IA,Iowa,Louisa,Midwest,West North Central,41.1772,-91.1881
+IA,Iowa,Lyon,Midwest,West North Central,43.3093,-96.4351
+IA,Iowa,Crawford,Midwest,West North Central,42.0757,-95.1013
+IA,Iowa,Mahaska,Midwest,West North Central,41.2855,-92.5371
+IA,Iowa,Howard,Midwest,West North Central,43.2459,-92.4393
+IA,Iowa,Jefferson,Midwest,West North Central,41.0543,-92.0138
+IA,Iowa,Des Moines,Midwest,West North Central,40.86,-91.3146
+IA,Iowa,Story,Midwest,West North Central,42.1073,-93.6462
+IA,Iowa,Greene,Midwest,West North Central,42.033,-94.237
+IA,Iowa,Humboldt,Midwest,West North Central,42.868,-94.184
+IA,Iowa,Cerro Gordo,Midwest,West North Central,42.9442,-93.3871
+IA,Iowa,Page,Midwest,West North Central,40.6561,-95.2349
+IA,Iowa,Jackson,Midwest,West North Central,42.3624,-90.5422
+IA,Iowa,Worth,Midwest,West North Central,43.3534,-93.2106
+IA,Iowa,Allamakee,Midwest,West North Central,43.2084,-91.296
+IA,Iowa,Adair,Midwest,West North Central,41.29,-94.5601
+IA,Iowa,Iowa,Midwest,West North Central,41.7557,-92.1859
+IA,Iowa,Union,Midwest,West North Central,40.948,-94.2192
+IA,Iowa,Poweshiek,Midwest,West North Central,41.5833,-92.5274
+IA,Iowa,Jones,Midwest,West North Central,42.1141,-91.0903
+IA,Iowa,Sac,Midwest,West North Central,42.3118,-95.2542
+IA,Iowa,Adams,Midwest,West North Central,41.0497,-94.824
+IA,Iowa,Hardin,Midwest,West North Central,42.2435,-93.0625
+IA,Iowa,Fayette,Midwest,West North Central,42.8636,-91.8864
+IA,Iowa,Ida,Midwest,West North Central,42.3439,-95.4732
+IA,Iowa,Grundy,Midwest,West North Central,42.4338,-92.9265
+IA,Iowa,Pocahontas,Midwest,West North Central,42.8767,-94.6222
+IA,Iowa,Johnson,Midwest,West North Central,41.7067,-91.6582
+IA,Iowa,Audubon,Midwest,West North Central,41.592,-94.8811
+IA,Iowa,Emmet,Midwest,West North Central,43.3998,-94.8343
+IA,Iowa,Warren,Midwest,West North Central,41.3709,-93.3862
+IA,Iowa,Wayne,Midwest,West North Central,40.7077,-93.3689
+IA,Iowa,Wright,Midwest,West North Central,42.6593,-93.5012
+IA,Iowa,Fremont,Midwest,West North Central,40.7982,-95.6085
+IA,Iowa,Delaware,Midwest,West North Central,42.4798,-91.5915
+IA,Iowa,Tama,Midwest,West North Central,41.9648,-92.5746
+IA,Iowa,Plymouth,Midwest,West North Central,42.811,-96.2666
+IA,Iowa,Winnebago,Midwest,West North Central,43.4711,-93.6168
+IA,Iowa,Taylor,Midwest,West North Central,40.7324,-94.9005
+IA,Iowa,Chickasaw,Midwest,West North Central,43.1173,-92.4155
+IA,Iowa,Monroe,Midwest,West North Central,40.979,-93.0508
+IA,Iowa,Davis,Midwest,West North Central,40.7984,-92.4815
+ID,Idaho,Cassia,West,Mountain,42.4097,-113.5805
+ID,Idaho,Bingham,West,Mountain,43.2235,-112.3755
+ID,Idaho,Bonner,West,Mountain,48.3091,-116.539
+ID,Idaho,Caribou,West,Mountain,42.659,-111.5877
+ID,Idaho,Jerome,West,Mountain,42.7183,-114.5159
+ID,Idaho,Bear Lake,West,Mountain,42.2273,-111.4032
+ID,Idaho,Latah,West,Mountain,46.9282,-116.8896
+ID,Idaho,Fremont,West,Mountain,43.8872,-111.6724
+ID,Idaho,Bannock,West,Mountain,42.6504,-112.1901
+ID,Idaho,Clearwater,West,Mountain,46.4866,-116.2568
+ID,Idaho,Kootenai,West,Mountain,47.6726,-116.7472
+ID,Idaho,Benewah,West,Mountain,47.3301,-116.8849
+ID,Idaho,Ada,West,Mountain,43.7223,-116.3861
+ID,Idaho,Minidoka,West,Mountain,42.7539,-113.4901
+ID,Idaho,Idaho,West,Mountain,46.0509,-116.3498
+ID,Idaho,Owyhee,West,Mountain,42.984,-116.0918
+ID,Idaho,Boise,West,Mountain,44.116,-115.9728
+ID,Idaho,Camas,West,Mountain,43.3489,-114.8006
+ID,Idaho,Boundary,West,Mountain,48.7247,-116.1954
+ID,Idaho,Lemhi,West,Mountain,44.6801,-113.3593
+ID,Idaho,Teton,West,Mountain,43.7294,-111.103
+ID,Idaho,Franklin,West,Mountain,42.0124,-111.8036
+ID,Idaho,Canyon,West,Mountain,43.7864,-116.9429
+ID,Idaho,Elmore,West,Mountain,42.9502,-115.307
+ID,Idaho,Payette,West,Mountain,43.9705,-116.8187
+ID,Idaho,Twin Falls,West,Mountain,42.5313,-114.3012
+ID,Idaho,Custer,West,Mountain,43.912,-113.6128
+ID,Idaho,Bonneville,West,Mountain,43.5258,-111.9308
+ID,Idaho,Adams,West,Mountain,44.7329,-116.4376
+ID,Idaho,Lincoln,West,Mountain,42.9127,-114.2663
+ID,Idaho,Blaine,West,Mountain,43.5141,-114.3
+ID,Idaho,Butte,West,Mountain,43.6316,-113.3017
+ID,Idaho,Valley,West,Mountain,44.5086,-116.0425
+ID,Idaho,Oneida,West,Mountain,42.1903,-112.25
+ID,Idaho,Shoshone,West,Mountain,47.4736,-115.9227
+ID,Idaho,Lewis,West,Mountain,46.3229,-116.5429
+ID,Idaho,Jefferson,West,Mountain,43.9219,-112.2027
+ID,Idaho,Nez Perce,West,Mountain,46.3934,-116.9934
+ID,Idaho,Washington,West,Mountain,44.4618,-116.7435
+ID,Idaho,Gooding,West,Mountain,42.7745,-114.7025
+ID,Idaho,Gem,West,Mountain,43.8685,-116.489
+ID,Idaho,Power,West,Mountain,42.8847,-112.5942
+ID,Idaho,Madison,West,Mountain,43.8222,-111.7924
+ID,Idaho,Clark,West,Mountain,44.3769,-112.1897
+IL,Illinois,Clinton,Midwest,East North Central,38.607,-89.6844
+IL,Illinois,Livingston,Midwest,East North Central,40.6537,-88.3999
+IL,Illinois,Vermilion,Midwest,East North Central,40.0941,-87.6398
+IL,Illinois,Jefferson,Midwest,East North Central,38.3256,-88.7366
+IL,Illinois,Macoupin,Midwest,East North Central,39.1258,-89.8173
+IL,Illinois,Crawford,Midwest,East North Central,39.1689,-87.673
+IL,Illinois,Marshall,Midwest,East North Central,41.0486,-89.0522
+IL,Illinois,Edgar,Midwest,East North Central,39.6148,-87.6905
+IL,Illinois,Franklin,Midwest,East North Central,37.9721,-89.1111
+IL,Illinois,Fayette,Midwest,East North Central,38.8676,-88.8505
+IL,Illinois,Kane,Midwest,East North Central,41.7637,-88.2901
+IL,Illinois,Cook,Midwest,East North Central,42.1347,-87.7641
+IL,Illinois,McLean,Midwest,East North Central,40.4857,-89.0993
+IL,Illinois,Tazewell,Midwest,East North Central,40.534,-89.3556
+IL,Illinois,Mercer,Midwest,East North Central,41.0904,-90.4748
+IL,Illinois,Edwards,Midwest,East North Central,38.4449,-87.9975
+IL,Illinois,Coles,Midwest,East North Central,39.4774,-88.3627
+IL,Illinois,St. Clair,Midwest,East North Central,38.3188,-89.8743
+IL,Illinois,Will,Midwest,East North Central,41.4399,-87.6231
+IL,Illinois,Ford,Midwest,East North Central,40.5709,-88.2471
+IL,Illinois,Peoria,Midwest,East North Central,40.935,-89.7547
+IL,Illinois,Bond,Midwest,East North Central,39.029,-89.5247
+IL,Illinois,Adams,Midwest,East North Central,39.8842,-91.1084
+IL,Illinois,Bureau,Midwest,East North Central,41.3573,-89.7372
+IL,Illinois,Jo Daviess,Midwest,East North Central,42.4302,-90.1642
+IL,Illinois,Iroquois,Midwest,East North Central,40.5162,-88.0759
+IL,Illinois,Winnebago,Midwest,East North Central,42.45,-89.0631
+IL,Illinois,Union,Midwest,East North Central,37.3599,-89.1654
+IL,Illinois,Christian,Midwest,East North Central,39.5919,-89.4258
+IL,Illinois,McHenry,Midwest,East North Central,42.4028,-88.2117
+IL,Illinois,Kankakee,Midwest,East North Central,41.145,-88.0539
+IL,Illinois,Lake,Midwest,East North Central,42.379,-88.0811
+IL,Illinois,Pope,Midwest,East North Central,37.5005,-88.5847
+IL,Illinois,Madison,Midwest,East North Central,38.7631,-90.0816
+IL,Illinois,Scott,Midwest,East North Central,39.7191,-90.4961
+IL,Illinois,Shelby,Midwest,East North Central,39.6265,-89.0189
+IL,Illinois,Johnson,Midwest,East North Central,37.4715,-88.9746
+IL,Illinois,Sangamon,Midwest,East North Central,39.7577,-89.9026
+IL,Illinois,DuPage,Midwest,East North Central,41.7635,-87.9456
+IL,Illinois,LaSalle,Midwest,East North Central,41.1242,-88.8295
+IL,Illinois,Monroe,Midwest,East North Central,38.3402,-90.1538
+IL,Illinois,Clay,Midwest,East North Central,38.6688,-88.4758
+IL,Illinois,Knox,Midwest,East North Central,41.1093,-90.3988
+IL,Illinois,Marion,Midwest,East North Central,38.5224,-89.1233
+IL,Illinois,Williamson,Midwest,East North Central,37.8611,-88.9993
+IL,Illinois,Morgan,Midwest,East North Central,39.5925,-89.9528
+IL,Illinois,Henry,Midwest,East North Central,41.3515,-90.3767
+IL,Illinois,Lee,Midwest,East North Central,41.729,-89.3679
+IL,Illinois,Jasper,Midwest,East North Central,39.1043,-88.1499
+IL,Illinois,Putnam,Midwest,East North Central,41.2637,-89.23
+IL,Illinois,Stephenson,Midwest,East North Central,42.4929,-89.7949
+IL,Illinois,Montgomery,Midwest,East North Central,39.167,-89.4735
+IL,Illinois,Saline,Midwest,East North Central,37.8262,-88.5304
+IL,Illinois,Hancock,Midwest,East North Central,40.5457,-91.3829
+IL,Illinois,White,Midwest,East North Central,37.9789,-88.3279
+IL,Illinois,Jersey,Midwest,East North Central,39.1546,-90.1642
+IL,Illinois,Clark,Midwest,East North Central,39.215,-87.6657
+IL,Illinois,Champaign,Midwest,East North Central,40.3031,-88.1549
+IL,Illinois,Warren,Midwest,East North Central,41.0629,-90.5555
+IL,Illinois,Effingham,Midwest,East North Central,38.9537,-88.6259
+IL,Illinois,De Witt,Midwest,East North Central,40.2218,-88.9612
+IL,Illinois,Fulton,Midwest,East North Central,40.4744,-90.2949
+IL,Illinois,Whiteside,Midwest,East North Central,41.7173,-89.9238
+IL,Illinois,Piatt,Midwest,East North Central,39.9229,-88.5724
+IL,Illinois,Ogle,Midwest,East North Central,42.1236,-89.404
+IL,Illinois,Perry,Midwest,East North Central,38.0333,-89.24
+IL,Illinois,Boone,Midwest,East North Central,42.3524,-88.8693
+IL,Illinois,Rock Island,Midwest,East North Central,41.4416,-90.4464
+IL,Illinois,Moultrie,Midwest,East North Central,39.6441,-88.7412
+IL,Illinois,Stark,Midwest,East North Central,41.1773,-89.6582
+IL,Illinois,Schuyler,Midwest,East North Central,40.1199,-90.5666
+IL,Illinois,Randolph,Midwest,East North Central,38.2096,-89.9998
+IL,Illinois,Macon,Midwest,East North Central,39.7117,-88.9965
+IL,Illinois,Alexander,Midwest,East North Central,37.2416,-89.2714
+IL,Illinois,DeKalb,Midwest,East North Central,41.7683,-88.7659
+IL,Illinois,Kendall,Midwest,East North Central,41.6561,-88.4508
+IL,Illinois,Wayne,Midwest,East North Central,38.5208,-88.5382
+IL,Illinois,Greene,Midwest,East North Central,39.2693,-90.2066
+IL,Illinois,Grundy,Midwest,East North Central,41.2763,-88.2805
+IL,Illinois,Washington,Midwest,East North Central,38.2214,-89.2127
+IL,Illinois,Carroll,Midwest,East North Central,42.0904,-90.1396
+IL,Illinois,Menard,Midwest,East North Central,40.085,-89.7407
+IL,Illinois,Woodford,Midwest,East North Central,40.7406,-89.0181
+IL,Illinois,Calhoun,Midwest,East North Central,39.2971,-90.6127
+IL,Illinois,Pulaski,Midwest,East North Central,37.1145,-89.2024
+IL,Illinois,Gallatin,Midwest,East North Central,37.9025,-88.1279
+IL,Illinois,Mason,Midwest,East North Central,40.1906,-90.1425
+IL,Illinois,Jackson,Midwest,East North Central,37.9013,-89.3398
+IL,Illinois,Logan,Midwest,East North Central,40.0669,-89.4429
+IL,Illinois,Hardin,Midwest,East North Central,37.4239,-88.3501
+IL,Illinois,Henderson,Midwest,East North Central,40.8539,-90.8621
+IL,Illinois,Pike,Midwest,East North Central,39.5612,-90.7234
+IL,Illinois,Douglas,Midwest,East North Central,39.8644,-88.16
+IL,Illinois,Lawrence,Midwest,East North Central,38.7197,-87.8726
+IL,Illinois,Massac,Midwest,East North Central,37.1258,-88.6279
+IL,Illinois,Cumberland,Midwest,East North Central,39.3215,-88.4504
+IL,Illinois,Richland,Midwest,East North Central,38.6974,-88.2234
+IL,Illinois,Cass,Midwest,East North Central,39.9525,-90.2107
+IL,Illinois,McDonough,Midwest,East North Central,40.3269,-90.6082
+IL,Illinois,Hamilton,Midwest,East North Central,38.0902,-88.5386
+IL,Illinois,Wabash,Midwest,East North Central,38.5276,-87.7103
+IL,Illinois,Brown,Midwest,East North Central,39.9854,-90.7641
+IN,Indiana,Montgomery,Midwest,East North Central,40.0428,-86.8975
+IN,Indiana,Jefferson,Midwest,East North Central,38.7369,-85.5387
+IN,Indiana,Dearborn,Midwest,East North Central,39.0676,-84.9053
+IN,Indiana,Jasper,Midwest,East North Central,40.9059,-87.1612
+IN,Indiana,DeKalb,Midwest,East North Central,41.3147,-84.9012
+IN,Indiana,Vigo,Midwest,East North Central,39.4936,-87.2667
+IN,Indiana,Marion,Midwest,East North Central,39.8325,-86.2002
+IN,Indiana,Union,Midwest,East North Central,39.6349,-84.926
+IN,Indiana,Posey,Midwest,East North Central,38.2042,-87.9151
+IN,Indiana,Elkhart,Midwest,East North Central,41.5336,-86.0138
+IN,Indiana,Wayne,Midwest,East North Central,39.9447,-84.8308
+IN,Indiana,Wabash,Midwest,East North Central,40.9807,-85.8393
+IN,Indiana,Daviess,Midwest,East North Central,38.6679,-86.9974
+IN,Indiana,Spencer,Midwest,East North Central,38.1692,-86.8257
+IN,Indiana,LaPorte,Midwest,East North Central,41.7563,-86.8181
+IN,Indiana,Marshall,Midwest,East North Central,41.2159,-86.4236
+IN,Indiana,Noble,Midwest,East North Central,41.5256,-85.3667
+IN,Indiana,Carroll,Midwest,East North Central,40.5452,-86.5242
+IN,Indiana,Henry,Midwest,East North Central,39.9973,-85.2512
+IN,Indiana,Decatur,Midwest,East North Central,39.4279,-85.6286
+IN,Indiana,Hamilton,Midwest,East North Central,39.9658,-86.1461
+IN,Indiana,Washington,Midwest,East North Central,38.5549,-86.2778
+IN,Indiana,Franklin,Midwest,East North Central,39.4233,-85.0114
+IN,Indiana,Miami,Midwest,East North Central,40.602,-85.9275
+IN,Indiana,Lake,Midwest,East North Central,41.443,-87.4702
+IN,Indiana,Hendricks,Midwest,East North Central,39.8329,-86.3824
+IN,Indiana,Allen,Midwest,East North Central,41.1966,-84.9245
+IN,Indiana,Pike,Midwest,East North Central,38.3827,-87.2129
+IN,Indiana,Fountain,Midwest,East North Central,40.1089,-87.1577
+IN,Indiana,Ripley,Midwest,East North Central,39.2373,-85.0931
+IN,Indiana,Harrison,Midwest,East North Central,38.124,-85.9736
+IN,Indiana,Scott,Midwest,East North Central,38.6854,-85.7831
+IN,Indiana,Grant,Midwest,East North Central,40.6126,-85.5592
+IN,Indiana,Whitley,Midwest,East North Central,41.2308,-85.3201
+IN,Indiana,Parke,Midwest,East North Central,39.7665,-87.2295
+IN,Indiana,Steuben,Midwest,East North Central,41.6432,-85.005
+IN,Indiana,Martin,Midwest,East North Central,38.7221,-86.8002
+IN,Indiana,Wells,Midwest,East North Central,40.6568,-85.2225
+IN,Indiana,Madison,Midwest,East North Central,40.2743,-85.8371
+IN,Indiana,Floyd,Midwest,East North Central,38.3513,-85.9372
+IN,Indiana,Ohio,Midwest,East North Central,38.9531,-84.8546
+IN,Indiana,Pulaski,Midwest,East North Central,41.0535,-86.6037
+IN,Indiana,Putnam,Midwest,East North Central,39.5211,-86.7995
+IN,Indiana,Adams,Midwest,East North Central,40.5975,-84.9569
+IN,Indiana,Hancock,Midwest,East North Central,39.8857,-85.6086
+IN,Indiana,Morgan,Midwest,East North Central,39.5337,-86.3778
+IN,Indiana,Rush,Midwest,East North Central,39.4981,-85.4676
+IN,Indiana,Knox,Midwest,East North Central,38.7991,-87.4604
+IN,Indiana,Newton,Midwest,East North Central,40.9523,-87.299
+IN,Indiana,Randolph,Midwest,East North Central,40.1898,-85.2037
+IN,Indiana,Shelby,Midwest,East North Central,39.6738,-85.7052
+IN,Indiana,Warrick,Midwest,East North Central,38.0469,-87.2847
+IN,Indiana,Clark,Midwest,East North Central,38.5395,-85.7655
+IN,Indiana,Kosciusko,Midwest,East North Central,41.0743,-85.8923
+IN,Indiana,Fulton,Midwest,East North Central,41.0192,-86.4125
+IN,Indiana,Clay,Midwest,East North Central,39.2769,-87.1126
+IN,Indiana,Gibson,Midwest,East North Central,38.2786,-87.377
+IN,Indiana,Tippecanoe,Midwest,East North Central,40.5076,-86.8527
+IN,Indiana,Jennings,Midwest,East North Central,38.9853,-85.6106
+IN,Indiana,Sullivan,Midwest,East North Central,39.0973,-87.4074
+IN,Indiana,Porter,Midwest,East North Central,41.685,-86.9804
+IN,Indiana,Jay,Midwest,East North Central,40.492,-85.1468
+IN,Indiana,Jackson,Midwest,East North Central,38.8247,-86.1716
+IN,Indiana,Warren,Midwest,East North Central,40.1973,-87.527
+IN,Indiana,Boone,Midwest,East North Central,39.999,-86.2921
+IN,Indiana,Owen,Midwest,East North Central,39.2861,-86.7726
+IN,Indiana,Johnson,Midwest,East North Central,39.6019,-86.1073
+IN,Indiana,Bartholomew,Midwest,East North Central,39.2094,-85.9183
+IN,Indiana,Monroe,Midwest,East North Central,39.1637,-86.5257
+IN,Indiana,Blackford,Midwest,East North Central,40.4537,-85.3736
+IN,Indiana,Huntington,Midwest,East North Central,40.741,-85.5618
+IN,Indiana,Lawrence,Midwest,East North Central,38.9172,-86.5557
+IN,Indiana,Benton,Midwest,East North Central,40.4882,-87.0857
+IN,Indiana,Howard,Midwest,East North Central,40.4765,-85.9625
+IN,Indiana,St. Joseph,Midwest,East North Central,41.6736,-86.1669
+IN,Indiana,White,Midwest,East North Central,40.6622,-86.8678
+IN,Indiana,Perry,Midwest,East North Central,37.9106,-86.7377
+IN,Indiana,Orange,Midwest,East North Central,38.5462,-86.6202
+IN,Indiana,Delaware,Midwest,East North Central,40.3138,-85.5009
+IN,Indiana,Crawford,Midwest,East North Central,38.3714,-86.3444
+IN,Indiana,Tipton,Midwest,East North Central,40.3795,-86.0868
+IN,Indiana,Greene,Midwest,East North Central,38.9879,-87.0813
+IN,Indiana,Cass,Midwest,East North Central,40.8644,-86.5
+IN,Indiana,Fayette,Midwest,East North Central,39.6582,-85.141
+IN,Indiana,Vanderburgh,Midwest,East North Central,38.024,-87.512
+IN,Indiana,Vermillion,Midwest,East North Central,39.667,-87.5203
+IN,Indiana,Starke,Midwest,East North Central,41.1989,-86.8922
+IN,Indiana,LaGrange,Midwest,East North Central,41.648,-85.4179
+IN,Indiana,Clinton,Midwest,East North Central,40.1944,-86.6671
+IN,Indiana,Dubois,Midwest,East North Central,38.3934,-86.9404
+IN,Indiana,Switzerland,Midwest,East North Central,38.7427,-85.0783
+IN,Indiana,Brown,Midwest,East North Central,39.3085,-86.1227
+KS,Kansas,Ellsworth,Midwest,West North Central,38.5876,-98.412
+KS,Kansas,Cowley,Midwest,West North Central,37.0679,-96.9958
+KS,Kansas,Montgomery,Midwest,West North Central,37.014,-95.9316
+KS,Kansas,Morris,Midwest,West North Central,38.6623,-96.4917
+KS,Kansas,Johnson,Midwest,West North Central,39.0141,-94.6172
+KS,Kansas,Cloud,Midwest,West North Central,39.4519,-97.5297
+KS,Kansas,Franklin,Midwest,West North Central,38.5482,-95.1011
+KS,Kansas,Russell,Midwest,West North Central,39.12,-98.7983
+KS,Kansas,Brown,Midwest,West North Central,39.9293,-95.6944
+KS,Kansas,Marion,Midwest,West North Central,38.3744,-97.3024
+KS,Kansas,Pratt,Midwest,West North Central,37.6777,-98.7465
+KS,Kansas,Comanche,Midwest,West North Central,37.2004,-99.4808
+KS,Kansas,Shawnee,Midwest,West North Central,38.8911,-95.6999
+KS,Kansas,Marshall,Midwest,West North Central,39.9968,-96.3493
+KS,Kansas,Wabaunsee,Midwest,West North Central,39.0689,-96.167
+KS,Kansas,Butler,Midwest,West North Central,37.9636,-97.146
+KS,Kansas,Allen,Midwest,West North Central,37.9165,-95.1715
+KS,Kansas,Pawnee,Midwest,West North Central,38.1935,-99.5264
+KS,Kansas,Crawford,Midwest,West North Central,37.543,-94.7024
+KS,Kansas,Labette,Midwest,West North Central,37.23,-95.1836
+KS,Kansas,Ottawa,Midwest,West North Central,38.9692,-97.7591
+KS,Kansas,Reno,Midwest,West North Central,38.1011,-97.992
+KS,Kansas,Phillips,Midwest,West North Central,39.6694,-99.1225
+KS,Kansas,Nemaha,Midwest,West North Central,39.7242,-96.1304
+KS,Kansas,Neosho,Midwest,West North Central,37.5186,-95.1742
+KS,Kansas,Greenwood,Midwest,West North Central,37.7191,-96.224
+KS,Kansas,Decatur,Midwest,West North Central,39.8347,-100.1888
+KS,Kansas,Saline,Midwest,West North Central,38.7736,-97.8645
+KS,Kansas,Mitchell,Midwest,West North Central,39.5096,-98.4331
+KS,Kansas,Stafford,Midwest,West North Central,38,-98.7611
+KS,Kansas,Pottawatomie,Midwest,West North Central,39.2499,-96.3145
+KS,Kansas,Rush,Midwest,West North Central,38.4648,-99.3108
+KS,Kansas,Clay,Midwest,West North Central,39.4301,-96.9997
+KS,Kansas,Thomas,Midwest,West North Central,39.3561,-100.7242
+KS,Kansas,Anderson,Midwest,West North Central,38.1818,-95.4905
+KS,Kansas,Barton,Midwest,West North Central,38.5245,-98.5369
+KS,Kansas,Bourbon,Midwest,West North Central,37.8365,-94.882
+KS,Kansas,Hodgeman,Midwest,West North Central,38.1229,-99.7126
+KS,Kansas,Osborne,Midwest,West North Central,39.5046,-98.5475
+KS,Kansas,Barber,Midwest,West North Central,37.0144,-98.6492
+KS,Kansas,Dickinson,Midwest,West North Central,38.9358,-97.1246
+KS,Kansas,Sedgwick,Midwest,West North Central,37.5649,-97.3527
+KS,Kansas,Jewell,Midwest,West North Central,39.9343,-98.0351
+KS,Kansas,Doniphan,Midwest,West North Central,39.7518,-94.8889
+KS,Kansas,Cherokee,Midwest,West North Central,37.0752,-94.6353
+KS,Kansas,Sumner,Midwest,West North Central,37.3899,-97.643
+KS,Kansas,Elk,Midwest,West North Central,37.3779,-96.0821
+KS,Kansas,Lyon,Midwest,West North Central,38.4028,-96.1924
+KS,Kansas,Harper,Midwest,West North Central,37.286,-97.8921
+KS,Kansas,Wichita,Midwest,West North Central,38.4834,-101.3578
+KS,Kansas,Ellis,Midwest,West North Central,38.8816,-99.3219
+KS,Kansas,McPherson,Midwest,West North Central,38.5511,-97.4274
+KS,Kansas,Ford,Midwest,West North Central,37.7304,-99.937
+KS,Kansas,Meade,Midwest,West North Central,37.2836,-100.343
+KS,Kansas,Jefferson,Midwest,West North Central,39.4159,-95.3304
+KS,Kansas,Lane,Midwest,West North Central,38.4811,-100.4664
+KS,Kansas,Edwards,Midwest,West North Central,37.937,-99.2547
+KS,Kansas,Linn,Midwest,West North Central,38.179,-94.7053
+KS,Kansas,Kearny,Midwest,West North Central,37.982,-101.1333
+KS,Kansas,Leavenworth,Midwest,West North Central,39.1084,-95.0829
+KS,Kansas,Coffey,Midwest,West North Central,38.2622,-95.7423
+KS,Kansas,Gray,Midwest,West North Central,37.5925,-100.4502
+KS,Kansas,Atchison,Midwest,West North Central,39.571,-95.3037
+KS,Kansas,Cheyenne,Midwest,West North Central,39.7495,-101.5328
+KS,Kansas,Douglas,Midwest,West North Central,38.9344,-95.0956
+KS,Kansas,Osage,Midwest,West North Central,38.7793,-95.557
+KS,Kansas,Miami,Midwest,West North Central,38.6597,-94.8569
+KS,Kansas,Republic,Midwest,West North Central,39.7832,-97.8961
+KS,Kansas,Washington,Midwest,West North Central,39.7273,-96.98
+KS,Kansas,Geary,Midwest,West North Central,39.0271,-96.8497
+KS,Kansas,Riley,Midwest,West North Central,39.299,-96.8276
+KS,Kansas,Smith,Midwest,West North Central,39.7665,-98.9198
+KS,Kansas,Scott,Midwest,West North Central,38.4791,-100.9023
+KS,Kansas,Wyandotte,Midwest,West North Central,39.1234,-94.7443
+KS,Kansas,Harvey,Midwest,West North Central,38.0364,-97.3463
+KS,Kansas,Wilson,Midwest,West North Central,37.525,-95.6614
+KS,Kansas,Greeley,Midwest,West North Central,38.472,-101.7545
+KS,Kansas,Rooks,Midwest,West North Central,39.2532,-99.5634
+KS,Kansas,Seward,Midwest,West North Central,37.0466,-100.9295
+KS,Kansas,Morton,Midwest,West North Central,37.0038,-101.8944
+KS,Kansas,Trego,Midwest,West North Central,39.0373,-100.1186
+KS,Kansas,Kingman,Midwest,West North Central,37.6447,-98.4311
+KS,Kansas,Chase,Midwest,West North Central,38.3732,-96.6459
+KS,Kansas,Logan,Midwest,West North Central,39.0619,-101.245
+KS,Kansas,Woodson,Midwest,West North Central,37.8682,-95.7533
+KS,Kansas,Chautauqua,Midwest,West North Central,37.0803,-96.0962
+KS,Kansas,Gove,Midwest,West North Central,38.9593,-100.487
+KS,Kansas,Finney,Midwest,West North Central,37.9864,-100.9937
+KS,Kansas,Wallace,Midwest,West North Central,38.9127,-101.593
+KS,Kansas,Norton,Midwest,West North Central,39.6271,-99.8197
+KS,Kansas,Rice,Midwest,West North Central,38.3462,-98.2045
+KS,Kansas,Kiowa,Midwest,West North Central,37.6175,-99.1058
+KS,Kansas,Stevens,Midwest,West North Central,37.3252,-101.2065
+KS,Kansas,Jackson,Midwest,West North Central,39.2395,-95.9651
+KS,Kansas,Rawlins,Midwest,West North Central,39.909,-100.7859
+KS,Kansas,Lincoln,Midwest,West North Central,39.0123,-98.3944
+KS,Kansas,Grant,Midwest,West North Central,37.5772,-101.3547
+KS,Kansas,Sheridan,Midwest,West North Central,39.3558,-100.4396
+KS,Kansas,Clark,Midwest,West North Central,37.0405,-99.9876
+KS,Kansas,Hamilton,Midwest,West North Central,38.0415,-102.0078
+KS,Kansas,Stanton,Midwest,West North Central,37.5699,-101.7443
+KS,Kansas,Graham,Midwest,West North Central,39.3489,-100.0743
+KS,Kansas,Ness,Midwest,West North Central,38.6406,-99.7443
+KS,Kansas,Haskell,Midwest,West North Central,37.4822,-100.8465
+KS,Kansas,Sherman,Midwest,West North Central,39.3366,-102.0373
+KY,Kentucky,Todd,South,East South Central,36.7225,-87.2628
+KY,Kentucky,Bourbon,South,East South Central,38.2016,-84.2719
+KY,Kentucky,Jefferson,South,East South Central,38.205,-85.727
+KY,Kentucky,Bullitt,South,East South Central,38.0562,-85.6847
+KY,Kentucky,Knott,South,East South Central,37.335,-82.9819
+KY,Kentucky,Gallatin,South,East South Central,38.7252,-84.8238
+KY,Kentucky,Union,South,East South Central,37.5466,-87.9878
+KY,Kentucky,Whitley,South,East South Central,36.6781,-84.1284
+KY,Kentucky,Christian,South,East South Central,36.8792,-87.6638
+KY,Kentucky,Shelby,South,East South Central,38.351,-85.1121
+KY,Kentucky,Casey,South,East South Central,37.3206,-84.9285
+KY,Kentucky,Kenton,South,East South Central,38.9949,-84.6017
+KY,Kentucky,Bell,South,East South Central,36.7537,-83.7087
+KY,Kentucky,Campbell,South,East South Central,38.89,-84.2481
+KY,Kentucky,Woodford,South,East South Central,38.1543,-84.678
+KY,Kentucky,Edmonson,South,East South Central,37.1952,-86.2691
+KY,Kentucky,Grant,South,East South Central,38.6415,-84.5675
+KY,Kentucky,Lincoln,South,East South Central,37.4531,-84.7578
+KY,Kentucky,Boone,South,East South Central,39.1067,-84.7277
+KY,Kentucky,Pulaski,South,East South Central,37.011,-84.653
+KY,Kentucky,Perry,South,East South Central,37.346,-83.4696
+KY,Kentucky,Marion,South,East South Central,37.4943,-85.1483
+KY,Kentucky,Powell,South,East South Central,37.8475,-83.8572
+KY,Kentucky,Graves,South,East South Central,36.9211,-88.5226
+KY,Kentucky,Scott,South,East South Central,38.2697,-84.6831
+KY,Kentucky,McLean,South,East South Central,37.6183,-87.3921
+KY,Kentucky,Calloway,South,East South Central,36.6145,-88.3206
+KY,Kentucky,Laurel,South,East South Central,37.1209,-84.0804
+KY,Kentucky,Ohio,South,East South Central,37.3359,-86.9909
+KY,Kentucky,Harlan,South,East South Central,36.7594,-83.4711
+KY,Kentucky,Muhlenberg,South,East South Central,37.0753,-86.9951
+KY,Kentucky,Pike,South,East South Central,37.6178,-82.1706
+KY,Kentucky,Letcher,South,East South Central,37.1508,-82.667
+KY,Kentucky,Lewis,South,East South Central,38.6876,-83.4915
+KY,Kentucky,Larue,South,East South Central,37.5668,-85.7353
+KY,Kentucky,Henry,South,East South Central,38.3864,-85.2566
+KY,Kentucky,Boyle,South,East South Central,37.642,-84.7769
+KY,Kentucky,Caldwell,South,East South Central,37.1068,-87.8854
+KY,Kentucky,Jackson,South,East South Central,37.3255,-83.9622
+KY,Kentucky,Nelson,South,East South Central,37.7838,-85.6803
+KY,Kentucky,Hopkins,South,East South Central,37.186,-87.4556
+KY,Kentucky,Mason,South,East South Central,38.7563,-83.8845
+KY,Kentucky,Monroe,South,East South Central,36.6402,-85.7963
+KY,Kentucky,Lawrence,South,East South Central,38.1079,-82.6132
+KY,Kentucky,Oldham,South,East South Central,38.3719,-85.604
+KY,Kentucky,Ballard,South,East South Central,37.0513,-89.0446
+KY,Kentucky,Fayette,South,East South Central,38.0423,-84.4587
+KY,Kentucky,Carroll,South,East South Central,38.6806,-85.193
+KY,Kentucky,Cumberland,South,East South Central,36.7906,-85.3674
+KY,Kentucky,Garrard,South,East South Central,37.6152,-84.5817
+KY,Kentucky,McCracken,South,East South Central,37.0405,-88.5734
+KY,Kentucky,Barren,South,East South Central,37.0047,-85.9263
+KY,Kentucky,Pendleton,South,East South Central,38.6708,-84.331
+KY,Kentucky,Butler,South,East South Central,37.2173,-86.7001
+KY,Kentucky,Morgan,South,East South Central,37.892,-83.4445
+KY,Kentucky,Daviess,South,East South Central,37.6831,-86.8698
+KY,Kentucky,Estill,South,East South Central,37.6969,-83.9684
+KY,Kentucky,Allen,South,East South Central,36.7493,-86.1966
+KY,Kentucky,Greenup,South,East South Central,38.5495,-82.7788
+KY,Kentucky,Breckinridge,South,East South Central,37.8312,-86.6304
+KY,Kentucky,Livingston,South,East South Central,37.2456,-88.3589
+KY,Kentucky,Bracken,South,East South Central,38.6818,-84.0666
+KY,Kentucky,Boyd,South,East South Central,38.4189,-82.6024
+KY,Kentucky,Metcalfe,South,East South Central,36.9842,-85.619
+KY,Kentucky,Hickman,South,East South Central,36.7596,-89.102
+KY,Kentucky,Menifee,South,East South Central,37.9542,-83.6226
+KY,Kentucky,Meade,South,East South Central,37.9745,-86.1107
+KY,Kentucky,McCreary,South,East South Central,36.6648,-84.4395
+KY,Kentucky,Rockcastle,South,East South Central,37.4027,-84.4144
+KY,Kentucky,Henderson,South,East South Central,37.7553,-87.5327
+KY,Kentucky,Hardin,South,East South Central,37.813,-85.9827
+KY,Kentucky,Bath,South,East South Central,38.1193,-83.6156
+KY,Kentucky,Crittenden,South,East South Central,37.3321,-88.0795
+KY,Kentucky,Trimble,South,East South Central,38.5953,-85.3175
+KY,Kentucky,Knox,South,East South Central,36.8667,-83.8849
+KY,Kentucky,Carlisle,South,East South Central,36.9081,-88.8867
+KY,Kentucky,Simpson,South,East South Central,36.7163,-86.5587
+KY,Kentucky,Hart,South,East South Central,37.2535,-85.7896
+KY,Kentucky,Fulton,South,East South Central,36.5145,-88.8819
+KY,Kentucky,Rowan,South,East South Central,38.152,-83.5043
+KY,Kentucky,Washington,South,East South Central,37.6922,-85.2193
+KY,Kentucky,Webster,South,East South Central,37.5579,-87.4371
+KY,Kentucky,Green,South,East South Central,37.3265,-85.543
+KY,Kentucky,Nicholas,South,East South Central,38.3162,-84.0334
+KY,Kentucky,Breathitt,South,East South Central,37.5589,-83.3782
+KY,Kentucky,Elliott,South,East South Central,38.0929,-83.1241
+KY,Kentucky,Floyd,South,East South Central,37.6119,-82.7291
+KY,Kentucky,Franklin,South,East South Central,38.1924,-84.8643
+KY,Kentucky,Warren,South,East South Central,36.8421,-86.53
+KY,Kentucky,Russell,South,East South Central,37.051,-85.0774
+KY,Kentucky,Harrison,South,East South Central,38.5206,-84.3836
+KY,Kentucky,Wolfe,South,East South Central,37.7999,-83.4172
+KY,Kentucky,Logan,South,East South Central,36.8394,-86.895
+KY,Kentucky,Leslie,South,East South Central,37.162,-83.3779
+KY,Kentucky,Robertson,South,East South Central,38.5317,-84.0358
+KY,Kentucky,Fleming,South,East South Central,38.4278,-83.8618
+KY,Kentucky,Marshall,South,East South Central,36.8513,-88.3593
+KY,Kentucky,Spencer,South,East South Central,38.117,-85.3722
+KY,Kentucky,Hancock,South,East South Central,37.8962,-86.7562
+KY,Kentucky,Madison,South,East South Central,37.5904,-84.2898
+KY,Kentucky,Montgomery,South,East South Central,37.997,-83.8926
+KY,Kentucky,Lee,South,East South Central,37.5862,-83.7065
+KY,Kentucky,Lyon,South,East South Central,37.0759,-88.0769
+KY,Kentucky,Martin,South,East South Central,37.8415,-82.4224
+KY,Kentucky,Clinton,South,East South Central,36.6906,-85.1353
+KY,Kentucky,Mercer,South,East South Central,37.921,-84.8615
+KY,Kentucky,Wayne,South,East South Central,36.8404,-84.8506
+KY,Kentucky,Clay,South,East South Central,37.2701,-83.6496
+KY,Kentucky,Magoffin,South,East South Central,37.7459,-83.0646
+KY,Kentucky,Johnson,South,East South Central,37.8167,-82.8088
+KY,Kentucky,Carter,South,East South Central,38.3033,-83.1695
+KY,Kentucky,Owen,South,East South Central,38.4233,-84.8728
+KY,Kentucky,Grayson,South,East South Central,37.4937,-86.2259
+KY,Kentucky,Trigg,South,East South Central,36.8696,-87.8048
+KY,Kentucky,Owsley,South,East South Central,37.4719,-83.6826
+KY,Kentucky,Jessamine,South,East South Central,37.8299,-84.7096
+KY,Kentucky,Taylor,South,East South Central,37.3446,-85.351
+KY,Kentucky,Anderson,South,East South Central,38.0331,-84.9031
+KY,Kentucky,Adair,South,East South Central,37.1037,-85.3073
+KY,Kentucky,Clark,South,East South Central,38.0017,-84.1908
+LA,Louisiana,St. Charles,South,West South Central,29.9986,-90.4036
+LA,Louisiana,Claiborne,South,West South Central,32.793,-93.0582
+LA,Louisiana,Jefferson,South,West South Central,29.9072,-90.1933
+LA,Louisiana,St. Mary,South,West South Central,29.8113,-91.6705
+LA,Louisiana,Iberia,South,West South Central,30.0049,-91.8202
+LA,Louisiana,Plaquemines,South,West South Central,29.3443,-89.4683
+LA,Louisiana,Vernon,South,West South Central,30.9344,-92.9268
+LA,Louisiana,Iberville,South,West South Central,30.161,-91.1495
+LA,Louisiana,Rapides,South,West South Central,31.3414,-92.4096
+LA,Louisiana,Catahoula,South,West South Central,31.8492,-91.6599
+LA,Louisiana,Concordia,South,West South Central,31.713,-91.4453
+LA,Louisiana,La Salle Parish,South,West South Central,31.6788,-92.1493
+LA,Louisiana,Ouachita,South,West South Central,32.4883,-92.1619
+LA,Louisiana,Bossier,South,West South Central,32.5606,-93.5625
+LA,Louisiana,Washington,South,West South Central,30.8479,-90.1459
+LA,Louisiana,East Feliciana,South,West South Central,30.9682,-91.1125
+LA,Louisiana,Assumption,South,West South Central,29.9886,-91.0555
+LA,Louisiana,Pointe Coupee,South,West South Central,30.6824,-91.4248
+LA,Louisiana,Winn,South,West South Central,31.924,-92.6425
+LA,Louisiana,Lafayette,South,West South Central,30.3126,-92.0387
+LA,Louisiana,Lafourche,South,West South Central,29.5164,-90.3291
+LA,Louisiana,Livingston,South,West South Central,30.4953,-90.7467
+LA,Louisiana,Allen,South,West South Central,30.867,-92.7986
+LA,Louisiana,Bienville,South,West South Central,32.3261,-93.2837
+LA,Louisiana,St. Landry,South,West South Central,30.528,-92.0851
+LA,Louisiana,St. John the Baptist,South,West South Central,29.9205,-90.6458
+LA,Louisiana,Orleans,South,West South Central,30.0687,-89.9288
+LA,Louisiana,Calcasieu,South,West South Central,30.2393,-93.0128
+LA,Louisiana,Terrebonne,South,West South Central,29.3864,-90.7081
+LA,Louisiana,Morehouse,South,West South Central,32.7749,-91.9058
+LA,Louisiana,Grant,South,West South Central,31.43,-92.4829
+LA,Louisiana,Beauregard,South,West South Central,30.5289,-93.4391
+LA,Louisiana,East Baton Rouge,South,West South Central,30.5467,-91.1225
+LA,Louisiana,West Baton Rouge,South,West South Central,30.4456,-91.2098
+LA,Louisiana,Natchitoches,South,West South Central,31.6547,-93.1999
+LA,Louisiana,Tangipahoa,South,West South Central,30.7646,-90.5114
+LA,Louisiana,St. Tammany,South,West South Central,30.3687,-89.7495
+LA,Louisiana,Ascension,South,West South Central,30.1828,-90.8674
+LA,Louisiana,Lincoln,South,West South Central,32.5329,-92.6361
+LA,Louisiana,Evangeline,South,West South Central,30.5696,-92.3169
+LA,Louisiana,Vermilion,South,West South Central,29.975,-92.1266
+LA,Louisiana,St. Bernard,South,West South Central,29.8625,-89.8877
+LA,Louisiana,St. Martin,South,West South Central,30.3368,-91.8476
+LA,Louisiana,Webster,South,West South Central,32.525,-93.4118
+LA,Louisiana,Acadia,South,West South Central,30.4037,-92.2145
+LA,Louisiana,Avoyelles,South,West South Central,30.954,-92.1884
+LA,Louisiana,St. James,South,West South Central,30.0917,-90.8844
+LA,Louisiana,De Soto,South,West South Central,32.0181,-93.7237
+LA,Louisiana,Union,South,West South Central,33.0073,-92.7224
+LA,Louisiana,Sabine,South,West South Central,31.6118,-93.4077
+LA,Louisiana,Jackson,South,West South Central,32.2719,-92.7303
+LA,Louisiana,West Carroll,South,West South Central,32.6038,-91.4814
+LA,Louisiana,Caddo,South,West South Central,32.6091,-93.8841
+LA,Louisiana,Jefferson Davis,South,West South Central,30.2355,-92.7481
+LA,Louisiana,Red River,South,West South Central,32.0256,-93.3406
+LA,Louisiana,Franklin,South,West South Central,32.1651,-91.721
+LA,Louisiana,Tensas,South,West South Central,32.0723,-91.239
+LA,Louisiana,Madison,South,West South Central,32.4067,-91.1915
+LA,Louisiana,Richland,South,West South Central,32.4902,-91.8651
+LA,Louisiana,Cameron,South,West South Central,29.9717,-93.3947
+LA,Louisiana,Caldwell,South,West South Central,32.0288,-92.1408
+LA,Louisiana,West Feliciana,South,West South Central,30.7851,-91.3787
+LA,Louisiana,East Carroll,South,West South Central,32.8133,-91.1826
+LA,Louisiana,St. Helena,South,West South Central,30.6823,-90.6545
+MA,Massachusetts,Barnstable,Northeast,New England,41.6012,-70.6364
+MA,Massachusetts,Essex,Northeast,New England,42.5335,-70.9724
+MA,Massachusetts,Hampshire,Northeast,New England,42.3757,-72.5188
+MA,Massachusetts,Nantucket,Northeast,New England,41.2636,-69.9718
+MA,Massachusetts,Franklin,Northeast,New England,42.6063,-72.7434
+MA,Massachusetts,Middlesex,Northeast,New England,42.4518,-71.4035
+MA,Massachusetts,Plymouth,Northeast,New England,42.2121,-70.7652
+MA,Massachusetts,Hampden,Northeast,New England,42.2125,-72.6411
+MA,Massachusetts,Suffolk,Northeast,New England,42.3188,-71.0846
+MA,Massachusetts,Worcester,Northeast,New England,42.5438,-71.6147
+MA,Massachusetts,Bristol,Northeast,New England,41.9726,-71.1854
+MA,Massachusetts,Norfolk,Northeast,New England,42.1648,-71.3544
+MA,Massachusetts,Berkshire,Northeast,New England,42.6844,-73.1166
+MA,Massachusetts,Dukes,Northeast,New England,41.4565,-70.6069
+MD,Maryland,Washington,South,South Atlantic,39.3767,-77.7341
+MD,Maryland,Anne Arundel,South,South Atlantic,39.1457,-76.7745
+MD,Maryland,Montgomery,South,South Atlantic,39.036,-77.0934
+MD,Maryland,Garrett,South,South Atlantic,39.2924,-79.3525
+MD,Maryland,Charles,South,South Atlantic,38.2646,-76.8496
+MD,Maryland,Worcester,South,South Atlantic,38.1655,-75.3968
+MD,Maryland,Prince George's,South,South Atlantic,39.0603,-76.8456
+MD,Maryland,Allegany,South,South Atlantic,39.5653,-78.7054
+MD,Maryland,Queen Anne's,South,South Atlantic,38.9853,-76.1677
+MD,Maryland,Carroll,South,South Atlantic,39.657,-77.1683
+MD,Maryland,Caroline,South,South Atlantic,38.917,-75.9419
+MD,Maryland,Wicomico,South,South Atlantic,38.2672,-75.8938
+MD,Maryland,Kent,South,South Atlantic,39.3425,-75.8787
+MD,Maryland,Frederick,South,South Atlantic,39.3237,-77.3411
+MD,Maryland,Cecil,South,South Atlantic,39.7003,-76.0586
+MD,Maryland,Somerset,South,South Atlantic,38.0831,-75.8521
+MD,Maryland,Calvert,South,South Atlantic,38.4728,-76.4895
+MD,Maryland,Dorchester,South,South Atlantic,38.3357,-76.2238
+MD,Maryland,Baltimore,South,South Atlantic,39.424,-76.6177
+MD,Maryland,St. Mary's,South,South Atlantic,38.1155,-76.4771
+MD,Maryland,Harford,South,South Atlantic,39.4861,-76.3908
+MD,Maryland,Talbot,South,South Atlantic,38.7884,-76.2243
+MD,Maryland,Howard,South,South Atlantic,39.1941,-76.7427
+ME,Maine,York,Northeast,New England,43.4244,-70.7573
+ME,Maine,Cumberland,Northeast,New England,43.6954,-70.3539
+ME,Maine,Androscoggin,Northeast,New England,44.0086,-70.057
+ME,Maine,Kennebec,Northeast,New England,44.191,-69.7921
+ME,Maine,Knox,Northeast,New England,44.1274,-69.1369
+ME,Maine,Penobscot,Northeast,New England,44.7835,-68.7352
+ME,Maine,Waldo,Northeast,New England,44.428,-69.0325
+ME,Maine,Sagadahoc,Northeast,New England,43.9346,-69.8346
+ME,Maine,Oxford,Northeast,New England,44.219,-70.5113
+ME,Maine,Washington,Northeast,New England,45.134,-67.224
+ME,Maine,Aroostook,Northeast,New England,46.8662,-67.9919
+ME,Maine,Franklin,Northeast,New England,44.4916,-70.1923
+ME,Maine,Hancock,Northeast,New England,44.5847,-68.4875
+MI,Michigan,Wayne,Midwest,East North Central,42.1395,-83.193
+MI,Michigan,Midland,Midwest,East North Central,43.6777,-84.3803
+MI,Michigan,Montcalm,Midwest,East North Central,43.2928,-85.0789
+MI,Michigan,Leelanau,Midwest,East North Central,44.896,-85.99
+MI,Michigan,Kalkaska,Midwest,East North Central,44.8366,-85.2871
+MI,Michigan,St. Joseph,Midwest,East North Central,41.8004,-85.4181
+MI,Michigan,Ontonagon,Midwest,East North Central,46.7402,-89.5813
+MI,Michigan,Muskegon,Midwest,East North Central,43.1621,-86.2519
+MI,Michigan,Genesee,Midwest,East North Central,42.8453,-83.7086
+MI,Michigan,Lapeer,Midwest,East North Central,42.9208,-83.0435
+MI,Michigan,Delta,Midwest,East North Central,45.7477,-87.09
+MI,Michigan,Alpena,Midwest,East North Central,45.074,-83.4399
+MI,Michigan,Berrien,Midwest,East North Central,41.774,-86.7887
+MI,Michigan,Ingham,Midwest,East North Central,42.5558,-84.303
+MI,Michigan,Barry,Midwest,East North Central,42.4951,-85.4117
+MI,Michigan,Lenawee,Midwest,East North Central,41.7859,-84.0403
+MI,Michigan,Wexford,Midwest,East North Central,44.5033,-85.672
+MI,Michigan,Marquette,Midwest,East North Central,46.2912,-87.4372
+MI,Michigan,Kent,Midwest,East North Central,42.8909,-85.7066
+MI,Michigan,Charlevoix,Midwest,East North Central,45.2719,-84.9413
+MI,Michigan,Kalamazoo,Midwest,East North Central,42.3027,-85.5447
+MI,Michigan,Iosco,Midwest,East North Central,44.2337,-83.8033
+MI,Michigan,Huron,Midwest,East North Central,43.9395,-82.7149
+MI,Michigan,Ogemaw,Midwest,East North Central,44.4297,-84.0225
+MI,Michigan,Washtenaw,Midwest,East North Central,42.2755,-83.7312
+MI,Michigan,Schoolcraft,Midwest,East North Central,45.9591,-86.2507
+MI,Michigan,Manistee,Midwest,East North Central,44.2449,-86.2927
+MI,Michigan,Monroe,Midwest,East North Central,41.8049,-83.4426
+MI,Michigan,Newaygo,Midwest,East North Central,43.3348,-85.8094
+MI,Michigan,Eaton,Midwest,East North Central,42.6271,-85.0249
+MI,Michigan,Clinton,Midwest,East North Central,42.9303,-84.798
+MI,Michigan,Saginaw,Midwest,East North Central,43.4091,-84.3345
+MI,Michigan,Ionia,Midwest,East North Central,42.7824,-85.1374
+MI,Michigan,Benzie,Midwest,East North Central,44.5203,-85.8728
+MI,Michigan,Jackson,Midwest,East North Central,42.1762,-84.6456
+MI,Michigan,Oakland,Midwest,East North Central,42.7827,-83.2456
+MI,Michigan,Osceola,Midwest,East North Central,44.0381,-85.4538
+MI,Michigan,Gratiot,Midwest,East North Central,43.1807,-84.6793
+MI,Michigan,Montmorency,Midwest,East North Central,44.873,-84.3281
+MI,Michigan,Calhoun,Midwest,East North Central,42.0967,-84.9899
+MI,Michigan,Alcona,Midwest,East North Central,44.6575,-83.2946
+MI,Michigan,Oceana,Midwest,East North Central,43.5595,-86.3477
+MI,Michigan,Menominee,Midwest,East North Central,45.688,-87.5265
+MI,Michigan,Mecosta,Midwest,East North Central,43.7505,-85.1436
+MI,Michigan,Sanilac,Midwest,East North Central,43.1864,-82.8617
+MI,Michigan,Mason,Midwest,East North Central,43.9511,-86.2798
+MI,Michigan,Emmet,Midwest,East North Central,45.3834,-84.9304
+MI,Michigan,Macomb,Midwest,East North Central,42.5809,-83.0305
+MI,Michigan,Houghton,Midwest,East North Central,47.1277,-88.5085
+MI,Michigan,Shiawassee,Midwest,East North Central,43.1168,-83.9693
+MI,Michigan,Dickinson,Midwest,East North Central,45.803,-87.9958
+MI,Michigan,Arenac,Midwest,East North Central,43.9794,-83.9637
+MI,Michigan,Van Buren,Midwest,East North Central,42.3833,-85.959
+MI,Michigan,Ottawa,Midwest,East North Central,43.0553,-86.2201
+MI,Michigan,Cheboygan,Midwest,East North Central,45.7752,-84.7477
+MI,Michigan,Hillsdale,Midwest,East North Central,41.7242,-84.4189
+MI,Michigan,Mackinac,Midwest,East North Central,45.8593,-84.6253
+MI,Michigan,Branch,Midwest,East North Central,41.9466,-84.9989
+MI,Michigan,Tuscola,Midwest,East North Central,43.4527,-83.6894
+MI,Michigan,Presque Isle,Midwest,East North Central,45.2622,-83.6989
+MI,Michigan,Grand Traverse,Midwest,East North Central,44.6611,-85.6881
+MI,Michigan,Chippewa,Midwest,East North Central,45.9891,-83.9146
+MI,Michigan,Roscommon,Midwest,East North Central,44.3124,-84.7625
+MI,Michigan,Gogebic,Midwest,East North Central,46.4767,-89.9336
+MI,Michigan,Otsego,Midwest,East North Central,45.1436,-84.6639
+MI,Michigan,Antrim,Midwest,East North Central,44.9024,-85.0613
+MI,Michigan,Iron,Midwest,East North Central,46.0557,-88.605
+MI,Michigan,Lake,Midwest,East North Central,44.0386,-85.6827
+MI,Michigan,St. Clair,Midwest,East North Central,42.8262,-82.493
+MI,Michigan,Allegan,Midwest,East North Central,42.4575,-85.6979
+MI,Michigan,Luce,Midwest,East North Central,46.3538,-85.5098
+MI,Michigan,Livingston,Midwest,East North Central,42.4543,-83.9457
+MI,Michigan,Baraga,Midwest,East North Central,46.7766,-88.4965
+MI,Michigan,Clare,Midwest,East North Central,44.0168,-84.808
+MI,Michigan,Cass,Midwest,East North Central,41.9834,-86.1125
+MI,Michigan,Missaukee,Midwest,East North Central,44.3325,-85.2969
+MI,Michigan,Bay,Midwest,East North Central,43.5903,-83.8886
+MI,Michigan,Isabella,Midwest,East North Central,43.6998,-84.7657
+MI,Michigan,Keweenaw,Midwest,East North Central,47.2984,-88.397
+MI,Michigan,Gladwin,Midwest,East North Central,43.8811,-84.4887
+MI,Michigan,Crawford,Midwest,East North Central,44.6566,-84.7091
+MI,Michigan,Oscoda,Midwest,East North Central,44.6605,-84.1418
+MI,Michigan,Alger,Midwest,East North Central,46.4172,-86.6439
+MN,Minnesota,Washington,Midwest,West North Central,45.0598,-92.9777
+MN,Minnesota,Kandiyohi,Midwest,West North Central,45.4054,-94.8397
+MN,Minnesota,Nicollet,Midwest,West North Central,44.3296,-93.9659
+MN,Minnesota,St. Louis,Midwest,West North Central,47.5312,-92.2399
+MN,Minnesota,McLeod,Midwest,West North Central,44.7699,-94.1513
+MN,Minnesota,Renville,Midwest,West North Central,44.5283,-94.7231
+MN,Minnesota,Aitkin,Midwest,West North Central,46.5303,-93.7051
+MN,Minnesota,Redwood,Midwest,West North Central,44.2098,-95.1297
+MN,Minnesota,Anoka,Midwest,West North Central,45.0484,-93.2472
+MN,Minnesota,Becker,Midwest,West North Central,46.8066,-95.3526
+MN,Minnesota,Murray,Midwest,West North Central,44.0704,-95.6668
+MN,Minnesota,Sibley,Midwest,West North Central,44.6728,-94.232
+MN,Minnesota,Brown,Midwest,West North Central,44.1488,-94.4945
+MN,Minnesota,Cass,Midwest,West North Central,47.0568,-93.9126
+MN,Minnesota,Fillmore,Midwest,West North Central,43.6137,-92.4263
+MN,Minnesota,Polk,Midwest,West North Central,47.6966,-96.144
+MN,Minnesota,Crow Wing,Midwest,West North Central,46.169,-94.363
+MN,Minnesota,Mahnomen,Midwest,West North Central,47.3219,-95.9512
+MN,Minnesota,Houston,Midwest,West North Central,43.6992,-91.2823
+MN,Minnesota,Chippewa,Midwest,West North Central,44.9583,-95.3672
+MN,Minnesota,Stevens,Midwest,West North Central,45.6895,-96.0143
+MN,Minnesota,Faribault,Midwest,West North Central,43.7677,-94.0174
+MN,Minnesota,Ramsey,Midwest,West North Central,44.984,-93.0247
+MN,Minnesota,Marshall,Midwest,West North Central,48.2929,-96.1945
+MN,Minnesota,Wright,Midwest,West North Central,45.092,-93.7453
+MN,Minnesota,Blue Earth,Midwest,West North Central,43.9626,-94.1666
+MN,Minnesota,Nobles,Midwest,West North Central,43.8266,-95.4823
+MN,Minnesota,Clearwater,Midwest,West North Central,47.6962,-95.4287
+MN,Minnesota,Morrison,Midwest,West North Central,45.9772,-94.1008
+MN,Minnesota,Swift,Midwest,West North Central,45.2814,-95.7559
+MN,Minnesota,Hennepin,Midwest,West North Central,44.9394,-93.5891
+MN,Minnesota,Olmsted,Midwest,West North Central,43.8606,-92.4896
+MN,Minnesota,Dodge,Midwest,West North Central,44.1529,-92.8995
+MN,Minnesota,Steele,Midwest,West North Central,43.8683,-93.0552
+MN,Minnesota,Otter Tail,Midwest,West North Central,46.3798,-96.1309
+MN,Minnesota,Lincoln,Midwest,West North Central,44.3814,-96.1812
+MN,Minnesota,Wabasha,Midwest,West North Central,44.3707,-92.042
+MN,Minnesota,Clay,Midwest,West North Central,46.7105,-96.5579
+MN,Minnesota,Rice,Midwest,West North Central,44.4551,-93.1697
+MN,Minnesota,Beltrami,Midwest,West North Central,47.5065,-94.997
+MN,Minnesota,Pine,Midwest,West North Central,45.8367,-92.9683
+MN,Minnesota,Stearns,Midwest,West North Central,45.465,-94.3222
+MN,Minnesota,Kanabec,Midwest,West North Central,45.7957,-93.1524
+MN,Minnesota,Douglas,Midwest,West North Central,45.9741,-95.2925
+MN,Minnesota,Martin,Midwest,West North Central,43.6441,-94.4621
+MN,Minnesota,Mower,Midwest,West North Central,43.5133,-92.5078
+MN,Minnesota,Dakota,Midwest,West North Central,44.9096,-93.1301
+MN,Minnesota,Freeborn,Midwest,West North Central,43.7659,-93.5645
+MN,Minnesota,Itasca,Midwest,West North Central,47.3207,-93.7859
+MN,Minnesota,Winona,Midwest,West North Central,43.9837,-91.868
+MN,Minnesota,Chisago,Midwest,West North Central,45.6875,-92.9654
+MN,Minnesota,Wilkin,Midwest,West North Central,46.2769,-96.3122
+MN,Minnesota,Mille Lacs,Midwest,West North Central,45.5689,-93.59
+MN,Minnesota,Carlton,Midwest,West North Central,46.5616,-92.6279
+MN,Minnesota,Carver,Midwest,West North Central,44.8634,-93.6586
+MN,Minnesota,Isanti,Midwest,West North Central,45.7223,-93.1717
+MN,Minnesota,Wadena,Midwest,West North Central,46.629,-95.0878
+MN,Minnesota,Roseau,Midwest,West North Central,48.8445,-95.7624
+MN,Minnesota,Le Sueur,Midwest,West North Central,44.2236,-93.5747
+MN,Minnesota,Benton,Midwest,West North Central,45.7525,-94.2317
+MN,Minnesota,Cottonwood,Midwest,West North Central,43.9096,-95.0461
+MN,Minnesota,Kittson,Midwest,West North Central,48.8577,-96.8019
+MN,Minnesota,Norman,Midwest,West North Central,47.1761,-96.8015
+MN,Minnesota,Pope,Midwest,West North Central,45.6148,-95.7382
+MN,Minnesota,Watonwan,Midwest,West North Central,44.0535,-94.8378
+MN,Minnesota,Todd,Midwest,West North Central,46.324,-95.0903
+MN,Minnesota,Pipestone,Midwest,West North Central,43.9546,-96.1905
+MN,Minnesota,Traverse,Midwest,West North Central,45.5947,-96.8327
+MN,Minnesota,Rock,Midwest,West North Central,43.5275,-96.3591
+MN,Minnesota,Yellow Medicine,Midwest,West North Central,44.6918,-95.6194
+MN,Minnesota,Red Lake,Midwest,West North Central,47.8837,-96.2727
+MN,Minnesota,Koochiching,Midwest,West North Central,47.9209,-94.2132
+MN,Minnesota,Lake of the Woods,Midwest,West North Central,48.7119,-94.5924
+MN,Minnesota,Lyon,Midwest,West North Central,44.4488,-95.7897
+MN,Minnesota,Meeker,Midwest,West North Central,44.9431,-94.5197
+MN,Minnesota,Grant,Midwest,West North Central,45.8687,-96.1964
+MN,Minnesota,Scott,Midwest,West North Central,44.7251,-93.4409
+MN,Minnesota,Waseca,Midwest,West North Central,43.8938,-93.4939
+MN,Minnesota,Goodhue,Midwest,West North Central,44.4088,-93.0303
+MN,Minnesota,Sherburne,Midwest,West North Central,45.4416,-93.5981
+MN,Minnesota,Big Stone,Midwest,West North Central,45.5723,-96.294
+MN,Minnesota,Lake,Midwest,West North Central,47.294,-91.2779
+MN,Minnesota,Jackson,Midwest,West North Central,43.6288,-94.9886
+MN,Minnesota,Pennington,Midwest,West North Central,48.0135,-96.2137
+MN,Minnesota,Lac qui Parle,Midwest,West North Central,45.0127,-96.1889
+MN,Minnesota,Cook,Midwest,West North Central,47.6715,-90.6885
+MN,Minnesota,Hubbard,Midwest,West North Central,46.917,-95.0596
+MO,Missouri,Grundy,Midwest,West North Central,40.0819,-93.603
+MO,Missouri,Jackson,Midwest,West North Central,39.1363,-94.1307
+MO,Missouri,St. Charles,Midwest,West North Central,38.8664,-90.2084
+MO,Missouri,St. Louis,Midwest,West North Central,38.5242,-90.3365
+MO,Missouri,Newton,Midwest,West North Central,37.0355,-94.5379
+MO,Missouri,Phelps,Midwest,West North Central,37.7025,-91.8661
+MO,Missouri,Monroe,Midwest,West North Central,39.4773,-92.0039
+MO,Missouri,Audrain,Midwest,West North Central,39.2747,-91.5763
+MO,Missouri,Gasconade,Midwest,West North Central,38.6983,-91.4342
+MO,Missouri,Worth,Midwest,West North Central,40.4045,-94.4465
+MO,Missouri,Jefferson,Midwest,West North Central,38.3655,-90.3645
+MO,Missouri,Texas,Midwest,West North Central,37.1785,-91.6576
+MO,Missouri,Lawrence,Midwest,West North Central,36.9674,-93.7183
+MO,Missouri,Pike,Midwest,West North Central,39.2622,-90.8287
+MO,Missouri,Clay,Midwest,West North Central,39.1545,-94.5452
+MO,Missouri,Pemiscot,Midwest,West North Central,36.3318,-89.8242
+MO,Missouri,Ozark,Midwest,West North Central,36.7857,-92.5685
+MO,Missouri,Cooper,Midwest,West North Central,38.9341,-92.7025
+MO,Missouri,Platte,Midwest,West North Central,39.1924,-94.622
+MO,Missouri,Atchison,Midwest,West North Central,40.3392,-95.392
+MO,Missouri,Jasper,Midwest,West North Central,37.0711,-94.4573
+MO,Missouri,Miller,Midwest,West North Central,38.3512,-92.5766
+MO,Missouri,Pulaski,Midwest,West North Central,37.7562,-92.1274
+MO,Missouri,St. Francois,Midwest,West North Central,37.8618,-90.5892
+MO,Missouri,Dunklin,Midwest,West North Central,36.0404,-90.1158
+MO,Missouri,Howell,Midwest,West North Central,36.6311,-91.9602
+MO,Missouri,McDonald,Midwest,West North Central,36.5746,-94.3912
+MO,Missouri,Mississippi,Midwest,West North Central,36.7789,-89.3841
+MO,Missouri,Reynolds,Midwest,West North Central,37.4574,-91.212
+MO,Missouri,Barry,Midwest,West North Central,36.6707,-93.9399
+MO,Missouri,Cape Girardeau,Midwest,West North Central,37.2368,-89.7978
+MO,Missouri,Daviess,Midwest,West North Central,39.9106,-93.9642
+MO,Missouri,Perry,Midwest,West North Central,37.7836,-89.918
+MO,Missouri,Wright,Midwest,West North Central,37.1072,-92.4189
+MO,Missouri,Boone,Midwest,West North Central,39.2105,-92.1342
+MO,Missouri,Macon,Midwest,West North Central,39.7509,-92.5646
+MO,Missouri,Putnam,Midwest,West North Central,40.492,-92.7005
+MO,Missouri,Nodaway,Midwest,West North Central,40.288,-95.0795
+MO,Missouri,Taney,Midwest,West North Central,36.6058,-93.2338
+MO,Missouri,Osage,Midwest,West North Central,38.4414,-92.0005
+MO,Missouri,Madison,Midwest,West North Central,37.4872,-90.296
+MO,Missouri,Sullivan,Midwest,West North Central,40.1972,-93.35
+MO,Missouri,Scott,Midwest,West North Central,37.0938,-89.5547
+MO,Missouri,Bates,Midwest,West North Central,38.071,-94.08
+MO,Missouri,Stone,Midwest,West North Central,36.8054,-93.4709
+MO,Missouri,Livingston,Midwest,West North Central,39.6713,-93.6341
+MO,Missouri,Dallas,Midwest,West North Central,37.8435,-93.1676
+MO,Missouri,Cole,Midwest,West North Central,38.5157,-92.0647
+MO,Missouri,Shelby,Midwest,West North Central,39.7432,-92.2602
+MO,Missouri,Andrew,Midwest,West North Central,39.8388,-94.8205
+MO,Missouri,Shannon,Midwest,West North Central,36.9817,-91.5749
+MO,Missouri,Marion,Midwest,West North Central,39.7097,-91.3936
+MO,Missouri,Franklin,Midwest,West North Central,38.3361,-90.9711
+MO,Missouri,Barton,Midwest,West North Central,37.5568,-94.6153
+MO,Missouri,Montgomery,Midwest,West North Central,38.9125,-91.5323
+MO,Missouri,Linn,Midwest,West North Central,39.8767,-93.1868
+MO,Missouri,New Madrid,Midwest,West North Central,36.6111,-89.7061
+MO,Missouri,Cass,Midwest,West North Central,38.7306,-94.4736
+MO,Missouri,Mercer,Midwest,West North Central,40.3966,-93.5884
+MO,Missouri,Harrison,Midwest,West North Central,40.2684,-94.0281
+MO,Missouri,Lafayette,Midwest,West North Central,38.9877,-93.5683
+MO,Missouri,Lincoln,Midwest,West North Central,39.1682,-90.7879
+MO,Missouri,Ray,Midwest,West North Central,39.1956,-94.0523
+MO,Missouri,Vernon,Midwest,West North Central,37.8445,-94.3492
+MO,Missouri,Clark,Midwest,West North Central,40.3921,-91.9261
+MO,Missouri,Polk,Midwest,West North Central,37.6331,-93.5769
+MO,Missouri,Camden,Midwest,West North Central,37.8136,-92.5143
+MO,Missouri,Pettis,Midwest,West North Central,38.6211,-93.4101
+MO,Missouri,Bollinger,Midwest,West North Central,37.3171,-90.0282
+MO,Missouri,Ralls,Midwest,West North Central,39.5844,-91.3987
+MO,Missouri,Schuyler,Midwest,West North Central,40.5238,-92.5314
+MO,Missouri,Howard,Midwest,West North Central,39.2279,-92.8394
+MO,Missouri,Ste. Genevieve,Midwest,West North Central,38.0147,-90.2214
+MO,Missouri,Washington,Midwest,West North Central,37.7651,-90.7723
+MO,Missouri,Hickory,Midwest,West North Central,37.9426,-93.4027
+MO,Missouri,Moniteau,Midwest,West North Central,38.6611,-92.6661
+MO,Missouri,Clinton,Midwest,West North Central,39.5644,-94.4615
+MO,Missouri,Callaway,Midwest,West North Central,38.6452,-92.1151
+MO,Missouri,Maries,Midwest,West North Central,38.2848,-91.7217
+MO,Missouri,Johnson,Midwest,West North Central,38.5833,-93.6952
+MO,Missouri,Dade,Midwest,West North Central,37.3428,-93.7024
+MO,Missouri,Saline,Midwest,West North Central,39.194,-93.3636
+MO,Missouri,Gentry,Midwest,West North Central,40.2166,-94.5381
+MO,Missouri,Greene,Midwest,West North Central,37.1193,-93.3683
+MO,Missouri,Cedar,Midwest,West North Central,37.6233,-93.8036
+MO,Missouri,Stoddard,Midwest,West North Central,37.0237,-89.8196
+MO,Missouri,Chariton,Midwest,West North Central,39.4233,-92.8025
+MO,Missouri,Scotland,Midwest,West North Central,40.467,-91.9736
+MO,Missouri,Carroll,Midwest,West North Central,39.4579,-93.5239
+MO,Missouri,St. Clair,Midwest,West North Central,37.9891,-93.6637
+MO,Missouri,Butler,Midwest,West North Central,36.7632,-90.4136
+MO,Missouri,Laclede,Midwest,West North Central,37.5486,-92.5961
+MO,Missouri,Christian,Midwest,West North Central,37.0459,-93.2953
+MO,Missouri,Buchanan,Midwest,West North Central,39.7226,-94.6404
+MO,Missouri,Holt,Midwest,West North Central,39.9861,-95.1433
+MO,Missouri,Henry,Midwest,West North Central,38.4331,-93.9342
+MO,Missouri,Adair,Midwest,West North Central,40.1484,-92.3787
+MO,Missouri,DeKalb,Midwest,West North Central,39.8139,-94.5507
+MO,Missouri,Crawford,Midwest,West North Central,38.0948,-91.2953
+MO,Missouri,Warren,Midwest,West North Central,38.8262,-91.2322
+MO,Missouri,Randolph,Midwest,West North Central,39.5114,-92.4411
+MO,Missouri,Iron,Midwest,West North Central,37.2837,-90.6354
+MO,Missouri,Knox,Midwest,West North Central,40.149,-92.3034
+MO,Missouri,Benton,Midwest,West North Central,38.2474,-93.371
+MO,Missouri,Lewis,Midwest,West North Central,40.1295,-91.5266
+MO,Missouri,Caldwell,Midwest,West North Central,39.5495,-94.0396
+MO,Missouri,Oregon,Midwest,West North Central,36.5974,-91.6461
+MO,Missouri,Dent,Midwest,West North Central,37.6398,-91.5346
+MO,Missouri,Morgan,Midwest,West North Central,38.6696,-92.8763
+MO,Missouri,Wayne,Midwest,West North Central,37.1284,-90.4472
+MO,Missouri,Carter,Midwest,West North Central,37.0082,-91.0113
+MO,Missouri,Webster,Midwest,West North Central,37.3886,-92.8304
+MO,Missouri,Ripley,Midwest,West North Central,36.6234,-90.8219
+MO,Missouri,Douglas,Midwest,West North Central,36.9546,-92.6661
+MS,Mississippi,Copiah,South,East South Central,31.9903,-90.354
+MS,Mississippi,Oktibbeha,South,East South Central,33.3451,-89.0458
+MS,Mississippi,Amite,South,East South Central,31.1611,-90.8006
+MS,Mississippi,Sunflower,South,East South Central,33.8101,-90.5304
+MS,Mississippi,Harrison,South,East South Central,30.4422,-88.9512
+MS,Mississippi,Chickasaw,South,East South Central,34.0053,-88.7479
+MS,Mississippi,Jackson,South,East South Central,30.5905,-88.4846
+MS,Mississippi,Tishomingo,South,East South Central,34.4866,-88.1863
+MS,Mississippi,Bolivar,South,East South Central,34.09,-90.7206
+MS,Mississippi,Madison,South,East South Central,32.5434,-90.3142
+MS,Mississippi,Simpson,South,East South Central,31.873,-89.734
+MS,Mississippi,Grenada,South,East South Central,33.7816,-89.813
+MS,Mississippi,Itawamba,South,East South Central,34.2327,-88.2507
+MS,Mississippi,Humphreys,South,East South Central,33.0952,-90.4967
+MS,Mississippi,Winston,South,East South Central,33.1224,-89.0553
+MS,Mississippi,Scott,South,East South Central,32.4491,-89.4889
+MS,Mississippi,Lowndes,South,East South Central,33.6276,-88.4454
+MS,Mississippi,Carroll,South,East South Central,33.5186,-89.9193
+MS,Mississippi,Tallahatchie,South,East South Central,34.0075,-90.0552
+MS,Mississippi,Perry,South,East South Central,31.2036,-89.0272
+MS,Mississippi,Clarke,South,East South Central,32.0441,-88.8844
+MS,Mississippi,Greene,South,East South Central,31.1037,-88.8239
+MS,Mississippi,Quitman,South,East South Central,34.2006,-90.2845
+MS,Mississippi,DeSoto,South,East South Central,34.85,-89.9921
+MS,Mississippi,Yalobusha,South,East South Central,33.9765,-89.6845
+MS,Mississippi,Smith,South,East South Central,32.0144,-89.3818
+MS,Mississippi,Coahoma,South,East South Central,34.3222,-90.4542
+MS,Mississippi,Adams,South,East South Central,31.496,-91.4152
+MS,Mississippi,Neshoba,South,East South Central,32.7889,-89.2384
+MS,Mississippi,Covington,South,East South Central,31.5581,-89.4987
+MS,Mississippi,Rankin,South,East South Central,32.2778,-89.9896
+MS,Mississippi,Calhoun,South,East South Central,33.9909,-89.3454
+MS,Mississippi,Holmes,South,East South Central,33.323,-90.2355
+MS,Mississippi,Sharkey,South,East South Central,32.9719,-90.8284
+MS,Mississippi,Jones,South,East South Central,31.7879,-89.0362
+MS,Mississippi,Jefferson Davis,South,East South Central,31.4961,-89.745
+MS,Mississippi,Choctaw,South,East South Central,33.2931,-89.3993
+MS,Mississippi,Benton,South,East South Central,34.8239,-89.2385
+MS,Mississippi,Forrest,South,East South Central,31.3074,-89.317
+MS,Mississippi,Leake,South,East South Central,32.6749,-89.4529
+MS,Mississippi,Panola,South,East South Central,34.2409,-89.9433
+MS,Mississippi,Attala,South,East South Central,33.122,-89.465
+MS,Mississippi,Newton,South,East South Central,32.5711,-89.1152
+MS,Mississippi,Monroe,South,East South Central,33.746,-88.4095
+MS,Mississippi,Lauderdale,South,East South Central,32.5104,-88.5264
+MS,Mississippi,Tate,South,East South Central,34.6902,-89.9757
+MS,Mississippi,Lamar,South,East South Central,31.3114,-89.374
+MS,Mississippi,Noxubee,South,East South Central,33.2367,-88.5781
+MS,Mississippi,Lee,South,East South Central,34.2649,-88.5768
+MS,Mississippi,Webster,South,East South Central,33.539,-89.1278
+MS,Mississippi,Montgomery,South,East South Central,33.4404,-89.5673
+MS,Mississippi,Prentiss,South,East South Central,34.708,-88.662
+MS,Mississippi,Leflore,South,East South Central,33.5173,-90.3444
+MS,Mississippi,Pike,South,East South Central,31.0072,-90.4719
+MS,Mississippi,Tippah,South,East South Central,34.638,-88.8431
+MS,Mississippi,Wayne,South,East South Central,31.6773,-88.6353
+MS,Mississippi,Union,South,East South Central,34.4909,-89.0201
+MS,Mississippi,Warren,South,East South Central,32.3173,-90.8868
+MS,Mississippi,Lafayette,South,East South Central,34.5034,-89.5025
+MS,Mississippi,Hinds,South,East South Central,32.3163,-90.2124
+MS,Mississippi,Hancock,South,East South Central,30.3791,-89.3707
+MS,Mississippi,Franklin,South,East South Central,31.4721,-90.8929
+MS,Mississippi,George,South,East South Central,30.9312,-88.5959
+MS,Mississippi,Yazoo,South,East South Central,32.672,-90.5445
+MS,Mississippi,Pontotoc,South,East South Central,34.3611,-88.8388
+MS,Mississippi,Tunica,South,East South Central,34.7032,-90.3796
+MS,Mississippi,Stone,South,East South Central,30.8557,-89.1385
+MS,Mississippi,Walthall,South,East South Central,31.1173,-90.1444
+MS,Mississippi,Alcorn,South,East South Central,34.9224,-88.4432
+MS,Mississippi,Jasper,South,East South Central,32.0722,-89.2626
+MS,Mississippi,Washington,South,East South Central,33.385,-91.0514
+MS,Mississippi,Claiborne,South,East South Central,31.8804,-91.1407
+MS,Mississippi,Lawrence,South,East South Central,31.6048,-90.0023
+MS,Mississippi,Marshall,South,East South Central,34.6492,-89.3065
+MS,Mississippi,Clay,South,East South Central,33.6064,-88.6571
+MS,Mississippi,Kemper,South,East South Central,32.8302,-88.4771
+MS,Mississippi,Marion,South,East South Central,31.2386,-89.8829
+MS,Mississippi,Lincoln,South,East South Central,31.5803,-90.4432
+MS,Mississippi,Issaquena,South,East South Central,32.8964,-91.0467
+MS,Mississippi,Pearl River,South,East South Central,30.574,-89.6419
+MS,Mississippi,Jefferson,South,East South Central,31.7123,-91.062
+MS,Mississippi,Wilkinson,South,East South Central,31.087,-91.0654
+MT,Montana,Park,West,Mountain,45.0187,-109.9119
+MT,Montana,Fergus,West,Mountain,47.3343,-108.96
+MT,Montana,Flathead,West,Mountain,48.0858,-114.671
+MT,Montana,Blaine,West,Mountain,48.0272,-108.5518
+MT,Montana,Lincoln,West,Mountain,48.7723,-114.9008
+MT,Montana,Daniels,West,Mountain,48.8045,-105.1736
+MT,Montana,Cascade,West,Mountain,47.3533,-111.1698
+MT,Montana,Yellowstone,West,Mountain,46.0988,-108.8789
+MT,Montana,Lake,West,Mountain,47.5287,-114.1005
+MT,Montana,Big Horn,West,Mountain,45.6026,-107.4591
+MT,Montana,Missoula,West,Mountain,47.0326,-114.3397
+MT,Montana,Sanders,West,Mountain,47.6946,-114.6408
+MT,Montana,Valley,West,Mountain,48.4036,-107.0582
+MT,Montana,Gallatin,West,Mountain,45.6828,-111.0549
+MT,Montana,Sweet Grass,West,Mountain,45.8347,-109.9488
+MT,Montana,Pondera,West,Mountain,48.2905,-112.8363
+MT,Montana,Chouteau,West,Mountain,47.7812,-110.9399
+MT,Montana,Ravalli,West,Mountain,46.511,-114.0787
+MT,Montana,Wheatland,West,Mountain,46.3447,-109.5123
+MT,Montana,Deer Lodge,West,Mountain,46.0607,-113.0679
+MT,Montana,Hill,West,Mountain,48.5437,-109.8068
+MT,Montana,Jefferson,West,Mountain,45.8709,-112.0975
+MT,Montana,Madison,West,Mountain,45.3216,-112.1093
+MT,Montana,Rosebud,West,Mountain,45.5977,-106.2975
+MT,Montana,Phillips,West,Mountain,48.7634,-107.6302
+MT,Montana,Beaverhead,West,Mountain,44.6384,-112.5919
+MT,Montana,Teton,West,Mountain,47.6152,-111.9815
+MT,Montana,Toole,West,Mountain,48.8777,-111.9062
+MT,Montana,Broadwater,West,Mountain,46.4684,-111.6652
+MT,Montana,Sheridan,West,Mountain,48.871,-104.0551
+MT,Montana,Glacier,West,Mountain,48.5458,-113.0128
+MT,Montana,Granite,West,Mountain,46.476,-113.2355
+MT,Montana,Golden Valley,West,Mountain,46.295,-108.9388
+MT,Montana,Dawson,West,Mountain,47.1102,-104.7069
+MT,Montana,Musselshell,West,Mountain,46.5987,-107.8683
+MT,Montana,Mineral,West,Mountain,47.1472,-114.8318
+MT,Montana,Richland,West,Mountain,47.7152,-104.168
+MT,Montana,Meagher,West,Mountain,46.5452,-110.9039
+MT,Montana,Lewis and Clark,West,Mountain,46.7289,-112.0627
+MT,Montana,Powell,West,Mountain,46.5587,-112.4639
+MT,Montana,Custer,West,Mountain,46.4059,-105.8385
+MT,Montana,Powder River,West,Mountain,45.1051,-105.3116
+MT,Montana,Stillwater,West,Mountain,45.7071,-109.5471
+MT,Montana,Garfield,West,Mountain,47.321,-106.9097
+MT,Montana,Carbon,West,Mountain,45.3436,-109.1817
+MT,Montana,Liberty,West,Mountain,48.5113,-110.9663
+MT,Montana,Roosevelt,West,Mountain,48.338,-104.4909
+MT,Montana,Judith Basin,West,Mountain,46.9994,-109.8734
+MT,Montana,Wibaux,West,Mountain,46.9865,-104.1901
+MT,Montana,Carter,West,Mountain,45.0205,-104.4129
+MT,Montana,Silver Bow,West,Mountain,46.0366,-112.5396
+MT,Montana,Prairie,West,Mountain,46.8373,-105.127
+MT,Montana,McCone,West,Mountain,47.4176,-105.587
+MT,Montana,Fallon,West,Mountain,46.4184,-104.5186
+MT,Montana,Treasure,West,Mountain,46.2909,-107.2305
+MT,Montana,Petroleum,West,Mountain,47.0043,-108.3466
+NC,North Carolina,Jones,South,South Atlantic,35.064,-77.3553
+NC,North Carolina,Stanly,South,South Atlantic,35.2336,-80.4303
+NC,North Carolina,Lee,South,South Atlantic,35.4874,-79.1772
+NC,North Carolina,Hertford,South,South Atlantic,36.3567,-76.9105
+NC,North Carolina,Davidson,South,South Atlantic,35.8813,-80.0807
+NC,North Carolina,Beaufort,South,South Atlantic,35.303,-76.7889
+NC,North Carolina,Cleveland,South,South Atlantic,35.5127,-81.6168
+NC,North Carolina,Alamance,South,South Atlantic,36.0876,-79.2756
+NC,North Carolina,Moore,South,South Atlantic,35.2533,-79.2845
+NC,North Carolina,Jackson,South,South Atlantic,35.2958,-83.1954
+NC,North Carolina,Carteret,South,South Atlantic,34.6973,-77.0572
+NC,North Carolina,Surry,South,South Atlantic,36.5233,-80.8671
+NC,North Carolina,Duplin,South,South Atlantic,34.8271,-77.9247
+NC,North Carolina,Harnett,South,South Atlantic,35.3999,-78.814
+NC,North Carolina,Durham,South,South Atlantic,36.0418,-78.8091
+NC,North Carolina,Bertie,South,South Atlantic,36.2015,-76.7663
+NC,North Carolina,Randolph,South,South Atlantic,35.8556,-79.5682
+NC,North Carolina,Mitchell,South,South Atlantic,36.0154,-82.1582
+NC,North Carolina,Guilford,South,South Atlantic,35.9905,-79.9937
+NC,North Carolina,Mecklenburg,South,South Atlantic,35.0864,-80.8915
+NC,North Carolina,Avery,South,South Atlantic,36.0987,-81.8482
+NC,North Carolina,Greene,South,South Atlantic,35.4505,-77.6768
+NC,North Carolina,Rowan,South,South Atlantic,35.6821,-80.4275
+NC,North Carolina,Davie,South,South Atlantic,35.9468,-80.4045
+NC,North Carolina,Franklin,South,South Atlantic,36.1011,-78.4522
+NC,North Carolina,Pitt,South,South Atlantic,35.3804,-77.4334
+NC,North Carolina,Dare,South,South Atlantic,35.9475,-75.6275
+NC,North Carolina,Lincoln,South,South Atlantic,35.4193,-80.9999
+NC,North Carolina,Wake,South,South Atlantic,35.8366,-78.8348
+NC,North Carolina,Onslow,South,South Atlantic,34.7498,-77.3209
+NC,North Carolina,Brunswick,South,South Atlantic,34.283,-78.029
+NC,North Carolina,Cabarrus,South,South Atlantic,35.4764,-80.6403
+NC,North Carolina,Camden,South,South Atlantic,36.4379,-76.3308
+NC,North Carolina,New Hanover,South,South Atlantic,34.123,-77.8834
+NC,North Carolina,Buncombe,South,South Atlantic,35.6142,-82.3275
+NC,North Carolina,Richmond,South,South Atlantic,34.9386,-79.7608
+NC,North Carolina,Robeson,South,South Atlantic,34.4751,-79.037
+NC,North Carolina,Granville,South,South Atlantic,36.4475,-78.5689
+NC,North Carolina,Gaston,South,South Atlantic,35.2652,-81.0805
+NC,North Carolina,Burke,South,South Atlantic,35.7181,-81.4211
+NC,North Carolina,Ashe,South,South Atlantic,36.3944,-81.4898
+NC,North Carolina,Scotland,South,South Atlantic,34.7691,-79.445
+NC,North Carolina,Caldwell,South,South Atlantic,35.9436,-81.458
+NC,North Carolina,Edgecombe,South,South Atlantic,35.9896,-77.58
+NC,North Carolina,Orange,South,South Atlantic,36.0806,-79.1718
+NC,North Carolina,Wilkes,South,South Atlantic,36.2469,-81.1142
+NC,North Carolina,Johnston,South,South Atlantic,35.4669,-78.1612
+NC,North Carolina,Cumberland,South,South Atlantic,35.2133,-78.677
+NC,North Carolina,Pasquotank,South,South Atlantic,36.2942,-76.236
+NC,North Carolina,Columbus,South,South Atlantic,34.3189,-78.5934
+NC,North Carolina,Catawba,South,South Atlantic,35.5853,-81.2201
+NC,North Carolina,Craven,South,South Atlantic,35.2155,-77.4337
+NC,North Carolina,Henderson,South,South Atlantic,35.4481,-82.4294
+NC,North Carolina,Pender,South,South Atlantic,34.5166,-77.9174
+NC,North Carolina,Iredell,South,South Atlantic,35.6871,-80.8832
+NC,North Carolina,Nash,South,South Atlantic,36.0114,-77.8572
+NC,North Carolina,Yancey,South,South Atlantic,35.9164,-82.2974
+NC,North Carolina,Wayne,South,South Atlantic,35.3777,-77.972
+NC,North Carolina,Washington,South,South Atlantic,35.8786,-76.617
+NC,North Carolina,Rockingham,South,South Atlantic,36.4428,-79.5433
+NC,North Carolina,Hoke,South,South Atlantic,34.9358,-79.2999
+NC,North Carolina,Montgomery,South,South Atlantic,35.2162,-80.0046
+NC,North Carolina,Union,South,South Atlantic,35.0699,-80.6453
+NC,North Carolina,Haywood,South,South Atlantic,35.524,-83.0642
+NC,North Carolina,Chatham,South,South Atlantic,35.6239,-79.0768
+NC,North Carolina,Forsyth,South,South Atlantic,36.2587,-80.236
+NC,North Carolina,Graham,South,South Atlantic,35.4328,-83.8248
+NC,North Carolina,Bladen,South,South Atlantic,34.7332,-78.7903
+NC,North Carolina,Madison,South,South Atlantic,35.892,-82.8291
+NC,North Carolina,Polk,South,South Atlantic,35.266,-82.1985
+NC,North Carolina,Anson,South,South Atlantic,34.9645,-80.0746
+NC,North Carolina,Watauga,South,South Atlantic,36.2074,-81.786
+NC,North Carolina,Pamlico,South,South Atlantic,35.1449,-76.8447
+NC,North Carolina,Stokes,South,South Atlantic,36.4113,-80.2122
+NC,North Carolina,Swain,South,South Atlantic,35.4262,-83.4474
+NC,North Carolina,Sampson,South,South Atlantic,34.7859,-78.3947
+NC,North Carolina,Yadkin,South,South Atlantic,36.2336,-80.8351
+NC,North Carolina,Rutherford,South,South Atlantic,35.3624,-81.836
+NC,North Carolina,McDowell,South,South Atlantic,35.6775,-82.0014
+NC,North Carolina,Vance,South,South Atlantic,36.3259,-78.4155
+NC,North Carolina,Transylvania,South,South Atlantic,35.1458,-82.8201
+NC,North Carolina,Perquimans,South,South Atlantic,36.1813,-76.4673
+NC,North Carolina,Macon,South,South Atlantic,35.1798,-83.3809
+NC,North Carolina,Hyde,South,South Atlantic,35.5472,-76.2261
+NC,North Carolina,Wilson,South,South Atlantic,35.6055,-77.82
+NC,North Carolina,Northampton,South,South Atlantic,36.4965,-77.6448
+NC,North Carolina,Lenoir,South,South Atlantic,35.2236,-77.6333
+NC,North Carolina,Martin,South,South Atlantic,35.9443,-77.2067
+NC,North Carolina,Warren,South,South Atlantic,36.4396,-78.0839
+NC,North Carolina,Caswell,South,South Atlantic,36.5372,-79.2081
+NC,North Carolina,Halifax,South,South Atlantic,36.4452,-77.649
+NC,North Carolina,Person,South,South Atlantic,36.3905,-78.9811
+NC,North Carolina,Cherokee,South,South Atlantic,35.1771,-83.9265
+NC,North Carolina,Alexander,South,South Atlantic,35.8162,-81.2962
+NC,North Carolina,Clay,South,South Atlantic,35.0463,-83.8181
+NC,North Carolina,Currituck,South,South Atlantic,36.3513,-75.9527
+NC,North Carolina,Alleghany,South,South Atlantic,36.5035,-81.1218
+NC,North Carolina,Chowan,South,South Atlantic,36.058,-76.6008
+NC,North Carolina,Gates,South,South Atlantic,36.4072,-76.7566
+NC,North Carolina,Tyrrell,South,South Atlantic,35.9201,-76.242
+ND,North Dakota,Cavalier,Midwest,West North Central,48.7624,-98.3747
+ND,North Dakota,Ramsey,Midwest,West North Central,48.1131,-98.8753
+ND,North Dakota,Pierce,Midwest,West North Central,48.4975,-99.7038
+ND,North Dakota,Grant,Midwest,West North Central,46.3626,-101.6385
+ND,North Dakota,Stark,Midwest,West North Central,46.8841,-102.3332
+ND,North Dakota,McLean,Midwest,West North Central,47.4905,-100.7104
+ND,North Dakota,Griggs,Midwest,West North Central,47.5402,-98.2291
+ND,North Dakota,Burleigh,Midwest,West North Central,46.814,-100.7695
+ND,North Dakota,Wells,Midwest,West North Central,47.7926,-99.6528
+ND,North Dakota,McKenzie,Midwest,West North Central,47.8554,-104.0375
+ND,North Dakota,Ward,Midwest,West North Central,48.2573,-101.4146
+ND,North Dakota,Nelson,Midwest,West North Central,48.0132,-98.0004
+ND,North Dakota,Cass,Midwest,West North Central,47.0065,-97.2241
+ND,North Dakota,Sargent,Midwest,West North Central,46.2668,-97.3332
+ND,North Dakota,Golden Valley,Midwest,West North Central,46.7347,-103.9829
+ND,North Dakota,Burke,Midwest,West North Central,48.8772,-102.5645
+ND,North Dakota,Bottineau,Midwest,West North Central,48.6046,-100.2934
+ND,North Dakota,Rolette,Midwest,West North Central,48.6609,-99.8417
+ND,North Dakota,Grand Forks,Midwest,West North Central,47.9241,-97.3655
+ND,North Dakota,LaMoure,Midwest,West North Central,46.6091,-98.3375
+ND,North Dakota,Barnes,Midwest,West North Central,46.9428,-98.2238
+ND,North Dakota,Williams,Midwest,West North Central,48.2521,-103.4618
+ND,North Dakota,McIntosh,Midwest,West North Central,46.2554,-99.5546
+ND,North Dakota,Towner,Midwest,West North Central,48.6281,-99.098
+ND,North Dakota,Richland,Midwest,West North Central,46.0734,-96.8916
+ND,North Dakota,Morton,Midwest,West North Central,46.7283,-101.5026
+ND,North Dakota,Walsh,Midwest,West North Central,48.2924,-97.373
+ND,North Dakota,Adams,Midwest,West North Central,46.0034,-102.635
+ND,North Dakota,Emmons,Midwest,West North Central,46.4858,-100.2811
+ND,North Dakota,McHenry,Midwest,West North Central,48.4977,-100.6098
+ND,North Dakota,Benson,Midwest,West North Central,48.2875,-99.4344
+ND,North Dakota,Foster,Midwest,West North Central,47.4551,-98.5664
+ND,North Dakota,Pembina,Midwest,West North Central,48.8803,-97.4741
+ND,North Dakota,Dickey,Midwest,West North Central,46.0043,-98.5254
+ND,North Dakota,Mountrail,Midwest,West North Central,48.3799,-102.7718
+ND,North Dakota,Ransom,Midwest,West North Central,46.5244,-97.9311
+ND,North Dakota,Divide,Midwest,West North Central,48.9163,-103.2967
+ND,North Dakota,Traill,Midwest,West North Central,47.3482,-97.4101
+ND,North Dakota,Sheridan,Midwest,West North Central,47.484,-100.4426
+ND,North Dakota,Stutsman,Midwest,West North Central,47.3,-98.7321
+ND,North Dakota,Sioux,Midwest,West North Central,46.2218,-101.0999
+ND,North Dakota,Mercer,Midwest,West North Central,47.3187,-101.3822
+ND,North Dakota,Kidder,Midwest,West North Central,47.1421,-99.7812
+ND,North Dakota,Logan,Midwest,West North Central,46.3291,-99.0955
+ND,North Dakota,Dunn,Midwest,West North Central,47.3527,-102.6233
+ND,North Dakota,Renville,Midwest,West North Central,48.8683,-101.5678
+ND,North Dakota,Bowman,Midwest,West North Central,46.184,-103.3991
+ND,North Dakota,Steele,Midwest,West North Central,47.5974,-97.8994
+ND,North Dakota,Eddy,Midwest,West North Central,47.6798,-99.1377
+ND,North Dakota,Slope,Midwest,West North Central,46.4823,-103.3194
+ND,North Dakota,Hettinger,Midwest,West North Central,46.4222,-102.5581
+ND,North Dakota,Oliver,Midwest,West North Central,47.1149,-101.2977
+ND,North Dakota,Billings,Midwest,West North Central,46.9128,-103.5251
+NE,Nebraska,Custer,Midwest,West North Central,41.2863,-99.3824
+NE,Nebraska,Boone,Midwest,West North Central,41.6873,-97.9987
+NE,Nebraska,Hamilton,Midwest,West North Central,40.8812,-97.8875
+NE,Nebraska,Sarpy,Midwest,West North Central,41.0718,-95.9255
+NE,Nebraska,Otoe,Midwest,West North Central,40.6762,-95.8613
+NE,Nebraska,Butler,Midwest,West North Central,41.1983,-97.2974
+NE,Nebraska,Lancaster,Midwest,West North Central,40.6818,-96.5039
+NE,Nebraska,Cheyenne,Midwest,West North Central,41.4082,-102.9708
+NE,Nebraska,Thomas,Midwest,West North Central,41.9033,-100.2699
+NE,Nebraska,Rock,Midwest,West North Central,42.5828,-99.5366
+NE,Nebraska,Knox,Midwest,West North Central,42.8386,-97.8495
+NE,Nebraska,Dawes,Midwest,West North Central,42.826,-103.0025
+NE,Nebraska,Nuckolls,Midwest,West North Central,40.1642,-97.9738
+NE,Nebraska,Pierce,Midwest,West North Central,42.2747,-97.6651
+NE,Nebraska,York,Midwest,West North Central,40.7795,-97.8114
+NE,Nebraska,Clay,Midwest,West North Central,40.3548,-98.1392
+NE,Nebraska,Stanton,Midwest,West North Central,41.9471,-97.2172
+NE,Nebraska,Saunders,Midwest,West North Central,41.2665,-96.7209
+NE,Nebraska,Boyd,Midwest,West North Central,42.8313,-98.4668
+NE,Nebraska,Johnson,Midwest,West North Central,40.5104,-96.1617
+NE,Nebraska,Thurston,Midwest,West North Central,42.0574,-96.5128
+NE,Nebraska,Fillmore,Midwest,West North Central,40.4149,-97.5871
+NE,Nebraska,Garfield,Midwest,West North Central,41.78,-99.1341
+NE,Nebraska,Madison,Midwest,West North Central,42.0328,-97.4209
+NE,Nebraska,Harlan,Midwest,West North Central,40.1036,-99.3655
+NE,Nebraska,Morrill,Midwest,West North Central,41.6639,-103.0962
+NE,Nebraska,Scotts Bluff,Midwest,West North Central,41.9641,-103.9247
+NE,Nebraska,Dixon,Midwest,West North Central,42.2665,-96.8632
+NE,Nebraska,Gosper,Midwest,West North Central,40.5733,-99.7409
+NE,Nebraska,Cedar,Midwest,West North Central,42.4555,-97.4698
+NE,Nebraska,Kimball,Midwest,West North Central,41.2342,-103.4867
+NE,Nebraska,Keith,Midwest,West North Central,41.1316,-101.5853
+NE,Nebraska,Saline,Midwest,West North Central,40.4809,-96.9646
+NE,Nebraska,Greeley,Midwest,West North Central,41.5484,-98.5305
+NE,Nebraska,Jefferson,Midwest,West North Central,40.3217,-97.2983
+NE,Nebraska,Hooker,Midwest,West North Central,42.0432,-101.0444
+NE,Nebraska,Buffalo,Midwest,West North Central,40.9276,-99.3901
+NE,Nebraska,Dawson,Midwest,West North Central,40.7065,-100.2155
+NE,Nebraska,Webster,Midwest,West North Central,40.0864,-98.5222
+NE,Nebraska,Furnas,Midwest,West North Central,40.2776,-99.7763
+NE,Nebraska,Gage,Midwest,West North Central,40.2849,-96.534
+NE,Nebraska,Seward,Midwest,West North Central,40.7782,-97.2825
+NE,Nebraska,Dodge,Midwest,West North Central,41.416,-96.5021
+NE,Nebraska,Merrick,Midwest,West North Central,41.1667,-98.1389
+NE,Nebraska,Garden,Midwest,West North Central,41.4081,-102.3453
+NE,Nebraska,Washington,Midwest,West North Central,41.4747,-96.2037
+NE,Nebraska,Logan,Midwest,West North Central,41.4697,-100.4583
+NE,Nebraska,Douglas,Midwest,West North Central,41.239,-96.3526
+NE,Nebraska,Cass,Midwest,West North Central,40.8691,-96.14
+NE,Nebraska,Loup,Midwest,West North Central,41.7696,-99.3814
+NE,Nebraska,Valley,Midwest,West North Central,41.4248,-99.1259
+NE,Nebraska,Sherman,Midwest,West North Central,41.1562,-99.1532
+NE,Nebraska,Richardson,Midwest,West North Central,40.2322,-95.7735
+NE,Nebraska,Franklin,Midwest,West North Central,40.0966,-98.9514
+NE,Nebraska,Polk,Midwest,West North Central,41.116,-97.5911
+NE,Nebraska,Thayer,Midwest,West North Central,40.2475,-97.3877
+NE,Nebraska,Dundy,Midwest,West North Central,40.1143,-101.4045
+NE,Nebraska,Nemaha,Midwest,West North Central,40.4787,-95.7313
+NE,Nebraska,Antelope,Midwest,West North Central,42.3377,-97.9718
+NE,Nebraska,Adams,Midwest,West North Central,40.4377,-98.4409
+NE,Nebraska,Cherry,Midwest,West North Central,42.923,-101.6997
+NE,Nebraska,Pawnee,Midwest,West North Central,40.2428,-96.4074
+NE,Nebraska,Red Willow,Midwest,West North Central,40.2046,-100.6213
+NE,Nebraska,Howard,Midwest,West North Central,41.2156,-98.628
+NE,Nebraska,Deuel,Midwest,West North Central,41.061,-102.0745
+NE,Nebraska,Wayne,Midwest,West North Central,42.2758,-97.1909
+NE,Nebraska,Lincoln,Midwest,West North Central,40.7539,-100.7319
+NE,Nebraska,Blaine,Midwest,West North Central,41.8272,-100.1046
+NE,Nebraska,Colfax,Midwest,West North Central,41.4367,-97.2152
+NE,Nebraska,Holt,Midwest,West North Central,42.3819,-98.5298
+NE,Nebraska,Chase,Midwest,West North Central,40.455,-101.5355
+NE,Nebraska,Box Butte,Midwest,West North Central,42.3213,-103.0753
+NE,Nebraska,Perkins,Midwest,West North Central,40.8444,-101.7256
+NE,Nebraska,Platte,Midwest,West North Central,41.7004,-97.6938
+NE,Nebraska,Kearney,Midwest,West North Central,40.4981,-98.9671
+NE,Nebraska,Frontier,Midwest,West North Central,40.6335,-100.5112
+NE,Nebraska,Nance,Midwest,West North Central,41.4709,-98.0677
+NE,Nebraska,Hall,Midwest,West North Central,41.0046,-98.6007
+NE,Nebraska,Cuming,Midwest,West North Central,41.8378,-96.7062
+NE,Nebraska,Dakota,Midwest,West North Central,42.4507,-96.579
+NE,Nebraska,Grant,Midwest,West North Central,42.0005,-101.7622
+NE,Nebraska,Sheridan,Midwest,West North Central,42.8064,-102.204
+NE,Nebraska,Burt,Midwest,West North Central,41.936,-96.4717
+NE,Nebraska,Wheeler,Midwest,West North Central,41.7803,-98.6785
+NE,Nebraska,Hayes,Midwest,West North Central,40.3845,-101.2346
+NE,Nebraska,Hitchcock,Midwest,West North Central,40.2284,-100.8351
+NE,Nebraska,Keya Paha,Midwest,West North Central,42.8249,-99.7475
+NE,Nebraska,Phelps,Midwest,West North Central,40.5263,-99.6324
+NE,Nebraska,Brown,Midwest,West North Central,42.5485,-99.8574
+NE,Nebraska,Banner,Midwest,West North Central,41.5505,-103.7267
+NE,Nebraska,Sioux,Midwest,West North Central,42.6879,-103.8826
+NE,Nebraska,Arthur,Midwest,West North Central,41.5718,-101.6923
+NE,Nebraska,McPherson,Midwest,West North Central,41.5584,-100.9536
+NH,New Hampshire,Strafford,Northeast,New England,43.2534,-70.8856
+NH,New Hampshire,Cheshire,Northeast,New England,42.9494,-72.2997
+NH,New Hampshire,Belknap,Northeast,New England,43.443,-71.5937
+NH,New Hampshire,Merrimack,Northeast,New England,43.2232,-71.7129
+NH,New Hampshire,Coos,Northeast,New England,44.4869,-71.2599
+NH,New Hampshire,Carroll,Northeast,New England,44.0524,-71.1247
+NH,New Hampshire,Rockingham,Northeast,New England,42.885,-70.8234
+NH,New Hampshire,Grafton,Northeast,New England,44.0364,-71.6895
+NH,New Hampshire,Sullivan,Northeast,New England,43.379,-72.3368
+NH,New Hampshire,Hillsborough,Northeast,New England,43.001,-71.5171
+NJ,New Jersey,Bergen,Northeast,Middle Atlantic,40.8247,-74.0613
+NJ,New Jersey,Warren,Northeast,Middle Atlantic,40.6774,-75.1558
+NJ,New Jersey,Somerset,Northeast,Middle Atlantic,40.5361,-74.5745
+NJ,New Jersey,Mercer,Northeast,Middle Atlantic,40.2236,-74.7641
+NJ,New Jersey,Cape May,Northeast,Middle Atlantic,38.9765,-74.9516
+NJ,New Jersey,Middlesex,Northeast,Middle Atlantic,40.4489,-74.2495
+NJ,New Jersey,Hunterdon,Northeast,Middle Atlantic,40.6159,-74.772
+NJ,New Jersey,Camden,Northeast,Middle Atlantic,39.8969,-75.089
+NJ,New Jersey,Monmouth,Northeast,Middle Atlantic,40.2324,-74.2943
+NJ,New Jersey,Ocean,Northeast,Middle Atlantic,40.0384,-74.1678
+NJ,New Jersey,Passaic,Northeast,Middle Atlantic,40.9628,-74.1844
+NJ,New Jersey,Essex,Northeast,Middle Atlantic,40.8428,-74.2014
+NJ,New Jersey,Salem,Northeast,Middle Atlantic,39.6503,-75.3251
+NJ,New Jersey,Sussex,Northeast,Middle Atlantic,41.1874,-74.5015
+NJ,New Jersey,Gloucester,Northeast,Middle Atlantic,39.7458,-75.3117
+NJ,New Jersey,Atlantic,Northeast,Middle Atlantic,39.564,-74.5961
+NJ,New Jersey,Cumberland,Northeast,Middle Atlantic,39.3265,-75.0306
+NJ,New Jersey,Union,Northeast,Middle Atlantic,40.6657,-74.1912
+NJ,New Jersey,Hudson,Northeast,Middle Atlantic,40.7927,-74.0048
+NJ,New Jersey,Burlington,Northeast,Middle Atlantic,39.9016,-74.9297
+NJ,New Jersey,Morris,Northeast,Middle Atlantic,40.7966,-74.4772
+NM,New Mexico,Valencia,West,Mountain,34.7687,-106.6447
+NM,New Mexico,Taos,West,Mountain,36.7041,-105.4064
+NM,New Mexico,Harding,West,Mountain,35.9451,-104.1963
+NM,New Mexico,Roosevelt,West,Mountain,33.8609,-103.1071
+NM,New Mexico,Sandoval,West,Mountain,35.2366,-106.6191
+NM,New Mexico,San Miguel,West,Mountain,35.3037,-105.3913
+NM,New Mexico,Hidalgo,West,Mountain,32.3748,-108.7161
+NM,New Mexico,Santa Fe,West,Mountain,35.8464,-105.9948
+NM,New Mexico,Bernalillo,West,Mountain,35.0609,-106.4587
+NM,New Mexico,Rio Arriba,West,Mountain,36.1769,-106.4245
+NM,New Mexico,Cibola,West,Mountain,35.0659,-107.5676
+NM,New Mexico,Luna,West,Mountain,32.3161,-107.7602
+NM,New Mexico,San Juan,West,Mountain,36.2834,-108.7082
+NM,New Mexico,Socorro,West,Mountain,34.2183,-106.9151
+NM,New Mexico,Doña Ana,West,Mountain,32.167,-106.6885
+NM,New Mexico,Grant,West,Mountain,32.7773,-108.154
+NM,New Mexico,Los Alamos,West,Mountain,35.8926,-106.2862
+NM,New Mexico,Catron,West,Mountain,33.6757,-108.7768
+NM,New Mexico,McKinley,West,Mountain,35.0708,-108.8484
+NM,New Mexico,Lincoln,West,Mountain,33.5392,-105.5983
+NM,New Mexico,Mora,West,Mountain,35.79,-104.9821
+NM,New Mexico,Eddy,West,Mountain,32.1767,-104.3739
+NM,New Mexico,Colfax,West,Mountain,36.8849,-104.4396
+NM,New Mexico,Lea,West,Mountain,32.4465,-103.2009
+NM,New Mexico,Sierra,West,Mountain,33.1864,-107.2589
+NM,New Mexico,Guadalupe,West,Mountain,34.936,-104.6769
+NM,New Mexico,Torrance,West,Mountain,34.7669,-106.0313
+NM,New Mexico,Otero,West,Mountain,33.1473,-105.859
+NM,New Mexico,Chaves,West,Mountain,33.1146,-104.3285
+NM,New Mexico,Quay,West,Mountain,35.3581,-103.4449
+NM,New Mexico,Union,West,Mountain,36.8481,-103.9186
+NM,New Mexico,Curry,West,Mountain,34.8217,-103.3157
+NM,New Mexico,De Baca,West,Mountain,34.6186,-104.3801
+NV,Nevada,Elko,West,Mountain,40.7239,-115.479
+NV,Nevada,Pershing,West,Mountain,40.4556,-118.2676
+NV,Nevada,Clark,West,Mountain,36.0146,-115.0362
+NV,Nevada,Douglas,West,Mountain,38.9609,-119.7688
+NV,Nevada,Washoe,West,Mountain,40.6451,-119.3614
+NV,Nevada,Lincoln,West,Mountain,37.952,-114.4434
+NV,Nevada,Eureka,West,Mountain,40.4199,-116.5753
+NV,Nevada,Humboldt,West,Mountain,41.49,-117.5323
+NV,Nevada,Mineral,West,Mountain,38.6468,-118.7572
+NV,Nevada,Nye,West,Mountain,38.8655,-117.9238
+NV,Nevada,Storey,West,Mountain,39.3075,-119.6483
+NV,Nevada,Churchill,West,Mountain,39.4151,-118.7165
+NV,Nevada,Lyon,West,Mountain,39.2639,-119.6356
+NV,Nevada,Lander,West,Mountain,39.4978,-117.0741
+NV,Nevada,White Pine,West,Mountain,38.9157,-115.0643
+NV,Nevada,Esmeralda,West,Mountain,37.7577,-117.6386
+NV,Nevada,Carson City,West,Mountain,39.1511,-119.7474
+NY,New York,Orange,Northeast,Middle Atlantic,41.3782,-74.6909
+NY,New York,Putnam,Northeast,Middle Atlantic,41.4228,-73.6069
+NY,New York,Wayne,Northeast,Middle Atlantic,43.2371,-77.0628
+NY,New York,Nassau,Northeast,Middle Atlantic,40.799,-73.6491
+NY,New York,Oneida,Northeast,Middle Atlantic,43.0479,-75.2811
+NY,New York,Chemung,Northeast,Middle Atlantic,42.0127,-76.7298
+NY,New York,Greene,Northeast,Middle Atlantic,42.1773,-74.0229
+NY,New York,Cayuga,Northeast,Middle Atlantic,42.7511,-76.6994
+NY,New York,Livingston,Northeast,Middle Atlantic,42.5838,-77.7915
+NY,New York,Clinton,Northeast,Middle Atlantic,44.6951,-73.4563
+NY,New York,Niagara,Northeast,Middle Atlantic,43.1451,-78.8777
+NY,New York,Allegany,Northeast,Middle Atlantic,42.3193,-77.7386
+NY,New York,Franklin,Northeast,Middle Atlantic,44.2326,-74.4621
+NY,New York,Suffolk,Northeast,Middle Atlantic,40.933,-72.4047
+NY,New York,Schuyler,Northeast,Middle Atlantic,42.335,-76.7881
+NY,New York,Chautauqua,Northeast,Middle Atlantic,42.0747,-79.485
+NY,New York,Sullivan,Northeast,Middle Atlantic,41.7962,-74.7429
+NY,New York,Otsego,Northeast,Middle Atlantic,42.7978,-74.7506
+NY,New York,Jefferson,Northeast,Middle Atlantic,43.7351,-76.1344
+NY,New York,Broome,Northeast,Middle Atlantic,42.1716,-75.8586
+NY,New York,Dutchess,Northeast,Middle Atlantic,41.6191,-73.7944
+NY,New York,Westchester,Northeast,Middle Atlantic,40.9469,-73.7316
+NY,New York,Erie,Northeast,Middle Atlantic,43.0085,-78.6308
+NY,New York,Rockland,Northeast,Middle Atlantic,41.1213,-74.0685
+NY,New York,Monroe,Northeast,Middle Atlantic,43.2137,-77.9403
+NY,New York,Steuben,Northeast,Middle Atlantic,42.1634,-77.0925
+NY,New York,St. Lawrence,Northeast,Middle Atlantic,44.7481,-74.997
+NY,New York,Tompkins,Northeast,Middle Atlantic,42.4113,-76.4883
+NY,New York,Albany,Northeast,Middle Atlantic,42.7199,-73.8333
+NY,New York,Washington,Northeast,Middle Atlantic,43.4082,-73.2617
+NY,New York,Ontario,Northeast,Middle Atlantic,42.8095,-77.2582
+NY,New York,Cattaraugus,Northeast,Middle Atlantic,42.0368,-78.3373
+NY,New York,Rensselaer,Northeast,Middle Atlantic,42.5332,-73.7493
+NY,New York,Onondaga,Northeast,Middle Atlantic,43.0409,-76.1438
+NY,New York,Herkimer,Northeast,Middle Atlantic,43.1859,-75.0151
+NY,New York,Chenango,Northeast,Middle Atlantic,42.624,-75.3353
+NY,New York,Genesee,Northeast,Middle Atlantic,42.978,-77.9899
+NY,New York,Lewis,Northeast,Middle Atlantic,43.8947,-75.3914
+NY,New York,Oswego,Northeast,Middle Atlantic,43.3194,-76.5778
+NY,New York,Madison,Northeast,Middle Atlantic,42.7401,-75.5436
+NY,New York,Ulster,Northeast,Middle Atlantic,41.6655,-74.3912
+NY,New York,Columbia,Northeast,Middle Atlantic,42.4134,-73.6778
+NY,New York,Fulton,Northeast,Middle Atlantic,43.1028,-74.2661
+NY,New York,Seneca,Northeast,Middle Atlantic,42.6135,-76.8225
+NY,New York,Saratoga,Northeast,Middle Atlantic,42.9468,-73.6441
+NY,New York,Delaware,Northeast,Middle Atlantic,42.4459,-74.9088
+NY,New York,Tioga,Northeast,Middle Atlantic,42.2149,-76.496
+NY,New York,Cortland,Northeast,Middle Atlantic,42.6004,-76.1784
+NY,New York,Orleans,Northeast,Middle Atlantic,43.3213,-78.3891
+NY,New York,Montgomery,Northeast,Middle Atlantic,42.942,-74.1907
+NY,New York,Warren,Northeast,Middle Atlantic,43.5614,-73.6588
+NY,New York,Yates,Northeast,Middle Atlantic,42.6123,-77.0916
+NY,New York,Schenectady,Northeast,Middle Atlantic,42.8614,-73.9206
+NY,New York,Wyoming,Northeast,Middle Atlantic,42.6312,-78.0525
+NY,New York,Essex,Northeast,Middle Atlantic,43.8345,-73.7647
+NY,New York,Queens,Northeast,Middle Atlantic,40.7498,-73.7976
+NY,New York,Schoharie,Northeast,Middle Atlantic,42.7068,-74.3473
+NY,New York,Bronx,Northeast,Middle Atlantic,40.8501,-73.8662
+NY,New York,New York,Northeast,Middle Atlantic,40.7834,-73.9662
+NY,New York,Hamilton,Northeast,Middle Atlantic,43.5944,-74.3822
+NY,New York,Kings,Northeast,Middle Atlantic,40.6501,-73.9496
+NY,New York,Richmond,Northeast,Middle Atlantic,40.5834,-74.1496
+OH,Ohio,Butler,Midwest,East North Central,39.4791,-84.462
+OH,Ohio,Cuyahoga,Midwest,East North Central,41.4094,-81.5625
+OH,Ohio,Athens,Midwest,East North Central,39.4016,-81.9549
+OH,Ohio,Noble,Midwest,East North Central,39.7888,-81.5565
+OH,Ohio,Jefferson,Midwest,East North Central,40.2701,-80.6318
+OH,Ohio,Hamilton,Midwest,East North Central,39.1063,-84.3703
+OH,Ohio,Coshocton,Midwest,East North Central,40.2618,-81.848
+OH,Ohio,Clermont,Midwest,East North Central,39.2123,-84.3001
+OH,Ohio,Portage,Midwest,East North Central,41.3118,-81.345
+OH,Ohio,Clark,Midwest,East North Central,39.9295,-83.6139
+OH,Ohio,Belmont,Midwest,East North Central,40.0105,-80.8814
+OH,Ohio,Marion,Midwest,East North Central,40.4598,-83.0848
+OH,Ohio,Henry,Midwest,East North Central,41.4387,-84.2554
+OH,Ohio,Miami,Midwest,East North Central,40.1504,-84.2438
+OH,Ohio,Summit,Midwest,East North Central,41.1386,-81.4344
+OH,Ohio,Franklin,Midwest,East North Central,40.0251,-82.8637
+OH,Ohio,Logan,Midwest,East North Central,40.516,-83.8875
+OH,Ohio,Champaign,Midwest,East North Central,40.127,-83.9644
+OH,Ohio,Licking,Midwest,East North Central,39.95,-82.5985
+OH,Ohio,Medina,Midwest,East North Central,41.0349,-82.0123
+OH,Ohio,Washington,Midwest,East North Central,39.4739,-81.468
+OH,Ohio,Wood,Midwest,East North Central,41.2846,-83.8438
+OH,Ohio,Stark,Midwest,East North Central,40.7978,-81.468
+OH,Ohio,Madison,Midwest,East North Central,39.733,-83.4765
+OH,Ohio,Preble,Midwest,East North Central,39.8564,-84.7922
+OH,Ohio,Seneca,Midwest,East North Central,41.2355,-82.8592
+OH,Ohio,Carroll,Midwest,East North Central,40.555,-81.1992
+OH,Ohio,Union,Midwest,East North Central,40.3534,-83.2628
+OH,Ohio,Holmes,Midwest,East North Central,40.5628,-81.8011
+OH,Ohio,Wayne,Midwest,East North Central,40.9764,-81.9
+OH,Ohio,Mercer,Midwest,East North Central,40.6915,-84.6502
+OH,Ohio,Paulding,Midwest,East North Central,41.019,-84.4775
+OH,Ohio,Fairfield,Midwest,East North Central,39.6049,-82.8235
+OH,Ohio,Pike,Midwest,East North Central,39.1256,-82.9836
+OH,Ohio,Montgomery,Midwest,East North Central,39.8393,-84.4176
+OH,Ohio,Sandusky,Midwest,East North Central,41.4216,-83.221
+OH,Ohio,Lake,Midwest,East North Central,41.6581,-81.4323
+OH,Ohio,Highland,Midwest,East North Central,39.2123,-83.6113
+OH,Ohio,Pickaway,Midwest,East North Central,39.5705,-82.9471
+OH,Ohio,Trumbull,Midwest,East North Central,41.3421,-80.5277
+OH,Ohio,Tuscarawas,Midwest,East North Central,40.2761,-81.5949
+OH,Ohio,Guernsey,Midwest,East North Central,40.1508,-81.5758
+OH,Ohio,Darke,Midwest,East North Central,40.1157,-84.4966
+OH,Ohio,Perry,Midwest,East North Central,39.6063,-82.2046
+OH,Ohio,Vinton,Midwest,East North Central,39.1591,-82.5243
+OH,Ohio,Mahoning,Midwest,East North Central,40.9042,-80.9524
+OH,Ohio,Knox,Midwest,East North Central,40.4784,-82.5485
+OH,Ohio,Monroe,Midwest,East North Central,39.7631,-81.1168
+OH,Ohio,Fulton,Midwest,East North Central,41.7113,-83.9057
+OH,Ohio,Crawford,Midwest,East North Central,40.7924,-82.8568
+OH,Ohio,Hardin,Midwest,East North Central,40.788,-83.643
+OH,Ohio,Lawrence,Midwest,East North Central,38.4375,-82.3818
+OH,Ohio,Scioto,Midwest,East North Central,38.8618,-82.8552
+OH,Ohio,Erie,Midwest,East North Central,41.2883,-82.5995
+OH,Ohio,Delaware,Midwest,East North Central,40.2219,-82.8802
+OH,Ohio,Greene,Midwest,East North Central,39.731,-84.0624
+OH,Ohio,Lucas,Midwest,East North Central,41.4906,-83.8747
+OH,Ohio,Columbiana,Midwest,East North Central,40.8871,-80.6749
+OH,Ohio,Muskingum,Midwest,East North Central,40.1376,-82.0119
+OH,Ohio,Putnam,Midwest,East North Central,40.9205,-84.0597
+OH,Ohio,Adams,Midwest,East North Central,38.9463,-83.4094
+OH,Ohio,Van Wert,Midwest,East North Central,40.7852,-84.4559
+OH,Ohio,Defiance,Midwest,East North Central,41.2944,-84.7648
+OH,Ohio,Auglaize,Midwest,East North Central,40.5558,-84.0796
+OH,Ohio,Brown,Midwest,East North Central,39.0293,-83.9267
+OH,Ohio,Warren,Midwest,East North Central,39.5022,-83.9984
+OH,Ohio,Wyandot,Midwest,East North Central,40.9517,-83.1709
+OH,Ohio,Ottawa,Midwest,East North Central,41.5094,-82.9383
+OH,Ohio,Gallia,Midwest,East North Central,38.9776,-82.3374
+OH,Ohio,Hancock,Midwest,East North Central,40.8995,-83.7271
+OH,Ohio,Ashland,Midwest,East North Central,40.6584,-82.3144
+OH,Ohio,Richland,Midwest,East North Central,40.68,-82.5793
+OH,Ohio,Huron,Midwest,East North Central,41.0796,-82.4066
+OH,Ohio,Ross,Midwest,East North Central,39.4647,-82.7456
+OH,Ohio,Shelby,Midwest,East North Central,40.2891,-84.1667
+OH,Ohio,Morgan,Midwest,East North Central,39.5489,-81.7944
+OH,Ohio,Ashtabula,Midwest,East North Central,41.5364,-80.8597
+OH,Ohio,Fayette,Midwest,East North Central,39.6079,-83.3953
+OH,Ohio,Morrow,Midwest,East North Central,40.5533,-82.8279
+OH,Ohio,Hocking,Midwest,East North Central,39.4719,-82.7374
+OH,Ohio,Clinton,Midwest,East North Central,39.5523,-83.7856
+OH,Ohio,Geauga,Midwest,East North Central,41.4318,-81.3351
+OH,Ohio,Williams,Midwest,East North Central,41.5026,-84.4183
+OH,Ohio,Lorain,Midwest,East North Central,41.2665,-82.304
+OH,Ohio,Jackson,Midwest,East North Central,39.1172,-82.5375
+OH,Ohio,Harrison,Midwest,East North Central,40.3265,-80.8954
+OH,Ohio,Allen,Midwest,East North Central,40.8307,-84.0846
+OH,Ohio,Meigs,Midwest,East North Central,38.9984,-81.9686
+OK,Oklahoma,Le Flore,South,West South Central,34.9699,-94.7205
+OK,Oklahoma,Atoka,South,West South Central,34.2356,-96.217
+OK,Oklahoma,Muskogee,South,West South Central,35.5559,-95.6525
+OK,Oklahoma,Sequoyah,South,West South Central,35.4578,-94.4984
+OK,Oklahoma,Ellis,South,West South Central,36.3741,-99.6219
+OK,Oklahoma,Payne,South,West South Central,36.2313,-96.9302
+OK,Oklahoma,Carter,South,West South Central,34.4779,-97.4661
+OK,Oklahoma,Osage,South,West South Central,36.5698,-96.708
+OK,Oklahoma,Oklahoma,South,West South Central,35.5706,-97.5567
+OK,Oklahoma,Cherokee,South,West South Central,35.9642,-94.8912
+OK,Oklahoma,Coal,South,West South Central,34.4708,-96.2209
+OK,Oklahoma,Bryan,South,West South Central,33.9899,-96.2304
+OK,Oklahoma,Tulsa,South,West South Central,35.8602,-95.9753
+OK,Oklahoma,Mayes,South,West South Central,36.477,-95.0195
+OK,Oklahoma,Adair,South,West South Central,35.9845,-94.6036
+OK,Oklahoma,Craig,South,West South Central,36.8739,-95.0947
+OK,Oklahoma,Pontotoc,South,West South Central,34.8659,-96.6678
+OK,Oklahoma,Woods,South,West South Central,36.5849,-98.8784
+OK,Oklahoma,Comanche,South,West South Central,34.6197,-98.7522
+OK,Oklahoma,Woodward,South,West South Central,36.4379,-99.2045
+OK,Oklahoma,Alfalfa,South,West South Central,36.5791,-98.4578
+OK,Oklahoma,Nowata,South,West South Central,36.9146,-95.8047
+OK,Oklahoma,Beaver,South,West South Central,36.8517,-100.0552
+OK,Oklahoma,Haskell,South,West South Central,35.2569,-94.9225
+OK,Oklahoma,Tillman,South,West South Central,34.3413,-98.8706
+OK,Oklahoma,Caddo,South,West South Central,34.9362,-98.1363
+OK,Oklahoma,Kay,South,West South Central,36.6788,-97.3281
+OK,Oklahoma,Washington,South,West South Central,36.9008,-95.9254
+OK,Oklahoma,Garvin,South,West South Central,34.8392,-97.6105
+OK,Oklahoma,Pottawatomie,South,West South Central,35.3525,-96.9647
+OK,Oklahoma,Okmulgee,South,West South Central,35.7769,-96.0279
+OK,Oklahoma,Delaware,South,West South Central,36.3013,-94.9979
+OK,Oklahoma,Grady,South,West South Central,34.9227,-97.7763
+OK,Oklahoma,Washita,South,West South Central,35.156,-99.0594
+OK,Oklahoma,Kiowa,South,West South Central,34.8662,-98.8759
+OK,Oklahoma,Texas,South,West South Central,36.861,-101.2161
+OK,Oklahoma,Roger Mills,South,West South Central,35.6699,-99.6003
+OK,Oklahoma,Logan,South,West South Central,35.9324,-97.263
+OK,Oklahoma,Garfield,South,West South Central,36.4061,-97.8701
+OK,Oklahoma,Lincoln,South,West South Central,35.895,-96.8702
+OK,Oklahoma,Johnston,South,West South Central,34.2407,-96.7566
+OK,Oklahoma,Murray,South,West South Central,34.4977,-96.9899
+OK,Oklahoma,Creek,South,West South Central,36.0821,-96.5819
+OK,Oklahoma,Grant,South,West South Central,36.9248,-97.6571
+OK,Oklahoma,Jefferson,South,West South Central,34.0826,-97.9788
+OK,Oklahoma,Jackson,South,West South Central,34.6268,-99.1373
+OK,Oklahoma,McIntosh,South,West South Central,35.2043,-95.8893
+OK,Oklahoma,Marshall,South,West South Central,34.0867,-96.7742
+OK,Oklahoma,McCurtain,South,West South Central,34.0043,-95.0895
+OK,Oklahoma,Kingfisher,South,West South Central,35.9814,-97.9106
+OK,Oklahoma,Major,South,West South Central,36.3882,-98.1779
+OK,Oklahoma,Okfuskee,South,West South Central,35.4903,-96.4793
+OK,Oklahoma,Pawnee,South,West South Central,36.1857,-96.4904
+OK,Oklahoma,Blaine,South,West South Central,35.5927,-98.2913
+OK,Oklahoma,Hughes,South,West South Central,35.0941,-96.1238
+OK,Oklahoma,Stephens,South,West South Central,34.616,-97.8207
+OK,Oklahoma,Ottawa,South,West South Central,36.9316,-94.8706
+OK,Oklahoma,Wagoner,South,West South Central,35.9641,-95.3791
+OK,Oklahoma,Pittsburg,South,West South Central,34.8353,-95.8357
+OK,Oklahoma,Love,South,West South Central,33.7935,-97.1426
+OK,Oklahoma,Beckham,South,West South Central,35.2974,-99.6284
+OK,Oklahoma,McClain,South,West South Central,35.2404,-97.5998
+OK,Oklahoma,Cleveland,South,West South Central,35.2335,-97.3471
+OK,Oklahoma,Dewey,South,West South Central,36.1548,-98.9296
+OK,Oklahoma,Noble,South,West South Central,36.2747,-97.4551
+OK,Oklahoma,Harmon,South,West South Central,34.6694,-99.7737
+OK,Oklahoma,Cimarron,South,West South Central,36.5633,-102.795
+OK,Oklahoma,Rogers,South,West South Central,36.1832,-95.7663
+OK,Oklahoma,Cotton,South,West South Central,34.1954,-98.5881
+OK,Oklahoma,Choctaw,South,West South Central,34.0244,-95.2972
+OK,Oklahoma,Harper,South,West South Central,36.6174,-99.7484
+OK,Oklahoma,Greer,South,West South Central,35.0514,-99.5099
+OK,Oklahoma,Canadian,South,West South Central,35.6014,-98.1247
+OK,Oklahoma,Custer,South,West South Central,35.5384,-98.6872
+OK,Oklahoma,Pushmataha,South,West South Central,34.5857,-95.3561
+OK,Oklahoma,Latimer,South,West South Central,34.9508,-95.0814
+OK,Oklahoma,Seminole,South,West South Central,35.2346,-96.65
+OR,Oregon,Linn,West,Pacific,44.3561,-122.865
+OR,Oregon,Morrow,West,Pacific,45.8959,-119.4883
+OR,Oregon,Marion,West,Pacific,45.2286,-122.7572
+OR,Oregon,Douglas,West,Pacific,43.0227,-123.2811
+OR,Oregon,Benton,West,Pacific,44.3307,-123.3625
+OR,Oregon,Yamhill,West,Pacific,45.211,-123.1918
+OR,Oregon,Wasco,West,Pacific,45.685,-121.3952
+OR,Oregon,Grant,West,Pacific,44.4667,-119.5322
+OR,Oregon,Wheeler,West,Pacific,44.9981,-120.2146
+OR,Oregon,Jefferson,West,Pacific,44.5232,-121.211
+OR,Oregon,Hood River,West,Pacific,45.6354,-121.5522
+OR,Oregon,Wallowa,West,Pacific,45.5704,-117.5286
+OR,Oregon,Tillamook,West,Pacific,45.1208,-123.9766
+OR,Oregon,Washington,West,Pacific,45.5272,-122.936
+OR,Oregon,Deschutes,West,Pacific,44.2614,-121.2995
+OR,Oregon,Umatilla,West,Pacific,45.976,-118.501
+OR,Oregon,Union,West,Pacific,45.3358,-118.0492
+OR,Oregon,Clackamas,West,Pacific,45.4239,-122.447
+OR,Oregon,Lane,West,Pacific,44.0563,-123.1173
+OR,Oregon,Josephine,West,Pacific,42.2797,-123.6151
+OR,Oregon,Curry,West,Pacific,42.3974,-124.4171
+OR,Oregon,Lincoln,West,Pacific,44.6231,-124.0524
+OR,Oregon,Polk,West,Pacific,44.8551,-123.1948
+OR,Oregon,Klamath,West,Pacific,42.4419,-121.2716
+OR,Oregon,Baker,West,Pacific,44.9123,-117.9396
+OR,Oregon,Coos,West,Pacific,42.886,-124.0735
+OR,Oregon,Harney,West,Pacific,43.5568,-119.0804
+OR,Oregon,Lake,West,Pacific,43.1264,-121.0495
+OR,Oregon,Clatsop,West,Pacific,46.1303,-123.3715
+OR,Oregon,Multnomah,West,Pacific,45.5358,-122.4205
+OR,Oregon,Jackson,West,Pacific,42.3845,-123.1408
+OR,Oregon,Columbia,West,Pacific,46.0768,-122.9405
+OR,Oregon,Malheur,West,Pacific,44.2476,-117.5187
+OR,Oregon,Crook,West,Pacific,44.298,-120.8616
+OR,Oregon,Gilliam,West,Pacific,45.0888,-119.884
+OR,Oregon,Sherman,West,Pacific,45.5916,-120.6975
+PA,Pennsylvania,Chester,Northeast,Middle Atlantic,39.9343,-75.5306
+PA,Pennsylvania,Montgomery,Northeast,Middle Atlantic,40.1873,-75.4581
+PA,Pennsylvania,Monroe,Northeast,Middle Atlantic,40.8998,-75.3179
+PA,Pennsylvania,Lehigh,Northeast,Middle Atlantic,40.5165,-75.5545
+PA,Pennsylvania,Centre,Northeast,Middle Atlantic,40.8266,-77.8226
+PA,Pennsylvania,Allegheny,Northeast,Middle Atlantic,40.417,-80.0544
+PA,Pennsylvania,Clearfield,Northeast,Middle Atlantic,40.8745,-78.7274
+PA,Pennsylvania,Wyoming,Northeast,Middle Atlantic,41.6119,-76.0458
+PA,Pennsylvania,Fayette,Northeast,Middle Atlantic,40.0188,-79.891
+PA,Pennsylvania,Lackawanna,Northeast,Middle Atlantic,41.4846,-75.666
+PA,Pennsylvania,Cumberland,Northeast,Middle Atlantic,40.2311,-77.0727
+PA,Pennsylvania,Schuylkill,Northeast,Middle Atlantic,40.6302,-76.3912
+PA,Pennsylvania,Jefferson,Northeast,Middle Atlantic,41.1615,-79.0827
+PA,Pennsylvania,Mifflin,Northeast,Middle Atlantic,40.5549,-77.6168
+PA,Pennsylvania,Berks,Northeast,Middle Atlantic,40.3711,-75.6306
+PA,Pennsylvania,Lancaster,Northeast,Middle Atlantic,40.2141,-76.1605
+PA,Pennsylvania,Columbia,Northeast,Middle Atlantic,41.0026,-76.4561
+PA,Pennsylvania,Clarion,Northeast,Middle Atlantic,41.021,-79.2782
+PA,Pennsylvania,Pike,Northeast,Middle Atlantic,41.3666,-74.6997
+PA,Pennsylvania,Luzerne,Northeast,Middle Atlantic,41.2867,-75.8967
+PA,Pennsylvania,Erie,Northeast,Middle Atlantic,42.0469,-80.2765
+PA,Pennsylvania,Northumberland,Northeast,Middle Atlantic,41.085,-76.8646
+PA,Pennsylvania,Westmoreland,Northeast,Middle Atlantic,40.4145,-79.5729
+PA,Pennsylvania,Crawford,Northeast,Middle Atlantic,41.562,-80.2261
+PA,Pennsylvania,Bucks,Northeast,Middle Atlantic,40.5965,-75.1987
+PA,Pennsylvania,Beaver,Northeast,Middle Atlantic,40.7355,-80.3091
+PA,Pennsylvania,Wayne,Northeast,Middle Atlantic,41.3957,-75.2731
+PA,Pennsylvania,McKean,Northeast,Middle Atlantic,41.9604,-78.6413
+PA,Pennsylvania,Snyder,Northeast,Middle Atlantic,40.7625,-76.9408
+PA,Pennsylvania,Indiana,Northeast,Middle Atlantic,40.8197,-78.8297
+PA,Pennsylvania,Elk,Northeast,Middle Atlantic,41.357,-78.6101
+PA,Pennsylvania,Clinton,Northeast,Middle Atlantic,41.0094,-77.5306
+PA,Pennsylvania,Bedford,Northeast,Middle Atlantic,40.1599,-78.232
+PA,Pennsylvania,Armstrong,Northeast,Middle Atlantic,40.5938,-79.5564
+PA,Pennsylvania,York,Northeast,Middle Atlantic,40.1542,-76.7515
+PA,Pennsylvania,Mercer,Northeast,Middle Atlantic,41.3502,-80.0837
+PA,Pennsylvania,Butler,Northeast,Middle Atlantic,40.9104,-79.9157
+PA,Pennsylvania,Delaware,Northeast,Middle Atlantic,39.8926,-75.4698
+PA,Pennsylvania,Huntingdon,Northeast,Middle Atlantic,40.6472,-78.1957
+PA,Pennsylvania,Dauphin,Northeast,Middle Atlantic,40.2657,-76.7126
+PA,Pennsylvania,Greene,Northeast,Middle Atlantic,39.9111,-80.432
+PA,Pennsylvania,Northampton,Northeast,Middle Atlantic,40.8811,-75.1861
+PA,Pennsylvania,Blair,Northeast,Middle Atlantic,40.5082,-78.4007
+PA,Pennsylvania,Tioga,Northeast,Middle Atlantic,41.9868,-76.9396
+PA,Pennsylvania,Washington,Northeast,Middle Atlantic,40.332,-80.256
+PA,Pennsylvania,Bradford,Northeast,Middle Atlantic,41.6704,-76.2623
+PA,Pennsylvania,Perry,Northeast,Middle Atlantic,40.3952,-77.0277
+PA,Pennsylvania,Somerset,Northeast,Middle Atlantic,40.2027,-78.9293
+PA,Pennsylvania,Venango,Northeast,Middle Atlantic,41.4716,-79.9311
+PA,Pennsylvania,Warren,Northeast,Middle Atlantic,41.701,-79.0298
+PA,Pennsylvania,Cambria,Northeast,Middle Atlantic,40.6048,-78.7072
+PA,Pennsylvania,Adams,Northeast,Middle Atlantic,39.9813,-77.2493
+PA,Pennsylvania,Juniata,Northeast,Middle Atlantic,40.5686,-77.4047
+PA,Pennsylvania,Lawrence,Northeast,Middle Atlantic,41.0955,-80.4953
+PA,Pennsylvania,Cameron,Northeast,Middle Atlantic,41.3448,-78.134
+PA,Pennsylvania,Lebanon,Northeast,Middle Atlantic,40.3412,-76.4228
+PA,Pennsylvania,Carbon,Northeast,Middle Atlantic,40.916,-75.9657
+PA,Pennsylvania,Franklin,Northeast,Middle Atlantic,39.7329,-77.7247
+PA,Pennsylvania,Fulton,Northeast,Middle Atlantic,39.932,-77.9958
+PA,Pennsylvania,Potter,Northeast,Middle Atlantic,41.7768,-78.1552
+PA,Pennsylvania,Lycoming,Northeast,Middle Atlantic,41.2472,-76.9184
+PA,Pennsylvania,Susquehanna,Northeast,Middle Atlantic,41.9506,-75.6095
+PA,Pennsylvania,Forest,Northeast,Middle Atlantic,41.4937,-79.448
+PA,Pennsylvania,Union,Northeast,Middle Atlantic,40.8805,-76.9842
+PA,Pennsylvania,Sullivan,Northeast,Middle Atlantic,41.418,-76.492
+PA,Pennsylvania,Montour,Northeast,Middle Atlantic,40.9615,-76.612
+PA,Pennsylvania,Philadelphia,Northeast,Middle Atlantic,40.0077,-75.1339
+PR,Puerto Rico,Guánica,South,South Atlantic,17.9789,-66.8887
+PR,Puerto Rico,Fajardo,South,South Atlantic,18.3677,-65.6303
+PR,Puerto Rico,Aguada,South,South Atlantic,18.3804,-67.1884
+PR,Puerto Rico,Yabucoa,South,South Atlantic,18.0871,-65.8404
+PR,Puerto Rico,Cidra,South,South Atlantic,18.1716,-66.1868
+PR,Puerto Rico,San Sebastián,South,South Atlantic,18.3355,-66.9949
+PR,Puerto Rico,Toa Alta,South,South Atlantic,18.3609,-66.2184
+PR,Puerto Rico,Humacao,South,South Atlantic,18.0943,-65.8165
+PR,Puerto Rico,Barceloneta,South,South Atlantic,18.4572,-66.5676
+PR,Puerto Rico,Ponce,South,South Atlantic,18.0972,-66.6196
+PR,Puerto Rico,Maunabo,South,South Atlantic,18.0093,-65.9369
+PR,Puerto Rico,Ceiba,South,South Atlantic,18.265,-65.6487
+PR,Puerto Rico,Caguas,South,South Atlantic,18.2905,-66.0492
+PR,Puerto Rico,Aguas Buenas,South,South Atlantic,18.211,-66.132
+PR,Puerto Rico,Orocovis,South,South Atlantic,18.2257,-66.3916
+PR,Puerto Rico,Luquillo,South,South Atlantic,18.3735,-65.7218
+PR,Puerto Rico,Guayama,South,South Atlantic,17.994,-66.0832
+PR,Puerto Rico,Guayanilla,South,South Atlantic,17.9942,-66.8211
+PR,Puerto Rico,Salinas,South,South Atlantic,17.9847,-66.3173
+PR,Puerto Rico,Camuy,South,South Atlantic,18.4342,-66.8861
+PR,Puerto Rico,Santa Isabel,South,South Atlantic,18.0038,-66.3919
+PR,Puerto Rico,Morovis,South,South Atlantic,18.3523,-66.4442
+PR,Puerto Rico,Rincón,South,South Atlantic,18.3235,-67.2462
+PR,Puerto Rico,Adjuntas,South,South Atlantic,18.1638,-66.7235
+PR,Puerto Rico,Jayuya,South,South Atlantic,18.2188,-66.5967
+PR,Puerto Rico,Cabo Rojo,South,South Atlantic,17.9818,-67.2086
+PR,Puerto Rico,Río Grande,South,South Atlantic,18.3732,-65.7906
+PR,Puerto Rico,Isabela,South,South Atlantic,18.4626,-67.0322
+PR,Puerto Rico,Peñuelas,South,South Atlantic,18.0595,-66.7207
+PR,Puerto Rico,Ciales,South,South Atlantic,18.3343,-66.4704
+PR,Puerto Rico,Manatí,South,South Atlantic,18.4328,-66.4409
+PR,Puerto Rico,Yauco,South,South Atlantic,18.0135,-66.8688
+PR,Puerto Rico,Vieques,South,South Atlantic,18.1021,-65.4798
+PR,Puerto Rico,Añasco,South,South Atlantic,18.286,-67.1411
+PR,Puerto Rico,Patillas,South,South Atlantic,18.0069,-66.0134
+PR,Puerto Rico,Florida,South,South Atlantic,18.3643,-66.5611
+PR,Puerto Rico,Canóvanas,South,South Atlantic,18.3371,-65.8974
+PR,Puerto Rico,Hatillo,South,South Atlantic,18.481,-66.7878
+PR,Puerto Rico,Maricao,South,South Atlantic,18.1837,-66.9809
+PR,Puerto Rico,Toa Baja,South,South Atlantic,18.4454,-66.2259
+PR,Puerto Rico,Juncos,South,South Atlantic,18.2345,-65.8751
+PR,Puerto Rico,Naguabo,South,South Atlantic,18.2174,-65.8222
+PR,Puerto Rico,Gurabo,South,South Atlantic,18.2301,-66.0042
+PR,Puerto Rico,Vega Baja,South,South Atlantic,18.4643,-66.3517
+PR,Puerto Rico,Loíza,South,South Atlantic,18.4309,-65.88
+PR,Puerto Rico,Sabana Grande,South,South Atlantic,18.0381,-66.9037
+PR,Puerto Rico,Arecibo,South,South Atlantic,18.4457,-66.6365
+PR,Puerto Rico,Cayey,South,South Atlantic,18.1258,-66.1027
+PR,Puerto Rico,Las Piedras,South,South Atlantic,18.1785,-65.8708
+PR,Puerto Rico,Utuado,South,South Atlantic,18.2698,-66.705
+PR,Puerto Rico,San Germán,South,South Atlantic,18.0827,-67.0459
+PR,Puerto Rico,Culebra,South,South Atlantic,18.3104,-65.3029
+PR,Puerto Rico,Lajas,South,South Atlantic,18.0412,-67.0764
+PR,Puerto Rico,Juana Díaz,South,South Atlantic,18.0532,-66.5047
+PR,Puerto Rico,Villalba,South,South Atlantic,18.1279,-66.4815
+PR,Puerto Rico,Coamo,South,South Atlantic,18.0579,-66.4092
+PR,Puerto Rico,Vega Alta,South,South Atlantic,18.4152,-66.3211
+PR,Puerto Rico,Comerío,South,South Atlantic,18.2203,-66.2243
+PR,Puerto Rico,Quebradillas,South,South Atlantic,18.4732,-66.936
+PR,Puerto Rico,Aibonito,South,South Atlantic,18.1398,-66.2659
+PR,Puerto Rico,Bayamón,South,South Atlantic,18.3793,-66.1635
+PR,Puerto Rico,Hormigueros,South,South Atlantic,18.1437,-67.12
+PR,Puerto Rico,Carolina,South,South Atlantic,18.4054,-65.9792
+PR,Puerto Rico,San Lorenzo,South,South Atlantic,18.161,-65.9993
+PR,Puerto Rico,Corozal,South,South Atlantic,18.3411,-66.3124
+PR,Puerto Rico,Trujillo Alto,South,South Atlantic,18.3601,-66.0103
+PR,Puerto Rico,Lares,South,South Atlantic,18.2951,-66.8821
+PR,Puerto Rico,Arroyo,South,South Atlantic,17.9962,-66.0519
+PR,Puerto Rico,Cataño,South,South Atlantic,18.4415,-66.1388
+PR,Puerto Rico,Aguadilla,South,South Atlantic,18.4382,-67.1536
+PR,Puerto Rico,Mayagüez,South,South Atlantic,18.2003,-67.1397
+PR,Puerto Rico,San Juan,South,South Atlantic,18.4037,-66.0636
+PR,Puerto Rico,Naranjito,South,South Atlantic,18.302,-66.2459
+PR,Puerto Rico,Dorado,South,South Atlantic,18.397,-66.2643
+PR,Puerto Rico,Barranquitas,South,South Atlantic,18.1848,-66.3102
+PR,Puerto Rico,Moca,South,South Atlantic,18.4455,-67.0669
+PR,Puerto Rico,Guaynabo,South,South Atlantic,18.3839,-66.1134
+RI,Rhode Island,Washington,Northeast,New England,41.5151,-71.72
+RI,Rhode Island,Providence,Northeast,New England,41.89,-71.3934
+RI,Rhode Island,Newport,Northeast,New England,41.4803,-71.3205
+RI,Rhode Island,Kent,Northeast,New England,41.6988,-71.7339
+SC,South Carolina,Edgefield,South,South Atlantic,33.7401,-81.8404
+SC,South Carolina,Aiken,South,South Atlantic,33.8497,-81.6097
+SC,South Carolina,Greenville,South,South Atlantic,34.8821,-82.3336
+SC,South Carolina,Orangeburg,South,South Atlantic,33.5301,-80.5712
+SC,South Carolina,Allendale,South,South Atlantic,32.9593,-81.2363
+SC,South Carolina,Kershaw,South,South Atlantic,34.4143,-80.3487
+SC,South Carolina,Spartanburg,South,South Atlantic,34.6439,-81.8584
+SC,South Carolina,Abbeville,South,South Atlantic,34.3766,-82.3467
+SC,South Carolina,Charleston,South,South Atlantic,32.7768,-80.2272
+SC,South Carolina,Newberry,South,South Atlantic,34.2681,-81.4196
+SC,South Carolina,Florence,South,South Atlantic,33.8149,-79.4444
+SC,South Carolina,Marlboro,South,South Atlantic,34.6438,-79.5867
+SC,South Carolina,Chester,South,South Atlantic,34.5753,-80.9048
+SC,South Carolina,Saluda,South,South Atlantic,33.8573,-81.7313
+SC,South Carolina,Berkeley,South,South Atlantic,32.9922,-80.0052
+SC,South Carolina,Marion,South,South Atlantic,34.2823,-79.4723
+SC,South Carolina,Union,South,South Atlantic,34.7922,-81.4614
+SC,South Carolina,Richland,South,South Atlantic,34.0324,-80.9717
+SC,South Carolina,Barnwell,South,South Atlantic,33.2419,-81.3659
+SC,South Carolina,Hampton,South,South Atlantic,32.6812,-81.1877
+SC,South Carolina,Pickens,South,South Atlantic,34.819,-82.5828
+SC,South Carolina,Lexington,South,South Atlantic,33.9458,-81.0433
+SC,South Carolina,York,South,South Atlantic,34.952,-81.3436
+SC,South Carolina,Horry,South,South Atlantic,33.6092,-78.9772
+SC,South Carolina,Anderson,South,South Atlantic,34.6433,-82.4588
+SC,South Carolina,Clarendon,South,South Atlantic,33.6013,-80.3527
+SC,South Carolina,Colleton,South,South Atlantic,32.7718,-80.477
+SC,South Carolina,Laurens,South,South Atlantic,34.4912,-82.2957
+SC,South Carolina,Oconee,South,South Atlantic,34.7704,-83.0615
+SC,South Carolina,Darlington,South,South Atlantic,34.401,-80.071
+SC,South Carolina,McCormick,South,South Atlantic,33.7192,-82.2173
+SC,South Carolina,Lancaster,South,South Atlantic,34.7247,-80.7802
+SC,South Carolina,Sumter,South,South Atlantic,33.9753,-80.5264
+SC,South Carolina,Dorchester,South,South Atlantic,33.186,-80.5794
+SC,South Carolina,Dillon,South,South Atlantic,34.3406,-79.1663
+SC,South Carolina,Beaufort,South,South Atlantic,32.4599,-80.7869
+SC,South Carolina,Greenwood,South,South Atlantic,34.1696,-82.024
+SC,South Carolina,Fairfield,South,South Atlantic,34.3718,-81.0907
+SC,South Carolina,Jasper,South,South Atlantic,32.4681,-80.9178
+SC,South Carolina,Chesterfield,South,South Atlantic,34.7697,-80.2264
+SC,South Carolina,Georgetown,South,South Atlantic,33.5567,-79.0591
+SC,South Carolina,Cherokee,South,South Atlantic,35.0742,-81.6558
+SC,South Carolina,Williamsburg,South,South Atlantic,33.6665,-79.8293
+SC,South Carolina,Bamberg,South,South Atlantic,33.0985,-81.0138
+SC,South Carolina,Calhoun,South,South Atlantic,33.5579,-80.715
+SC,South Carolina,Lee,South,South Atlantic,34.2202,-80.2483
+SD,South Dakota,Todd,Midwest,West North Central,43.3061,-100.5948
+SD,South Dakota,Turner,Midwest,West North Central,43.4236,-97.2605
+SD,South Dakota,Day,Midwest,West North Central,45.4965,-97.4932
+SD,South Dakota,Dewey,Midwest,West North Central,45.2746,-100.9012
+SD,South Dakota,Lake,Midwest,West North Central,44.0009,-97.3598
+SD,South Dakota,Corson,Midwest,West North Central,45.6832,-100.7967
+SD,South Dakota,Roberts,Midwest,West North Central,45.8557,-96.9173
+SD,South Dakota,Lyman,Midwest,West North Central,43.9071,-100.0583
+SD,South Dakota,Codington,Midwest,West North Central,44.9987,-96.9742
+SD,South Dakota,Charles Mix,Midwest,West North Central,43.1559,-98.5362
+SD,South Dakota,Fall River,Midwest,West North Central,43.4313,-103.4836
+SD,South Dakota,Brookings,Midwest,West North Central,44.2834,-96.6854
+SD,South Dakota,Hamlin,Midwest,West North Central,44.5899,-97.4673
+SD,South Dakota,Aurora,Midwest,West North Central,43.5272,-98.5894
+SD,South Dakota,Meade,Midwest,West North Central,44.411,-103.4976
+SD,South Dakota,Custer,Midwest,West North Central,43.8398,-103.1929
+SD,South Dakota,Beadle,Midwest,West North Central,44.4338,-97.9885
+SD,South Dakota,Gregory,Midwest,West North Central,43.0281,-98.8891
+SD,South Dakota,Pennington,Midwest,West North Central,44.0674,-103.1225
+SD,South Dakota,Hand,Midwest,West North Central,44.5205,-98.9869
+SD,South Dakota,Oglala Lakota,Midwest,West North Central,43.027,-102.5525
+SD,South Dakota,Moody,Midwest,West North Central,43.9063,-96.6578
+SD,South Dakota,Lincoln,Midwest,West North Central,43.3479,-96.8939
+SD,South Dakota,Miner,Midwest,West North Central,44.1686,-97.715
+SD,South Dakota,Hutchinson,Midwest,West North Central,43.4252,-97.8081
+SD,South Dakota,Spink,Midwest,West North Central,44.7382,-98.5089
+SD,South Dakota,Butte,Midwest,West North Central,44.6182,-103.3986
+SD,South Dakota,Jerauld,Midwest,West North Central,44.1829,-98.3683
+SD,South Dakota,Grant,Midwest,West North Central,45.0441,-96.7604
+SD,South Dakota,Clark,Midwest,West North Central,45.107,-97.7806
+SD,South Dakota,Kingsbury,Midwest,West North Central,44.3862,-97.5498
+SD,South Dakota,Brown,Midwest,West North Central,45.2442,-98.0992
+SD,South Dakota,Walworth,Midwest,West North Central,45.533,-100.2711
+SD,South Dakota,Faulk,Midwest,West North Central,45.1913,-99.4659
+SD,South Dakota,Brule,Midwest,West North Central,43.7792,-99.1843
+SD,South Dakota,Stanley,Midwest,West North Central,44.3679,-100.3831
+SD,South Dakota,Hanson,Midwest,West North Central,43.6541,-97.78
+SD,South Dakota,Union,Midwest,West North Central,42.6816,-96.68
+SD,South Dakota,Marshall,Midwest,West North Central,45.7248,-97.4139
+SD,South Dakota,Deuel,Midwest,West North Central,44.5577,-96.5465
+SD,South Dakota,Bon Homme,Midwest,West North Central,42.7822,-97.9816
+SD,South Dakota,Minnehaha,Midwest,West North Central,43.5511,-96.6354
+SD,South Dakota,Edmunds,Midwest,West North Central,45.4501,-99.337
+SD,South Dakota,McPherson,Midwest,West North Central,45.7212,-98.9385
+SD,South Dakota,Lawrence,Midwest,West North Central,44.5458,-103.72
+SD,South Dakota,Davison,Midwest,West North Central,43.7127,-98.2609
+SD,South Dakota,Yankton,Midwest,West North Central,42.8901,-97.3926
+SD,South Dakota,Campbell,Midwest,West North Central,45.8377,-100.0749
+SD,South Dakota,Potter,Midwest,West North Central,45.2082,-99.614
+SD,South Dakota,Sully,Midwest,West North Central,44.5538,-100.4753
+SD,South Dakota,Clay,Midwest,West North Central,43.0837,-97.1576
+SD,South Dakota,Jones,Midwest,West North Central,43.8621,-100.9049
+SD,South Dakota,Haakon,Midwest,West North Central,44.0408,-101.6646
+SD,South Dakota,Douglas,Midwest,West North Central,43.2666,-98.1592
+SD,South Dakota,Ziebach,Midwest,West North Central,45.0495,-101.6013
+SD,South Dakota,Sanborn,Midwest,West North Central,44.0541,-98.2724
+SD,South Dakota,Bennett,Midwest,West North Central,43.2792,-101.9265
+SD,South Dakota,Jackson,Midwest,West North Central,43.7269,-101.9837
+SD,South Dakota,McCook,Midwest,West North Central,43.5978,-97.2926
+SD,South Dakota,Harding,Midwest,West North Central,45.5501,-103.9749
+SD,South Dakota,Tripp,Midwest,West North Central,43.3776,-99.855
+SD,South Dakota,Mellette,Midwest,West North Central,43.4971,-100.4802
+SD,South Dakota,Perkins,Midwest,West North Central,45.5235,-102.4677
+SD,South Dakota,Buffalo,Midwest,West North Central,44.0335,-98.9886
+SD,South Dakota,Hyde,Midwest,West North Central,44.5214,-99.4393
+SD,South Dakota,Hughes,Midwest,West North Central,44.5159,-99.9885
+TN,Tennessee,Gibson,South,East South Central,35.9689,-88.9449
+TN,Tennessee,Grundy,South,East South Central,35.4589,-85.6689
+TN,Tennessee,Roane,South,East South Central,36.0398,-84.3284
+TN,Tennessee,Henry,South,East South Central,36.2933,-88.3065
+TN,Tennessee,Rutherford,South,East South Central,35.9573,-86.3678
+TN,Tennessee,Haywood,South,East South Central,35.4613,-89.4014
+TN,Tennessee,Davidson,South,East South Central,36.0652,-86.8403
+TN,Tennessee,Warren,South,East South Central,35.6863,-85.7812
+TN,Tennessee,Jefferson,South,East South Central,36.1087,-83.297
+TN,Tennessee,Hancock,South,East South Central,36.5367,-83.2099
+TN,Tennessee,Anderson,South,East South Central,35.9638,-84.2938
+TN,Tennessee,Hardeman,South,East South Central,35.2285,-88.8294
+TN,Tennessee,Hamilton,South,East South Central,35.2571,-85.174
+TN,Tennessee,McMinn,South,East South Central,35.517,-84.5498
+TN,Tennessee,Sumner,South,East South Central,36.3782,-86.4696
+TN,Tennessee,Scott,South,East South Central,36.3536,-84.5839
+TN,Tennessee,Union,South,East South Central,36.2097,-83.7478
+TN,Tennessee,Blount,South,East South Central,35.8328,-83.9357
+TN,Tennessee,Marion,South,East South Central,35.1848,-85.4848
+TN,Tennessee,Lewis,South,East South Central,35.5514,-87.554
+TN,Tennessee,Hawkins,South,East South Central,36.4745,-82.8593
+TN,Tennessee,Coffee,South,East South Central,35.4085,-85.9639
+TN,Tennessee,Campbell,South,East South Central,36.3718,-84.1256
+TN,Tennessee,Madison,South,East South Central,35.4556,-88.8636
+TN,Tennessee,Fayette,South,East South Central,35.0512,-89.6091
+TN,Tennessee,Sullivan,South,East South Central,36.4586,-82.277
+TN,Tennessee,Smith,South,East South Central,36.2414,-85.9575
+TN,Tennessee,Dickson,South,East South Central,36.064,-87.3668
+TN,Tennessee,Cocke,South,East South Central,35.9617,-83.1977
+TN,Tennessee,Crockett,South,East South Central,35.7203,-89.0859
+TN,Tennessee,Tipton,South,East South Central,35.4128,-89.5412
+TN,Tennessee,Meigs,South,East South Central,35.5292,-84.7933
+TN,Tennessee,Franklin,South,East South Central,35.1975,-85.9213
+TN,Tennessee,Claiborne,South,East South Central,36.5752,-83.6462
+TN,Tennessee,Lawrence,South,East South Central,35.3218,-87.3013
+TN,Tennessee,Obion,South,East South Central,36.2021,-89.0155
+TN,Tennessee,Robertson,South,East South Central,36.4239,-86.7976
+TN,Tennessee,Carroll,South,East South Central,36.0052,-88.4181
+TN,Tennessee,Hamblen,South,East South Central,36.2047,-83.3005
+TN,Tennessee,Loudon,South,East South Central,35.6488,-84.1724
+TN,Tennessee,Stewart,South,East South Central,36.4818,-87.8437
+TN,Tennessee,DeKalb,South,East South Central,36.0045,-85.9779
+TN,Tennessee,Greene,South,East South Central,36.175,-82.7454
+TN,Tennessee,Henderson,South,East South Central,35.6611,-88.3946
+TN,Tennessee,McNairy,South,East South Central,35.357,-88.6169
+TN,Tennessee,Bedford,South,East South Central,35.4523,-86.2582
+TN,Tennessee,Giles,South,East South Central,35.0031,-86.855
+TN,Tennessee,Montgomery,South,East South Central,36.5696,-87.3428
+TN,Tennessee,Wilson,South,East South Central,36.2349,-86.5733
+TN,Tennessee,Cumberland,South,East South Central,36.0586,-85.0305
+TN,Tennessee,Van Buren,South,East South Central,35.7393,-85.456
+TN,Tennessee,Rhea,South,East South Central,35.4493,-85.0763
+TN,Tennessee,Morgan,South,East South Central,35.9897,-84.5573
+TN,Tennessee,Bradley,South,East South Central,35.1097,-84.9097
+TN,Tennessee,Sevier,South,East South Central,35.8873,-83.5678
+TN,Tennessee,Lauderdale,South,East South Central,35.8796,-89.405
+TN,Tennessee,Lincoln,South,East South Central,35.3173,-86.6407
+TN,Tennessee,Perry,South,East South Central,35.7507,-87.7958
+TN,Tennessee,Washington,South,East South Central,36.2534,-82.5478
+TN,Tennessee,Wayne,South,East South Central,35.3236,-87.7593
+TN,Tennessee,Williamson,South,East South Central,35.9216,-86.8525
+TN,Tennessee,Putnam,South,East South Central,36.1484,-85.5114
+TN,Tennessee,Benton,South,East South Central,36.2325,-88.0854
+TN,Tennessee,Knox,South,East South Central,36.0673,-83.765
+TN,Tennessee,Grainger,South,East South Central,36.3322,-83.2852
+TN,Tennessee,Maury,South,East South Central,35.7438,-86.9116
+TN,Tennessee,Jackson,South,East South Central,36.3618,-85.6495
+TN,Tennessee,Carter,South,East South Central,36.3688,-82.2919
+TN,Tennessee,Sequatchie,South,East South Central,35.2007,-85.3685
+TN,Tennessee,Lake,South,East South Central,36.3862,-89.4674
+TN,Tennessee,Overton,South,East South Central,36.3875,-85.3265
+TN,Tennessee,Weakley,South,East South Central,36.2174,-88.6107
+TN,Tennessee,Decatur,South,East South Central,35.5188,-88.2526
+TN,Tennessee,Unicoi,South,East South Central,36.1222,-82.4202
+TN,Tennessee,Cannon,South,East South Central,35.8247,-86.0724
+TN,Tennessee,Macon,South,East South Central,36.5301,-85.8481
+TN,Tennessee,Fentress,South,East South Central,36.1857,-85.0096
+TN,Tennessee,Hardin,South,East South Central,35.2048,-88.1939
+TN,Tennessee,Monroe,South,East South Central,35.6029,-84.4717
+TN,Tennessee,Hickman,South,East South Central,35.8042,-87.4577
+TN,Tennessee,Dyer,South,East South Central,36.0465,-89.3777
+TN,Tennessee,Pickett,South,East South Central,36.5737,-85.1345
+TN,Tennessee,Humphreys,South,East South Central,36.0939,-87.7846
+TN,Tennessee,Chester,South,East South Central,35.4445,-88.6531
+TN,Tennessee,Clay,South,East South Central,36.5469,-85.5043
+TN,Tennessee,Marshall,South,East South Central,35.3628,-86.8583
+TN,Tennessee,Polk,South,East South Central,35.1749,-84.6516
+TN,Tennessee,Shelby,South,East South Central,35.2594,-89.668
+TN,Tennessee,White,South,East South Central,35.9347,-85.4726
+TN,Tennessee,Cheatham,South,East South Central,36.2607,-87.0412
+TN,Tennessee,Houston,South,East South Central,36.3194,-87.7631
+TN,Tennessee,Moore,South,East South Central,35.2846,-86.3587
+TN,Tennessee,Johnson,South,East South Central,36.4695,-81.8049
+TN,Tennessee,Bledsoe,South,East South Central,35.6026,-85.1984
+TN,Tennessee,Trousdale,South,East South Central,36.3921,-86.1568
+TX,Texas,Fannin,South,West South Central,33.4275,-96.3407
+TX,Texas,Hidalgo,South,West South Central,26.2585,-98.5787
+TX,Texas,Hunt,South,West South Central,32.9324,-96.2471
+TX,Texas,Brazoria,South,West South Central,29.0455,-95.5673
+TX,Texas,Palo Pinto,South,West South Central,32.5509,-98.4979
+TX,Texas,Cooke,South,West South Central,33.5703,-97.0129
+TX,Texas,El Paso,South,West South Central,31.811,-106.1643
+TX,Texas,Cameron,South,West South Central,26.0566,-97.4235
+TX,Texas,Hutchinson,South,West South Central,35.7026,-101.5317
+TX,Texas,Hood,South,West South Central,32.4885,-97.8357
+TX,Texas,Lamar,South,West South Central,33.6689,-95.5462
+TX,Texas,San Saba,South,West South Central,31.1965,-98.7244
+TX,Texas,Zapata,South,West South Central,26.9027,-99.2612
+TX,Texas,Robertson,South,West South Central,30.877,-96.5956
+TX,Texas,Parker,South,West South Central,32.7508,-97.6999
+TX,Texas,Starr,South,West South Central,26.3859,-98.899
+TX,Texas,Martin,South,West South Central,32.1315,-101.7928
+TX,Texas,Bee,South,West South Central,28.5277,-97.7831
+TX,Texas,Brown,South,West South Central,31.8249,-98.7895
+TX,Texas,Brewster,South,West South Central,30.364,-103.6651
+TX,Texas,Montgomery,South,West South Central,30.1811,-95.155
+TX,Texas,Kenedy,South,West South Central,27.2236,-97.7951
+TX,Texas,Henderson,South,West South Central,32.3075,-96.0138
+TX,Texas,Angelina,South,West South Central,31.2345,-94.7665
+TX,Texas,Hale,South,West South Central,34.2791,-101.8968
+TX,Texas,Johnson,South,West South Central,32.4311,-97.1021
+TX,Texas,Presidio,South,West South Central,29.5603,-104.3653
+TX,Texas,Montague,South,West South Central,33.7835,-97.7302
+TX,Texas,Bastrop,South,West South Central,30.2819,-97.2448
+TX,Texas,Blanco,South,West South Central,30.4298,-98.3609
+TX,Texas,Terrell,South,West South Central,30.1508,-102.408
+TX,Texas,Denton,South,West South Central,33.133,-97.3014
+TX,Texas,Eastland,South,West South Central,32.2136,-98.6721
+TX,Texas,McCulloch,South,West South Central,31.1993,-99.5809
+TX,Texas,Rusk,South,West South Central,31.8662,-94.9833
+TX,Texas,Calhoun,South,West South Central,28.4463,-96.4205
+TX,Texas,Hill,South,West South Central,32.1419,-97.3972
+TX,Texas,Navarro,South,West South Central,32.0925,-96.7174
+TX,Texas,Liberty,South,West South Central,30.047,-94.7908
+TX,Texas,Ector,South,West South Central,32.0105,-102.3587
+TX,Texas,Lubbock,South,West South Central,33.6901,-101.9893
+TX,Texas,Waller,South,West South Central,30.0996,-96.0781
+TX,Texas,Red River,South,West South Central,33.5523,-94.7804
+TX,Texas,Gregg,South,West South Central,32.5426,-94.9465
+TX,Texas,Jefferson,South,West South Central,30.0522,-94.3332
+TX,Texas,Gillespie,South,West South Central,30.2903,-99.2459
+TX,Texas,Pecos,South,West South Central,30.8926,-102.8847
+TX,Texas,Zavala,South,West South Central,28.7221,-99.8327
+TX,Texas,Freestone,South,West South Central,31.7897,-96.461
+TX,Texas,Nueces,South,West South Central,27.8094,-97.8455
+TX,Texas,Rockwall,South,West South Central,32.917,-96.4377
+TX,Texas,Madison,South,West South Central,31.0252,-95.7539
+TX,Texas,Fort Bend,South,West South Central,29.546,-95.822
+TX,Texas,Wise,South,West South Central,33.2099,-97.7709
+TX,Texas,Lamb,South,West South Central,34.012,-102.4147
+TX,Texas,Shackelford,South,West South Central,32.5472,-99.1666
+TX,Texas,Dawson,South,West South Central,32.9307,-102.1256
+TX,Texas,Cherokee,South,West South Central,31.8968,-95.152
+TX,Texas,Dallam,South,West South Central,36.0579,-102.5123
+TX,Texas,Dimmit,South,West South Central,28.4461,-99.7604
+TX,Texas,Bexar,South,West South Central,29.5545,-98.3404
+TX,Texas,Jones,South,West South Central,32.8898,-100.1329
+TX,Texas,Lampasas,South,West South Central,31.0755,-97.9727
+TX,Texas,Jim Wells,South,West South Central,27.7132,-98.1346
+TX,Texas,Collin,South,West South Central,33.2016,-96.6669
+TX,Texas,Harris,South,West South Central,29.8671,-95.0537
+TX,Texas,Houston,South,West South Central,31.3177,-95.4564
+TX,Texas,Galveston,South,West South Central,29.4128,-94.9658
+TX,Texas,Maverick,South,West South Central,28.947,-100.6237
+TX,Texas,Willacy,South,West South Central,26.4634,-97.9088
+TX,Texas,Mitchell,South,West South Central,32.3571,-101.0132
+TX,Texas,Matagorda,South,West South Central,28.8727,-96.2172
+TX,Texas,Hardeman,South,West South Central,34.2954,-99.7429
+TX,Texas,Travis,South,West South Central,30.4088,-98.0451
+TX,Texas,Nacogdoches,South,West South Central,31.8126,-94.8411
+TX,Texas,Brazos,South,West South Central,30.5852,-96.296
+TX,Texas,Throckmorton,South,West South Central,33.2748,-99.0021
+TX,Texas,Hays,South,West South Central,30.0392,-97.8915
+TX,Texas,Tarrant,South,West South Central,32.8605,-97.218
+TX,Texas,Webb,South,West South Central,27.6555,-99.6178
+TX,Texas,Comal,South,West South Central,29.6997,-98.1148
+TX,Texas,Swisher,South,West South Central,34.5374,-101.7743
+TX,Texas,Wood,South,West South Central,32.9305,-95.5761
+TX,Texas,Caldwell,South,West South Central,29.8785,-97.6831
+TX,Texas,Bosque,South,West South Central,32.0562,-97.7507
+TX,Texas,Orange,South,West South Central,30.1291,-93.9967
+TX,Texas,Deaf Smith,South,West South Central,34.8232,-102.4001
+TX,Texas,Lynn,South,West South Central,32.9652,-101.8309
+TX,Texas,Jack,South,West South Central,33.1636,-98.3891
+TX,Texas,Randall,South,West South Central,35.0539,-101.8186
+TX,Texas,Childress,South,West South Central,34.4293,-100.2516
+TX,Texas,McLennan,South,West South Central,31.3818,-97.2127
+TX,Texas,Lee,South,West South Central,30.1833,-96.9279
+TX,Texas,Hall,South,West South Central,34.547,-100.44
+TX,Texas,Williamson,South,West South Central,30.513,-97.7382
+TX,Texas,Hardin,South,West South Central,30.1933,-94.193
+TX,Texas,Sabine,South,West South Central,31.4541,-93.7979
+TX,Texas,Falls,South,West South Central,31.3711,-97.0763
+TX,Texas,Guadalupe,South,West South Central,29.4892,-98.1094
+TX,Texas,Limestone,South,West South Central,31.307,-96.6293
+TX,Texas,Mason,South,West South Central,30.748,-99.2288
+TX,Texas,San Patricio,South,West South Central,28.0969,-97.865
+TX,Texas,Morris,South,West South Central,33.0306,-94.725
+TX,Texas,Fayette,South,West South Central,30.064,-96.6958
+TX,Texas,Kaufman,South,West South Central,32.7315,-96.159
+TX,Texas,Dallas,South,West South Central,32.653,-96.5455
+TX,Texas,Cass,South,West South Central,33.1378,-94.0591
+TX,Texas,Yoakum,South,West South Central,33.1896,-102.8271
+TX,Texas,Val Verde,South,West South Central,29.3708,-100.88
+TX,Texas,Aransas,South,West South Central,28.167,-97.006
+TX,Texas,Chambers,South,West South Central,29.7269,-94.8549
+TX,Texas,Milam,South,West South Central,30.874,-97.1289
+TX,Texas,Bell,South,West South Central,31.0525,-97.479
+TX,Texas,Polk,South,West South Central,30.9988,-94.8275
+TX,Texas,Anderson,South,West South Central,32.0561,-95.5043
+TX,Texas,Burnet,South,West South Central,30.5677,-98.2751
+TX,Texas,Moore,South,West South Central,36.0444,-102.008
+TX,Texas,Duval,South,West South Central,27.7609,-98.2389
+TX,Texas,La Salle,South,West South Central,28.4364,-99.2367
+TX,Texas,Archer,South,West South Central,33.5937,-98.6257
+TX,Texas,Edwards,South,West South Central,30.0172,-100.2128
+TX,Texas,Taylor,South,West South Central,32.4522,-99.8666
+TX,Texas,Victoria,South,West South Central,28.8285,-96.985
+TX,Texas,Atascosa,South,West South Central,28.9643,-98.4957
+TX,Texas,Smith,South,West South Central,32.2222,-95.2217
+TX,Texas,Wharton,South,West South Central,29.1119,-96.4123
+TX,Texas,Armstrong,South,West South Central,35.1075,-101.3628
+TX,Texas,Cochran,South,West South Central,33.5997,-102.6133
+TX,Texas,Medina,South,West South Central,29.3532,-99.1621
+TX,Texas,King,South,West South Central,33.6216,-100.329
+TX,Texas,Austin,South,West South Central,29.7965,-96.1051
+TX,Texas,Knox,South,West South Central,33.468,-99.5236
+TX,Texas,Carson,South,West South Central,35.5707,-101.1731
+TX,Texas,Grimes,South,West South Central,30.3874,-96.0895
+TX,Texas,Nolan,South,West South Central,32.0851,-100.3194
+TX,Texas,Jim Hogg,South,West South Central,26.8827,-98.8948
+TX,Texas,Kinney,South,West South Central,29.1733,-100.4112
+TX,Texas,Wichita,South,West South Central,33.9072,-98.529
+TX,Texas,Titus,South,West South Central,33.1658,-95.1105
+TX,Texas,Gray,South,West South Central,35.5479,-100.965
+TX,Texas,Briscoe,South,West South Central,34.3674,-101.0555
+TX,Texas,Wilbarger,South,West South Central,34.148,-99.3
+TX,Texas,Grayson,South,West South Central,33.6233,-96.7286
+TX,Texas,Andrews,South,West South Central,32.2963,-102.5297
+TX,Texas,Refugio,South,West South Central,28.3911,-96.8437
+TX,Texas,Irion,South,West South Central,31.2619,-100.8208
+TX,Texas,Lavaca,South,West South Central,29.4428,-96.9436
+TX,Texas,Kleberg,South,West South Central,27.5095,-97.861
+TX,Texas,Uvalde,South,West South Central,29.3214,-99.4696
+TX,Texas,Jeff Davis,South,West South Central,30.5784,-103.8921
+TX,Texas,Ellis,South,West South Central,32.314,-97.0053
+TX,Texas,Castro,South,West South Central,34.5324,-102.3111
+TX,Texas,Shelby,South,West South Central,31.944,-94.2457
+TX,Texas,Newton,South,West South Central,30.8502,-93.7537
+TX,Texas,Burleson,South,West South Central,30.346,-96.5311
+TX,Texas,Potter,South,West South Central,35.1989,-101.831
+TX,Texas,Young,South,West South Central,33.195,-98.7436
+TX,Texas,Kendall,South,West South Central,29.7844,-98.7289
+TX,Texas,Clay,South,West South Central,33.9299,-98.3676
+TX,Texas,Delta,South,West South Central,33.3716,-95.6912
+TX,Texas,Tom Green,South,West South Central,31.4426,-100.4501
+TX,Texas,Trinity,South,West South Central,30.9376,-95.3254
+TX,Texas,Colorado,South,West South Central,29.7055,-96.5563
+TX,Texas,Garza,South,West South Central,33.1911,-101.3814
+TX,Texas,Gonzales,South,West South Central,29.2698,-97.7658
+TX,Texas,Haskell,South,West South Central,33.1597,-99.732
+TX,Texas,Mills,South,West South Central,31.4513,-98.5736
+TX,Texas,Frio,South,West South Central,28.8885,-99.0988
+TX,Texas,Kent,South,West South Central,33.2502,-100.5748
+TX,Texas,DeWitt,South,West South Central,28.9829,-97.505
+TX,Texas,Jackson,South,West South Central,28.8325,-96.5388
+TX,Texas,Culberson,South,West South Central,31.0407,-104.834
+TX,Texas,Coryell,South,West South Central,31.4187,-97.5114
+TX,Texas,Sutton,South,West South Central,30.5707,-100.6423
+TX,Texas,Motley,South,West South Central,33.8992,-100.8561
+TX,Texas,Terry,South,West South Central,33.3377,-102.2059
+TX,Texas,Ward,South,West South Central,31.4616,-103.3955
+TX,Texas,Hudspeth,South,West South Central,31.9349,-105.1998
+TX,Texas,Hopkins,South,West South Central,33.3222,-95.5606
+TX,Texas,Hemphill,South,West South Central,35.9097,-100.3839
+TX,Texas,Erath,South,West South Central,32.0875,-98.3391
+TX,Texas,Howard,South,West South Central,32.2795,-101.3496
+TX,Texas,Upshur,South,West South Central,32.586,-95.1127
+TX,Texas,Lipscomb,South,West South Central,36.2215,-100.2621
+TX,Texas,Gaines,South,West South Central,32.9419,-102.5657
+TX,Texas,Hockley,South,West South Central,33.4133,-102.1552
+TX,Texas,Somervell,South,West South Central,32.2461,-97.7441
+TX,Texas,Oldham,South,West South Central,35.2456,-102.4262
+TX,Texas,Hartley,South,West South Central,35.8914,-102.3933
+TX,Texas,Scurry,South,West South Central,32.6366,-100.7523
+TX,Texas,Coleman,South,West South Central,31.8317,-99.4222
+TX,Texas,Wilson,South,West South Central,29.2358,-97.9636
+TX,Texas,San Jacinto,South,West South Central,30.5898,-95.1307
+TX,Texas,Donley,South,West South Central,34.8674,-100.6592
+TX,Texas,Callahan,South,West South Central,32.4056,-99.5039
+TX,Texas,Runnels,South,West South Central,31.7396,-99.9559
+TX,Texas,Bowie,South,West South Central,33.5076,-94.6167
+TX,Texas,Hamilton,South,West South Central,31.6997,-98.1208
+TX,Texas,Parmer,South,West South Central,34.5157,-102.8846
+TX,Texas,Crosby,South,West South Central,33.6413,-101.2377
+TX,Texas,Winkler,South,West South Central,31.7545,-103.1541
+TX,Texas,Van Zandt,South,West South Central,32.554,-95.8639
+TX,Texas,Marion,South,West South Central,32.7634,-94.3511
+TX,Texas,Upton,South,West South Central,31.2253,-101.9394
+TX,Texas,Fisher,South,West South Central,32.746,-100.3794
+TX,Texas,Panola,South,West South Central,32.2436,-94.4561
+TX,Texas,Jasper,South,West South Central,30.6578,-93.9001
+TX,Texas,Hansford,South,West South Central,36.066,-101.4769
+TX,Texas,Comanche,South,West South Central,31.9005,-98.6044
+TX,Texas,Brooks,South,West South Central,27.22,-98.0645
+TX,Texas,Sherman,South,West South Central,36.4937,-101.7937
+TX,Texas,San Augustine,South,West South Central,31.305,-94.2699
+TX,Texas,Leon,South,West South Central,31.2579,-95.9796
+TX,Texas,Karnes,South,West South Central,28.8858,-97.7134
+TX,Texas,Coke,South,West South Central,31.8857,-100.2954
+TX,Texas,Collingsworth,South,West South Central,34.8538,-100.2141
+TX,Texas,Camp,South,West South Central,32.9997,-94.9668
+TX,Texas,Reeves,South,West South Central,31.4046,-103.5057
+TX,Texas,Washington,South,West South Central,30.1586,-96.3965
+TX,Texas,Stephens,South,West South Central,32.7566,-98.9125
+TX,Texas,Live Oak,South,West South Central,28.4668,-98.1784
+TX,Texas,Real,South,West South Central,29.7254,-99.7631
+TX,Texas,Bandera,South,West South Central,29.6383,-98.9869
+TX,Texas,Walker,South,West South Central,30.705,-95.5545
+TX,Texas,Harrison,South,West South Central,32.5886,-94.4468
+TX,Texas,Concho,South,West South Central,31.2162,-99.844
+TX,Texas,Ochiltree,South,West South Central,36.3932,-100.7974
+TX,Texas,Rains,South,West South Central,32.9011,-95.9397
+TX,Texas,Goliad,South,West South Central,28.6708,-97.3916
+TX,Texas,Tyler,South,West South Central,30.9213,-94.6001
+TX,Texas,Kerr,South,West South Central,30.0772,-99.2381
+TX,Texas,Llano,South,West South Central,30.7807,-98.4393
+TX,Texas,Wheeler,South,West South Central,35.5291,-100.4394
+TX,Texas,Sterling,South,West South Central,31.8392,-100.986
+TX,Texas,Crane,South,West South Central,31.3919,-102.3503
+TX,Texas,Cottle,South,West South Central,34.0144,-100.3038
+TX,Texas,Foard,South,West South Central,33.9839,-99.7241
+TX,Texas,Franklin,South,West South Central,33.176,-95.2253
+TX,Texas,Reagan,South,West South Central,31.1941,-101.4534
+TX,Texas,Kimble,South,West South Central,30.4906,-99.7725
+TX,Texas,McMullen,South,West South Central,28.4596,-98.5487
+TX,Texas,Baylor,South,West South Central,33.5955,-99.2579
+TX,Texas,Bailey,South,West South Central,34.2292,-102.7284
+TX,Texas,Dickens,South,West South Central,33.4701,-100.8556
+TX,Texas,Loving,South,West South Central,31.7073,-103.5989
+TX,Texas,Floyd,South,West South Central,33.9835,-101.3367
+TX,Texas,Midland,South,West South Central,32.0249,-102.1137
+TX,Texas,Glasscock,South,West South Central,31.8674,-101.4864
+TX,Texas,Stonewall,South,West South Central,33.1405,-100.2253
+TX,Texas,Schleicher,South,West South Central,30.8617,-100.5979
+TX,Texas,Roberts,South,West South Central,35.6924,-100.6416
+TX,Texas,Menard,South,West South Central,30.9185,-99.7837
+TX,Texas,Crockett,South,West South Central,30.7074,-101.2059
+TX,Texas,Borden,South,West South Central,32.767,-101.4465
+UT,Utah,Cache,West,Mountain,41.9116,-111.9356
+UT,Utah,Salt Lake,West,Mountain,40.4743,-111.9383
+UT,Utah,Weber,West,Mountain,41.1717,-112.048
+UT,Utah,Summit,West,Mountain,40.6813,-111.2829
+UT,Utah,Kane,West,Mountain,37.0262,-112.5219
+UT,Utah,Davis,West,Mountain,40.9846,-111.9064
+UT,Utah,Utah,West,Mountain,40.0054,-111.7474
+UT,Utah,Uintah,West,Mountain,40.3695,-109.3556
+UT,Utah,Sevier,West,Mountain,38.9201,-111.934
+UT,Utah,Box Elder,West,Mountain,41.6124,-112.125
+UT,Utah,San Juan,West,Mountain,37.205,-109.1623
+UT,Utah,Millard,West,Mountain,38.8863,-112.4072
+UT,Utah,Iron,West,Mountain,37.7663,-113.0431
+UT,Utah,Wasatch,West,Mountain,40.4733,-111.2533
+UT,Utah,Wayne,West,Mountain,38.3077,-111.4268
+UT,Utah,Washington,West,Mountain,37.2373,-113.3471
+UT,Utah,Grand,West,Mountain,38.6325,-109.3966
+UT,Utah,Duchesne,West,Mountain,40.4344,-110.0308
+UT,Utah,Tooele,West,Mountain,40.4496,-112.3672
+UT,Utah,Carbon,West,Mountain,39.6561,-110.8461
+UT,Utah,Juab,West,Mountain,39.9197,-111.8258
+UT,Utah,Garfield,West,Mountain,37.8234,-112.4351
+UT,Utah,Beaver,West,Mountain,38.3945,-113.0123
+UT,Utah,Sanpete,West,Mountain,39.2246,-111.8542
+UT,Utah,Morgan,West,Mountain,41.0415,-111.6801
+UT,Utah,Emery,West,Mountain,39.3301,-110.9628
+UT,Utah,Rich,West,Mountain,41.6643,-111.185
+UT,Utah,Piute,West,Mountain,38.2357,-112.2238
+UT,Utah,Daggett,West,Mountain,40.889,-109.4751
+VA,Virginia,Prince William,South,South Atlantic,38.6473,-77.3459
+VA,Virginia,Henrico,South,South Atlantic,37.6133,-77.4768
+VA,Virginia,Bedford,South,South Atlantic,37.3866,-79.7253
+VA,Virginia,Accomack,South,South Atlantic,37.9299,-75.662
+VA,Virginia,Montgomery,South,South Atlantic,37.0676,-80.4405
+VA,Virginia,Shenandoah,South,South Atlantic,38.7394,-78.6513
+VA,Virginia,Loudoun,South,South Atlantic,39.1319,-77.7681
+VA,Virginia,Fairfax,South,South Atlantic,38.7773,-77.2633
+VA,Virginia,Halifax,South,South Atlantic,36.839,-78.7284
+VA,Virginia,Albemarle,South,South Atlantic,38.1266,-78.4386
+VA,Virginia,Galax,South,South Atlantic,36.666,-80.9176
+VA,Virginia,King William,South,South Atlantic,37.7458,-77.1315
+VA,Virginia,Franklin,South,South Atlantic,37.1233,-79.6971
+VA,Virginia,Botetourt,South,South Atlantic,37.3783,-79.8206
+VA,Virginia,Wise,South,South Atlantic,37.126,-82.6071
+VA,Virginia,Brunswick,South,South Atlantic,36.5759,-77.9839
+VA,Virginia,Carroll,South,South Atlantic,36.5815,-80.6688
+VA,Virginia,Pulaski,South,South Atlantic,36.9342,-80.7255
+VA,Virginia,Henry,South,South Atlantic,36.7009,-79.9424
+VA,Virginia,Pittsylvania,South,South Atlantic,37.0954,-79.3029
+VA,Virginia,Clarke,South,South Atlantic,39.0933,-78.0601
+VA,Virginia,Alleghany,South,South Atlantic,37.7985,-79.7903
+VA,Virginia,Sussex,South,South Atlantic,37.034,-77.0956
+VA,Virginia,Northampton,South,South Atlantic,37.257,-76.0093
+VA,Virginia,Washington,South,South Atlantic,36.6326,-81.7891
+VA,Virginia,Chesterfield,South,South Atlantic,37.3273,-77.3194
+VA,Virginia,Tazewell,South,South Atlantic,37.0879,-81.808
+VA,Virginia,Isle of Wight,South,South Atlantic,37.0836,-76.6747
+VA,Virginia,Mecklenburg,South,South Atlantic,36.5762,-78.1107
+VA,Virginia,Campbell,South,South Atlantic,37.3426,-78.9863
+VA,Virginia,Appomattox,South,South Atlantic,37.3591,-78.8269
+VA,Virginia,Portsmouth,South,South Atlantic,36.8468,-76.354
+VA,Virginia,Lunenburg,South,South Atlantic,36.9608,-78.1283
+VA,Virginia,Augusta,South,South Atlantic,38.1618,-78.8413
+VA,Virginia,Amherst,South,South Atlantic,37.4487,-79.1057
+VA,Virginia,Lee,South,South Atlantic,36.7764,-82.9433
+VA,Virginia,Fauquier,South,South Atlantic,38.654,-77.637
+VA,Virginia,Emporia,South,South Atlantic,36.6953,-77.5356
+VA,Virginia,Danville,South,South Atlantic,36.5831,-79.4088
+VA,Virginia,Smyth,South,South Atlantic,36.8009,-81.6832
+VA,Virginia,Prince George,South,South Atlantic,37.2357,-77.3325
+VA,Virginia,Spotsylvania,South,South Atlantic,38.3036,-77.7276
+VA,Virginia,Radford,South,South Atlantic,37.1229,-80.5587
+VA,Virginia,Stafford,South,South Atlantic,38.4597,-77.3806
+VA,Virginia,Louisa,South,South Atlantic,38.0212,-77.9985
+VA,Virginia,Northumberland,South,South Atlantic,37.92,-76.4785
+VA,Virginia,Greene,South,South Atlantic,38.2991,-78.4367
+VA,Virginia,Roanoke,South,South Atlantic,37.2746,-79.8888
+VA,Virginia,Wythe,South,South Atlantic,36.953,-81.0881
+VA,Virginia,Chesapeake,South,South Atlantic,36.6778,-76.3024
+VA,Virginia,Nelson,South,South Atlantic,37.9161,-78.9382
+VA,Virginia,Southampton,South,South Atlantic,36.5778,-77.1989
+VA,Virginia,Westmoreland,South,South Atlantic,38.2565,-76.9784
+VA,Virginia,Warren,South,South Atlantic,38.9231,-78.1033
+VA,Virginia,Rockingham,South,South Atlantic,38.4465,-78.9228
+VA,Virginia,Richmond,South,South Atlantic,37.9603,-76.761
+VA,Virginia,Colonial Heights,South,South Atlantic,37.265,-77.3969
+VA,Virginia,Caroline,South,South Atlantic,37.9856,-77.5244
+VA,Virginia,Bath,South,South Atlantic,38.0013,-79.8239
+VA,Virginia,Craig,South,South Atlantic,37.5013,-80.1119
+VA,Virginia,York,South,South Atlantic,37.2352,-76.5146
+VA,Virginia,Russell,South,South Atlantic,36.9792,-82.296
+VA,Virginia,Middlesex,South,South Atlantic,37.6395,-76.5747
+VA,Virginia,Culpeper,South,South Atlantic,38.4705,-78.0001
+VA,Virginia,Grayson,South,South Atlantic,36.7022,-81.4413
+VA,Virginia,Frederick,South,South Atlantic,39.0902,-78.223
+VA,Virginia,Charlotte,South,South Atlantic,36.9933,-78.6009
+VA,Virginia,Harrisonburg,South,South Atlantic,38.4362,-78.8735
+VA,Virginia,Rappahannock,South,South Atlantic,38.6562,-78.2322
+VA,Virginia,Scott,South,South Atlantic,36.6401,-82.5782
+VA,Virginia,Waynesboro,South,South Atlantic,38.0674,-78.9014
+VA,Virginia,Greensville,South,South Atlantic,36.816,-77.4689
+VA,Virginia,Prince Edward,South,South Atlantic,37.2959,-78.4002
+VA,Virginia,King George,South,South Atlantic,38.3282,-77.2423
+VA,Virginia,Newport News,South,South Atlantic,37.1051,-76.5185
+VA,Virginia,Surry,South,South Atlantic,37.1371,-76.8333
+VA,Virginia,Nottoway,South,South Atlantic,37.1812,-78.1307
+VA,Virginia,Manassas,South,South Atlantic,38.7479,-77.4838
+VA,Virginia,Falls Church,South,South Atlantic,38.8847,-77.1751
+VA,Virginia,Fluvanna,South,South Atlantic,37.8652,-78.2627
+VA,Virginia,Giles,South,South Atlantic,37.3315,-80.8083
+VA,Virginia,Patrick,South,South Atlantic,36.6344,-80.1985
+VA,Virginia,Page,South,South Atlantic,38.5769,-78.5027
+VA,Virginia,Madison,South,South Atlantic,38.3792,-78.2586
+VA,Virginia,Buena Vista,South,South Atlantic,37.7319,-79.3569
+VA,Virginia,Mathews,South,South Atlantic,37.4984,-76.2883
+VA,Virginia,Dickenson,South,South Atlantic,37.2151,-82.2931
+VA,Virginia,Buckingham,South,South Atlantic,37.5541,-78.5514
+VA,Virginia,Hanover,South,South Atlantic,37.7668,-77.3706
+VA,Virginia,Salem,South,South Atlantic,37.2864,-80.0555
+VA,Virginia,Orange,South,South Atlantic,38.136,-78.1879
+VA,Virginia,Goochland,South,South Atlantic,37.6973,-77.8944
+VA,Virginia,Norfolk,South,South Atlantic,36.8945,-76.259
+VA,Virginia,Alexandria,South,South Atlantic,38.8185,-77.0861
+VA,Virginia,Buchanan,South,South Atlantic,37.2754,-82.0988
+VA,Virginia,Lancaster,South,South Atlantic,37.6621,-76.4205
+VA,Virginia,Floyd,South,South Atlantic,36.9118,-80.3184
+VA,Virginia,Staunton,South,South Atlantic,38.1593,-79.0611
+VA,Virginia,Powhatan,South,South Atlantic,37.5427,-77.9267
+VA,Virginia,Charlottesville,South,South Atlantic,38.0375,-78.4855
+VA,Virginia,Charles City,South,South Atlantic,37.3441,-77.0687
+VA,Virginia,Bland,South,South Atlantic,37.1,-81.1161
+VA,Virginia,Poquoson,South,South Atlantic,37.1318,-76.3569
+VA,Virginia,Arlington,South,South Atlantic,38.8786,-77.1011
+VA,Virginia,Dinwiddie,South,South Atlantic,36.9853,-77.7219
+VA,Virginia,Amelia,South,South Atlantic,37.3366,-77.9882
+VA,Virginia,Gloucester,South,South Atlantic,37.2766,-76.5043
+VA,Virginia,Suffolk,South,South Atlantic,36.6953,-76.6398
+VA,Virginia,Fredericksburg,South,South Atlantic,38.2992,-77.4872
+VA,Virginia,Highland,South,South Atlantic,38.4116,-79.5809
+VA,Virginia,Hampton,South,South Atlantic,37.0551,-76.3629
+VA,Virginia,Essex,South,South Atlantic,37.9187,-76.8667
+VA,Virginia,Cumberland,South,South Atlantic,37.4914,-78.2577
+VA,Virginia,Martinsville,South,South Atlantic,36.6827,-79.8636
+VA,Virginia,Covington,South,South Atlantic,37.7785,-79.9868
+VA,Virginia,Williamsburg,South,South Atlantic,37.2692,-76.7076
+VA,Virginia,Petersburg,South,South Atlantic,37.2043,-77.3913
+VA,Virginia,Rockbridge,South,South Atlantic,37.9901,-79.5067
+VA,Virginia,Lynchburg,South,South Atlantic,37.4003,-79.1909
+VA,Virginia,Norton,South,South Atlantic,36.9314,-82.6262
+VA,Virginia,New Kent,South,South Atlantic,37.5095,-76.9862
+VA,Virginia,Manassas Park,South,South Atlantic,38.7718,-77.445
+VA,Virginia,Hopewell,South,South Atlantic,37.2915,-77.2985
+VA,Virginia,Bristol,South,South Atlantic,36.6179,-82.1607
+VA,Virginia,Virginia Beach,South,South Atlantic,36.7335,-76.0435
+VA,Virginia,Lexington,South,South Atlantic,37.7825,-79.444
+VA,Virginia,Winchester,South,South Atlantic,39.1735,-78.1746
+VA,Virginia,King and Queen,South,South Atlantic,37.6683,-76.8782
+VT,Vermont,Windham,Northeast,New England,43.1219,-72.4555
+VT,Vermont,Bennington,Northeast,New England,42.8848,-73.2143
+VT,Vermont,Chittenden,Northeast,New England,44.4877,-73.2314
+VT,Vermont,Windsor,Northeast,New England,43.33,-72.5262
+VT,Vermont,Orleans,Northeast,New England,44.9509,-72.3043
+VT,Vermont,Addison,Northeast,New England,44.1664,-73.2555
+VT,Vermont,Washington,Northeast,New England,44.1617,-72.4722
+VT,Vermont,Caledonia,Northeast,New England,44.6431,-71.9791
+VT,Vermont,Rutland,Northeast,New England,43.5181,-73.236
+VT,Vermont,Lamoille,Northeast,New England,44.6366,-72.6786
+VT,Vermont,Franklin,Northeast,New England,44.9083,-72.8029
+VT,Vermont,Orange,Northeast,New England,44.1538,-72.0617
+VT,Vermont,Essex,Northeast,New England,45.009,-71.4935
+WA,Washington,Pierce,West,Pacific,46.9994,-122.3921
+WA,Washington,Kittitas,West,Pacific,47.2507,-121.0989
+WA,Washington,Lincoln,West,Pacific,47.3048,-117.9713
+WA,Washington,Snohomish,West,Pacific,48.0639,-122.092
+WA,Washington,Thurston,West,Pacific,46.8537,-122.8607
+WA,Washington,Clallam,West,Pacific,48.1229,-123.0911
+WA,Washington,Ferry,West,Pacific,48.7311,-118.6663
+WA,Washington,Okanogan,West,Pacific,48.0536,-119.8994
+WA,Washington,Wahkiakum,West,Pacific,46.3076,-123.6344
+WA,Washington,Whatcom,West,Pacific,48.923,-122.7543
+WA,Washington,Kitsap,West,Pacific,47.5508,-122.6655
+WA,Washington,Whitman,West,Pacific,47.0887,-117.0464
+WA,Washington,Skagit,West,Pacific,48.4878,-122.6292
+WA,Washington,Spokane,West,Pacific,47.4513,-117.1307
+WA,Washington,Klickitat,West,Pacific,45.6599,-120.9698
+WA,Washington,Lewis,West,Pacific,46.7225,-122.9695
+WA,Washington,Cowlitz,West,Pacific,46.1796,-122.9577
+WA,Washington,Clark,West,Pacific,45.9122,-122.4795
+WA,Washington,Franklin,West,Pacific,46.5737,-119.0013
+WA,Washington,Grant,West,Pacific,47.1949,-119.3186
+WA,Washington,Stevens,West,Pacific,48.2929,-117.7336
+WA,Washington,Grays Harbor,West,Pacific,46.8304,-124.0898
+WA,Washington,Island,West,Pacific,48.1865,-122.4708
+WA,Washington,Skamania,West,Pacific,45.6425,-121.9689
+WA,Washington,Pend Oreille,West,Pacific,48.1788,-117.0545
+WA,Washington,Chelan,West,Pacific,47.5175,-120.4671
+WA,Washington,Yakima,West,Pacific,46.7026,-120.756
+WA,Washington,King,West,Pacific,47.4122,-122.4726
+WA,Washington,Douglas,West,Pacific,47.648,-120.0707
+WA,Washington,Mason,West,Pacific,47.3475,-123.0952
+WA,Washington,Asotin,West,Pacific,46.4152,-117.0502
+WA,Washington,Walla Walla,West,Pacific,46.1991,-118.9728
+WA,Washington,Jefferson,West,Pacific,47.9101,-122.7006
+WA,Washington,Benton,West,Pacific,46.2826,-119.2937
+WA,Washington,San Juan,West,Pacific,48.5324,-123.0655
+WA,Washington,Pacific,West,Pacific,46.6755,-123.6648
+WA,Washington,Adams,West,Pacific,46.7735,-118.8277
+WA,Washington,Columbia,West,Pacific,46.3168,-117.9769
+WA,Washington,Garfield,West,Pacific,46.4737,-117.5967
+WI,Wisconsin,Washburn,Midwest,East North Central,45.8445,-91.5502
+WI,Wisconsin,Buffalo,Midwest,East North Central,44.4214,-92.0044
+WI,Wisconsin,Grant,Midwest,East North Central,42.9793,-90.6491
+WI,Wisconsin,Waukesha,Midwest,East North Central,43.1229,-88.3838
+WI,Wisconsin,Jefferson,Midwest,East North Central,43.0165,-88.6999
+WI,Wisconsin,Racine,Midwest,East North Central,42.8088,-88.215
+WI,Wisconsin,Dodge,Midwest,East North Central,43.5271,-88.5615
+WI,Wisconsin,Juneau,Midwest,East North Central,43.6531,-90.2239
+WI,Wisconsin,Fond du Lac,Midwest,East North Central,43.8377,-88.3465
+WI,Wisconsin,Jackson,Midwest,East North Central,44.2981,-90.8419
+WI,Wisconsin,Outagamie,Midwest,East North Central,44.4449,-88.5768
+WI,Wisconsin,Oneida,Midwest,East North Central,45.8047,-89.1708
+WI,Wisconsin,Sheboygan,Midwest,East North Central,43.6766,-87.9478
+WI,Wisconsin,Shawano,Midwest,East North Central,45.0046,-89.0411
+WI,Wisconsin,Portage,Midwest,East North Central,44.2607,-89.4087
+WI,Wisconsin,Chippewa,Midwest,East North Central,45.1988,-91.5666
+WI,Wisconsin,Columbia,Midwest,East North Central,43.3154,-89.5367
+WI,Wisconsin,Trempealeau,Midwest,East North Central,44.3705,-91.3476
+WI,Wisconsin,Sauk,Midwest,East North Central,43.4814,-89.7719
+WI,Wisconsin,Forest,Midwest,East North Central,45.4394,-88.6581
+WI,Wisconsin,Walworth,Midwest,East North Central,42.8372,-88.734
+WI,Wisconsin,Manitowoc,Midwest,East North Central,44.1525,-87.9517
+WI,Wisconsin,Dane,Midwest,East North Central,43.054,-89.3334
+WI,Wisconsin,Pierce,Midwest,East North Central,44.8608,-92.6244
+WI,Wisconsin,Milwaukee,Midwest,East North Central,42.937,-88.0018
+WI,Wisconsin,Sawyer,Midwest,East North Central,45.7976,-91.3005
+WI,Wisconsin,Green Lake,Midwest,East North Central,43.9704,-88.9505
+WI,Wisconsin,Burnett,Midwest,East North Central,45.7813,-92.6836
+WI,Wisconsin,Oconto,Midwest,East North Central,45.3006,-88.5146
+WI,Wisconsin,Marathon,Midwest,East North Central,44.9615,-89.6457
+WI,Wisconsin,Vernon,Midwest,East North Central,43.6559,-90.3365
+WI,Wisconsin,Iowa,Midwest,East North Central,42.8419,-90.3961
+WI,Wisconsin,Crawford,Midwest,East North Central,43.3516,-91.0935
+WI,Wisconsin,Clark,Midwest,East North Central,44.5605,-90.5905
+WI,Wisconsin,Monroe,Midwest,East North Central,43.8132,-90.5268
+WI,Wisconsin,Dunn,Midwest,East North Central,44.8893,-91.9084
+WI,Wisconsin,Ashland,Midwest,East North Central,46.5986,-90.6618
+WI,Wisconsin,Wood,Midwest,East North Central,44.6057,-89.8549
+WI,Wisconsin,Bayfield,Midwest,East North Central,46.4354,-91.06
+WI,Wisconsin,Iron,Midwest,East North Central,46.4104,-90.2695
+WI,Wisconsin,Ozaukee,Midwest,East North Central,43.3847,-87.9439
+WI,Wisconsin,Waushara,Midwest,East North Central,44.1788,-89.2442
+WI,Wisconsin,Kenosha,Midwest,East North Central,42.5707,-88.1044
+WI,Wisconsin,Calumet,Midwest,East North Central,43.9491,-88.0942
+WI,Wisconsin,Marinette,Midwest,East North Central,45.0556,-87.7476
+WI,Wisconsin,Florence,Midwest,East North Central,45.8431,-88.6673
+WI,Wisconsin,Rusk,Midwest,East North Central,45.459,-91.2734
+WI,Wisconsin,St. Croix,Midwest,East North Central,44.9691,-92.4381
+WI,Wisconsin,Polk,Midwest,East North Central,45.7159,-92.3965
+WI,Wisconsin,Adams,Midwest,East North Central,44.0253,-89.8861
+WI,Wisconsin,Kewaunee,Midwest,East North Central,44.4607,-87.5133
+WI,Wisconsin,Barron,Midwest,East North Central,45.5353,-92.0269
+WI,Wisconsin,Waupaca,Midwest,East North Central,44.395,-88.7394
+WI,Wisconsin,Brown,Midwest,East North Central,44.317,-88.0972
+WI,Wisconsin,La Crosse,Midwest,East North Central,43.9075,-90.9165
+WI,Wisconsin,Price,Midwest,East North Central,45.5301,-90.5868
+WI,Wisconsin,Langlade,Midwest,East North Central,45.1415,-89.1556
+WI,Wisconsin,Menominee,Midwest,East North Central,44.9347,-88.7334
+WI,Wisconsin,Eau Claire,Midwest,East North Central,44.803,-91.4387
+WI,Wisconsin,Washington,Midwest,East North Central,43.4204,-88.3443
+WI,Wisconsin,Green,Midwest,East North Central,42.6168,-89.3756
+WI,Wisconsin,Winnebago,Midwest,East North Central,44.0391,-88.7378
+WI,Wisconsin,Rock,Midwest,East North Central,42.8386,-89.0698
+WI,Wisconsin,Door,Midwest,East North Central,45.0659,-87.133
+WI,Wisconsin,Richland,Midwest,East North Central,43.1857,-90.2012
+WI,Wisconsin,Marquette,Midwest,East North Central,43.7653,-89.4599
+WI,Wisconsin,Pepin,Midwest,East North Central,44.4852,-92.2633
+WI,Wisconsin,Lincoln,Midwest,East North Central,45.4746,-89.7228
+WI,Wisconsin,Douglas,Midwest,East North Central,46.2409,-91.7995
+WI,Wisconsin,Lafayette,Midwest,East North Central,42.5801,-90.0235
+WI,Wisconsin,Taylor,Midwest,East North Central,45.0772,-90.3143
+WI,Wisconsin,Vilas,Midwest,East North Central,45.991,-89.5332
+WV,West Virginia,Pocahontas,South,South Atlantic,38.4353,-79.8116
+WV,West Virginia,Logan,South,South Atlantic,37.688,-81.8737
+WV,West Virginia,Nicholas,South,South Atlantic,38.2865,-80.841
+WV,West Virginia,Preston,South,South Atlantic,39.3254,-79.5546
+WV,West Virginia,Wyoming,South,South Atlantic,37.6927,-81.6324
+WV,West Virginia,Kanawha,South,South Atlantic,38.4062,-81.481
+WV,West Virginia,McDowell,South,South Atlantic,37.4501,-81.7029
+WV,West Virginia,Putnam,South,South Atlantic,38.473,-81.8124
+WV,West Virginia,Barbour,South,South Atlantic,39.1487,-80.0417
+WV,West Virginia,Brooke,South,South Atlantic,40.2811,-80.6102
+WV,West Virginia,Marion,South,South Atlantic,39.5119,-80.2514
+WV,West Virginia,Jefferson,South,South Atlantic,39.3032,-77.981
+WV,West Virginia,Wood,South,South Atlantic,39.4,-81.4527
+WV,West Virginia,Lincoln,South,South Atlantic,38.2805,-82.1086
+WV,West Virginia,Harrison,South,South Atlantic,39.2044,-80.4034
+WV,West Virginia,Monongalia,South,South Atlantic,39.6471,-79.9974
+WV,West Virginia,Wirt,South,South Atlantic,39.0617,-81.3976
+WV,West Virginia,Tucker,South,South Atlantic,39.0814,-79.6455
+WV,West Virginia,Wayne,South,South Atlantic,38.4026,-82.5821
+WV,West Virginia,Doddridge,South,South Atlantic,39.2963,-80.7751
+WV,West Virginia,Ohio,South,South Atlantic,40.0483,-80.6229
+WV,West Virginia,Tyler,South,South Atlantic,39.4947,-80.907
+WV,West Virginia,Mason,South,South Atlantic,39.0183,-82.0314
+WV,West Virginia,Raleigh,South,South Atlantic,37.6095,-81.305
+WV,West Virginia,Berkeley,South,South Atlantic,39.3538,-78.0552
+WV,West Virginia,Wetzel,South,South Atlantic,39.5011,-80.5554
+WV,West Virginia,Cabell,South,South Atlantic,38.3243,-82.2172
+WV,West Virginia,Lewis,South,South Atlantic,39.11,-80.4085
+WV,West Virginia,Mingo,South,South Atlantic,37.7062,-82.2737
+WV,West Virginia,Boone,South,South Atlantic,37.9963,-81.8202
+WV,West Virginia,Ritchie,South,South Atlantic,39.2104,-81.0485
+WV,West Virginia,Mercer,South,South Atlantic,37.3688,-81.0961
+WV,West Virginia,Randolph,South,South Atlantic,38.7968,-79.8967
+WV,West Virginia,Fayette,South,South Atlantic,37.9504,-81.1666
+WV,West Virginia,Braxton,South,South Atlantic,38.8579,-80.6539
+WV,West Virginia,Monroe,South,South Atlantic,37.3991,-80.795
+WV,West Virginia,Hardy,South,South Atlantic,39.0674,-78.9624
+WV,West Virginia,Gilmer,South,South Atlantic,38.9379,-80.8339
+WV,West Virginia,Roane,South,South Atlantic,38.8025,-81.3531
+WV,West Virginia,Mineral,South,South Atlantic,39.6151,-78.7615
+WV,West Virginia,Pendleton,South,South Atlantic,38.6219,-79.2413
+WV,West Virginia,Morgan,South,South Atlantic,39.6247,-78.2275
+WV,West Virginia,Summers,South,South Atlantic,37.6652,-80.8828
+WV,West Virginia,Hampshire,South,South Atlantic,39.4449,-78.6977
+WV,West Virginia,Greenbrier,South,South Atlantic,37.7981,-80.3003
+WV,West Virginia,Calhoun,South,South Atlantic,38.9204,-81.0934
+WV,West Virginia,Jackson,South,South Atlantic,38.8201,-81.7091
+WV,West Virginia,Taylor,South,South Atlantic,39.2666,-80.1286
+WV,West Virginia,Webster,South,South Atlantic,38.411,-80.5542
+WV,West Virginia,Grant,South,South Atlantic,39.2711,-79.3662
+WV,West Virginia,Marshall,South,South Atlantic,40.0139,-80.7328
+WV,West Virginia,Clay,South,South Atlantic,38.4662,-81.0814
+WV,West Virginia,Pleasants,South,South Atlantic,39.3786,-81.2635
+WV,West Virginia,Hancock,South,South Atlantic,40.6179,-80.5999
+WV,West Virginia,Upshur,South,South Atlantic,38.9927,-80.2282
+WY,Wyoming,Platte,West,Mountain,42.0089,-104.9711
+WY,Wyoming,Goshen,West,Mountain,41.7852,-104.265
+WY,Wyoming,Albany,West,Mountain,41.3099,-105.6085
+WY,Wyoming,Uinta,West,Mountain,41.0273,-110.1536
+WY,Wyoming,Park,West,Mountain,44.5212,-109.055
+WY,Wyoming,Lincoln,West,Mountain,42.7279,-110.9314
+WY,Wyoming,Big Horn,West,Mountain,44.4471,-108.432
+WY,Wyoming,Natrona,West,Mountain,43.4114,-106.2771
+WY,Wyoming,Fremont,West,Mountain,43.0069,-108.9205
+WY,Wyoming,Sweetwater,West,Mountain,41.6698,-109.2714
+WY,Wyoming,Sublette,West,Mountain,42.8676,-109.8707
+WY,Wyoming,Crook,West,Mountain,44.3534,-104.8104
+WY,Wyoming,Teton,West,Mountain,43.7737,-111.0312
+WY,Wyoming,Converse,West,Mountain,42.8565,-105.8624
+WY,Wyoming,Niobrara,West,Mountain,42.6643,-104.0913
+WY,Wyoming,Weston,West,Mountain,43.9847,-104.4268
+WY,Wyoming,Carbon,West,Mountain,41.8995,-106.2017
+WY,Wyoming,Laramie,West,Mountain,41.1405,-104.7927
+WY,Wyoming,Sheridan,West,Mountain,44.9488,-107.3077
+WY,Wyoming,Hot Springs,West,Mountain,43.7819,-108.5679
+WY,Wyoming,Washakie,West,Mountain,44.0347,-107.448
+WY,Wyoming,Campbell,West,Mountain,44.2752,-105.4984
+WY,Wyoming,Johnson,West,Mountain,43.71,-106.6371
+,,,,,,
+,,,Region,Division,,
